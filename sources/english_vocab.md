@@ -1,74 +1,54 @@
 # 📘 영어 단어 정리
 
+## Words
+
 - nest egg: 노후 자금
 - severance: 단절
 - severance pay: 퇴직금
 - reassure: 완성시키다
 - asset allocation: 자산 배분
-
 - festive: 축제의
 - sprint: 전력 질주하다
 - convince: 납득시키다, 설득하다
-- on top of the world: 천하를 얻은 기분인
-
-- wear out: 닳다
 - stitch: 바느질
 - zigzag: 지그재그
 - thread: 실, 가닥, 꿰다
 - do-overs: 다시 하다
 - accomplishment: 업적, 공적, 완수, 성취감
 - craftspeople: 장인
-
 - one-way street: 일방통행
-- occurred to me: 문득 그런 생긱이 들다
 - detour: 우회하다
 - wander: 해매다, 거닐다
-
 - debate: 토론, 논쟁
-- in that way: 그런면에서는
 - flare: 끼, 타오르다
 - trait: 특성
-
 - immerse: 담그다, ~에 몰두하다
 - will: 의지
 - comfy: 편안한
 - well equipped: 잘 갖추어진
-
 - surprisingly: 놀랍도록
 - adopt: 채택하다, 입양하다
 - Wi-Fi-enabled: 와이파이 지원이 되는
 - lifestyle: 생활방식
 - setup: 세팅, 구성
 - convenience: 편의, 편의 시설
-
 - misuse: 남용, 오용, 오용하다
 - contact information: 연락처
-- get in touch with: ~와 연락하다
-
 - splurge: 돈을 물 쓰듯 쓰기
-- sense of family: 가족애
 - cherish: 간직하다
-- be torn between A and B: A와 B 중 어느 쪽을 선택할지 고민이다
 - thrill: 흥분, 설렘, 열광시키다
-- put ~ off: 미루다
 - doubles: 복식
 - anxious: 불안해하는, 염려하는
-- bells and whistles: 추가로 덧붙여진 것들
-- stay with: 남아 있다
 - compliment: 칭찬, 칭찬하다
 - playful: 장난기 있는
-- have an influence on: ~에 영향을 미치다
 - calm: 침착한
 - reserved: 내성적인, 과묵한
-- calm and reserved: 점잖은
-- take ~ with a grain of salt: 적당히 걸러 듣다
 - beef: 불평하다, 불평
 - plush: 부드럽고 푹신한
 - arcade: 게임센터
 - self-control: 절제력
 - snap: 끊어지다
 - desperately: 필사적으로, 절망적으로
-- burn through: 탕진하다
 - impulsively: 충독적으로, 즉흥적으로
 - jitters: 신경과민, 초조함
 - anti-cancer: 항암
@@ -77,7 +57,6 @@
 - rinse: 헹구다, 가볍게 씻다
 - pesticides: 농약
 - running water: 흐르는 물
-
 - noticeably: 뚜렷한, 현저한
 - mull: 실패, 혼란, 엉망으로 만들다, 숙고하다
 - sentimental: 감정적인, 정서적인
@@ -647,7 +626,6 @@
 - maternal: 어머니의, 외가쪽의
 - agricultural: 농업의
 - Buddhist: 불교
-- convince: 납득시키다, 설득하다
 - concerns: 걱정, 염려, 관심사
 - sharing: 분할
 - consideration: 사려, 숙고, 배려
@@ -684,7 +662,6 @@
 - detailed: 상세한
 - foster: 조성하다, 맡아 기르다
 - stray: 제 위치를 벗어나다, 빗나간
-- trait: 특성
 - adopt: 입양하다
 - consistently: 일관하여, 지속적으로
 - exposed: 드러내다, 노출시키다
@@ -758,7 +735,6 @@
 - broaden: 넓어지다, 퍼지다, 넓히다
 - firsthand: 직접, 직접 구입한
 - witness: 목격자, 목격하다
-- debate: 토론, 논쟁
 - inherent: 내재하는
 - odd: 이상한
 - accurate: 정확한, 정밀한
@@ -768,7 +744,6 @@
 - inspire: 영감을 주다, 불어넣다
 - dementia: 치매
 - regain: 되찾다, 되돌아오다
-- thread: 실, 가닥, 꿰다
 - scold: 야단치다, 꾸짖다
 - precious: 귀중한
 - awareness: 의식
@@ -1139,7 +1114,6 @@
 - conservative: 보수적인
 - monetization: 수익화
 - rapid: 빠른
-- anxious: 불안해하는, 염려하는
 - modest: 겸손한, 보통의, 수수한
 - jaw-dropping: 입이 떡벌어지는
 - cemented: 확고부동해진
@@ -1663,7 +1637,6 @@
 - audition: 오디션, 오디션을 보다
 - harmony: 조화, 화음
 - talented: 재능있는
-- immerse: 담그다, ~에 몰두하다
 - hone: 연마하다, 갈다
 - bestie: 친한 친구
 - separately: 따로따로
@@ -2215,3 +2188,23 @@
 - obtain: 얻다, 존재하다
 - hiccup: 딸국질
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
+
+## Phrasal Verbs
+
+- wear out: 닳다
+- stay with: 남아 있다
+- burn through: 탕진하다
+
+## Idioms
+
+- on top of the world: 천하를 얻은 기분인
+- occurred to me: 문득 그런 생긱이 들다
+- in that way: 그런면에서는
+- get in touch with: ~와 연락하다
+- sense of family: 가족애
+- be torn between A and B: A와 B 중 어느 쪽을 선택할지 고민이다
+- put ~ off: 미루다
+- bells and whistles: 추가로 덧붙여진 것들
+- have an influence on: ~에 영향을 미치다
+- calm and reserved: 점잖은
+- take ~ with a grain of salt: 적당히 걸러 듣다
