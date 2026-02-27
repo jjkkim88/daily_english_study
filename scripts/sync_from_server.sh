@@ -31,6 +31,14 @@ log_fail() {
 TODAY="$(kst_date)"
 HIST_EXPECT="$SRC_BASE/outputs/history/${TODAY}.json"
 
+# Record last sync attempt time (for UI)
+KST_NOW=$(TZ=Asia/Seoul date '+%F %T %Z')
+UTC_NOW=$(TZ=UTC date -Is)
+mkdir -p "$REPO_ROOT/data"
+cat > "$REPO_ROOT/data/last_sync.json" <<EOF
+{"kst":"$KST_NOW","utc":"$UTC_NOW"}
+EOF
+
 for attempt in 1 2 3; do
   if [[ -f "$HIST_EXPECT" ]]; then
     break

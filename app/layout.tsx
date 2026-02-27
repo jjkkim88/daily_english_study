@@ -1,6 +1,7 @@
 import type { ReactNode } from 'react';
 import Link from 'next/link';
 import './globals.css';
+import { readLastSyncLabel } from '../lib/fsdata';
 
 export const metadata = {
   title: 'Daily English Study',
@@ -18,7 +19,8 @@ function NavLink({ href, children }: { href: string; children: ReactNode }) {
   );
 }
 
-export default function RootLayout({ children }: { children: ReactNode }) {
+export default async function RootLayout({ children }: { children: ReactNode }) {
+  const lastSyncLabel = await readLastSyncLabel();
   return (
     <html lang="ko">
       <body>
@@ -26,7 +28,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           <div className="mx-auto flex max-w-6xl gap-4 px-4 py-4">
             <aside className="hidden w-64 shrink-0 rounded-2xl border border-slate-200 bg-white/70 p-4 backdrop-blur md:block">
               <div className="text-base font-extrabold tracking-tight">Daily English Study</div>
-              <div className="mt-1 text-xs text-slate-500">Read-only dashboard</div>
+              {/* read-only label removed */}
 
               <nav className="mt-4 flex flex-col gap-1">
                 <NavLink href="/">Today</NavLink>
@@ -34,9 +36,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
                 <NavLink href="/sources">Sources</NavLink>
               </nav>
 
-              <div className="mt-6 text-xs text-slate-500">
-                Tip: data sync runs daily at 23:57 (KST)
-              </div>
+              <div className="mt-6 text-xs text-slate-500">Last sync: {lastSyncLabel}</div>
             </aside>
 
             <main className="min-w-0 flex-1">

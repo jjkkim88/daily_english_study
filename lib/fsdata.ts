@@ -76,6 +76,16 @@ export async function readHistory(date: string): Promise<HistoryEntry | null> {
   return readJson<HistoryEntry>(path.join(dataDir, 'history', `${date}.json`));
 }
 
+export async function readLastSyncLabel(): Promise<string> {
+  try {
+    const raw = await fs.readFile(path.join(dataDir, 'last_sync.json'), 'utf-8');
+    const j = JSON.parse(raw) as { kst?: string; utc?: string };
+    return (j.kst || j.utc || '').trim() || 'unknown';
+  } catch {
+    return 'unknown';
+  }
+}
+
 export async function readSource(name: 'english_vocab.md' | 'english_sentences.md'): Promise<string> {
   try {
     return await fs.readFile(path.join(sourcesDir, name), 'utf-8');
