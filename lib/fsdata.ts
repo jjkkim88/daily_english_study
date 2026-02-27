@@ -59,6 +59,12 @@ export async function listHistoryDates(): Promise<string[]> {
   }
 }
 
+export async function readLatestHistory(): Promise<HistoryEntry | null> {
+  const dates = await listHistoryDates();
+  if (!dates.length) return null;
+  return readHistory(dates[0]);
+}
+
 export async function readHistory(date: string): Promise<HistoryEntry | null> {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
   return readJson<HistoryEntry>(path.join(dataDir, 'history', `${date}.json`));
