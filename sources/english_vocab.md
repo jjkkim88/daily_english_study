@@ -2,11 +2,8 @@
 
 ## Words
 
-- nest egg: 노후 자금
 - severance: 단절
-- severance pay: 퇴직금
 - reassure: 완성시키다
-- asset allocation: 자산 배분
 - festive: 축제의
 - sprint: 전력 질주하다
 - convince: 납득시키다, 설득하다
@@ -16,7 +13,6 @@
 - do-overs: 다시 하다
 - accomplishment: 업적, 공적, 완수, 성취감
 - craftspeople: 장인
-- one-way street: 일방통행
 - detour: 우회하다
 - wander: 해매다, 거닐다
 - debate: 토론, 논쟁
@@ -25,7 +21,6 @@
 - immerse: 담그다, ~에 몰두하다
 - will: 의지
 - comfy: 편안한
-- well equipped: 잘 갖추어진
 - surprisingly: 놀랍도록
 - adopt: 채택하다, 입양하다
 - Wi-Fi-enabled: 와이파이 지원이 되는
@@ -33,7 +28,6 @@
 - setup: 세팅, 구성
 - convenience: 편의, 편의 시설
 - misuse: 남용, 오용, 오용하다
-- contact information: 연락처
 - splurge: 돈을 물 쓰듯 쓰기
 - cherish: 간직하다
 - thrill: 흥분, 설렘, 열광시키다
@@ -56,7 +50,6 @@
 - hassle: 귀찮은 일, 번거로움
 - rinse: 헹구다, 가볍게 씻다
 - pesticides: 농약
-- running water: 흐르는 물
 - noticeably: 뚜렷한, 현저한
 - mull: 실패, 혼란, 엉망으로 만들다, 숙고하다
 - sentimental: 감정적인, 정서적인
@@ -2197,6 +2190,13 @@
 
 ## Idioms
 
+- nest egg: 노후 자금
+- severance pay: 퇴직금
+- asset allocation: 자산 배분
+- one-way street: 일방통행
+- well equipped: 잘 갖추어진
+- contact information: 연락처
+- running water: 흐르는 물
 - on top of the world: 천하를 얻은 기분인
 - occurred to me: 문득 그런 생긱이 들다
 - in that way: 그런면에서는
