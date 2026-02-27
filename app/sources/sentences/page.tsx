@@ -10,19 +10,19 @@ function PageNav({ base, page, totalPages }: { base: string; page: number; total
   return (
     <div className="mt-3 flex flex-wrap items-center gap-2">
       <Link href={`${base}?page=1`}>
-        <Button variant="secondary" size="sm">First</Button>
+        <Button variant="secondary" size="sm" className="h-8 px-3 text-xs">First</Button>
       </Link>
       <Link href={`${base}?page=${prev}`}>
-        <Button variant="secondary" size="sm">Prev</Button>
+        <Button variant="secondary" size="sm" className="h-8 px-3 text-xs">Prev</Button>
       </Link>
       <Badge variant="secondary">
         Page {page} / {totalPages}
       </Badge>
       <Link href={`${base}?page=${next}`}>
-        <Button variant="secondary" size="sm">Next</Button>
+        <Button variant="secondary" size="sm" className="h-8 px-3 text-xs">Next</Button>
       </Link>
       <Link href={`${base}?page=${totalPages}`}>
-        <Button variant="secondary" size="sm">Last</Button>
+        <Button variant="secondary" size="sm" className="h-8 px-3 text-xs">Last</Button>
       </Link>
     </div>
   );
