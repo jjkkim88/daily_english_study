@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-27",
+  "generatedAt": "2026-02-27T06:39:43.602478Z",
+  "vocab": [
+    "infestation: 우글거림",
+    "congressional: 의회의",
+    "nutritious: 양질의",
+    "blurry: 흐릿한, 모호한",
+    "proprietary: 독자적인, 소유자의"
+  ],
+  "sentences": [
+    "We argue here and there.",
+    "It is a bit of hassle to wash.",
+    "My son is not very athletic."
+  ],
+  "counts": {
+    "vocabPool": 2200,
+    "sentencePool": 243
+  }
+}
