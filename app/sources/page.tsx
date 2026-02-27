@@ -17,7 +17,7 @@ export default async function SourcesIndexPage() {
         </CardHeader>
         <CardContent className="flex flex-wrap gap-2">
           <Link href="/sources/vocab">
-            <Button>Vocab</Button>
+            <Button variant="secondary">Vocab</Button>
           </Link>
           <Link href="/sources/sentences">
             <Button variant="secondary">Sentences</Button>

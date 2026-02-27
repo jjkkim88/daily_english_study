@@ -9,15 +9,15 @@ function PageNav({ base, page, totalPages }: { base: string; page: number; total
   const next = Math.min(totalPages, page + 1);
   return (
     <div className="mt-3 flex flex-wrap items-center gap-2">
-      <Badge variant="secondary">
-        Page {page} / {totalPages}
-      </Badge>
       <Link href={`${base}?page=1`}>
         <Button variant="secondary" size="sm">First</Button>
       </Link>
       <Link href={`${base}?page=${prev}`}>
         <Button variant="secondary" size="sm">Prev</Button>
       </Link>
+      <Badge variant="secondary">
+        Page {page} / {totalPages}
+      </Badge>
       <Link href={`${base}?page=${next}`}>
         <Button variant="secondary" size="sm">Next</Button>
       </Link>
@@ -46,7 +46,7 @@ export default async function SentencesPage({
 
       <Card>
         <CardHeader>
-          <CardTitle>english_sentences.md</CardTitle>
+          <CardTitle>Sentence List</CardTitle>
           <CardDescription>{p.totalLines} lines total</CardDescription>
         </CardHeader>
         <CardContent>

@@ -83,7 +83,7 @@ export default async function HistoryDetail({ params }: { params: Promise<{ date
         </CardHeader>
         <CardContent>
           <details>
-            <summary className="cursor-pointer text-sm font-bold text-emerald-700">Show message</summary>
+            <summary className="cursor-pointer text-sm font-medium text-slate-700">Show message</summary>
             <pre className="mt-3 rounded-2xl border border-slate-200 bg-white p-4 text-sm">{msg}</pre>
           </details>
         </CardContent>
