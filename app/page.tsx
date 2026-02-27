@@ -4,9 +4,62 @@ function SectionHeader({ title }: { title: string }) {
   return <h2>{title}</h2>;
 }
 
+function toBulletLines(raw: string | undefined): string[] {
+  if (!raw) return [];
+  return raw
+    .split('\n')
+    .map((l) => l.trim())
+    .filter(Boolean)
+    .map((l) => (l.startsWith('- ') ? l : `- ${l}`));
+}
+
+function buildPushPreview(opts: {
+  date?: string;
+  deltaVocab?: string;
+  deltaSentences?: string;
+  studyVocab?: string[];
+  studySentences?: string[];
+}): string {
+  const date = (opts.date ?? '').trim();
+  const lines: string[] = [];
+
+  // Push header rule (Discord push only)
+  lines.push('[알림][오늘의영어]');
+  lines.push(date ? `오늘의 영어 공부 (${date})` : '오늘의 영어 공부');
+
+  // vocab
+  lines.push('');
+  lines.push('[오늘의 단어]');
+  lines.push(...toBulletLines(opts.deltaVocab));
+  for (const v of opts.studyVocab ?? []) {
+    const t = String(v).trim();
+    if (t) lines.push(`- ${t}`);
+  }
+
+  // sentences
+  lines.push('');
+  lines.push('[오늘의 문장]');
+  lines.push(...toBulletLines(opts.deltaSentences));
+  for (const s of opts.studySentences ?? []) {
+    const t = String(s).trim();
+    if (t) lines.push(`- ${t}`);
+  }
+
+  return lines.join('\n').trim();
+}
+
 export default async function Page() {
   const study = await readTodayStudy();
   const delta = await readTodayDelta();
+
+  const date = study?.date || delta?.date || '';
+  const pushPreview = buildPushPreview({
+    date,
+    deltaVocab: delta?.vocab,
+    deltaSentences: delta?.sentences,
+    studyVocab: study?.vocab,
+    studySentences: study?.sentences,
+  });
 
   return (
     <div>
@@ -59,8 +112,8 @@ export default async function Page() {
       </div>
 
       <div className="card" style={{ marginTop: 14 }}>
-        <h2>Push preview</h2>
-        <div className="muted">(Later: render the combined push message or show today’s history message after 23:55)</div>
+        <h2>Push preview (recomposed)</h2>
+        <pre className="pre">{pushPreview}</pre>
       </div>
     </div>
   );
