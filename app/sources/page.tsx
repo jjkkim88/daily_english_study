@@ -1,23 +1,29 @@
 import Link from 'next/link';
+import { Button } from '../../components/ui/button';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
 
 export default async function SourcesIndexPage() {
   return (
-    <div>
-      <h1 className="h1">Sources</h1>
-      <div className="card">
-        <h2>Choose</h2>
-        <ul className="list">
-          <li>
-            <Link href="/sources/vocab">Vocab (english_vocab.md)</Link>
-          </li>
-          <li>
-            <Link href="/sources/sentences">Sentences (english_sentences.md)</Link>
-          </li>
-        </ul>
-        <div className="muted" style={{ marginTop: 10 }}>
-          Paging: 50 lines per page
-        </div>
+    <div className="space-y-4">
+      <div>
+        <div className="text-2xl font-extrabold tracking-tight">Sources</div>
+        <div className="text-sm text-slate-500">Reference lists used for today_study pick</div>
       </div>
+
+      <Card>
+        <CardHeader>
+          <CardTitle>Choose a list</CardTitle>
+          <CardDescription>Paging: 50 lines per page</CardDescription>
+        </CardHeader>
+        <CardContent className="flex flex-wrap gap-2">
+          <Link href="/sources/vocab">
+            <Button>Vocab</Button>
+          </Link>
+          <Link href="/sources/sentences">
+            <Button variant="secondary">Sentences</Button>
+          </Link>
+        </CardContent>
+      </Card>
     </div>
   );
 }
