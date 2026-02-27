@@ -45,6 +45,8 @@ function buildPushPreview(opts: {
 }
 
 export default async function Page() {
+  // UI policy: hide raw today_study/today_delta cards.
+  // We still use them temporarily to render a recomposed preview when needed.
   const study = await readTodayStudy();
   const delta = await readTodayDelta();
 
@@ -70,74 +72,7 @@ export default async function Page() {
         </div>
       </div>
 
-      <div className="grid gap-4 md:grid-cols-2">
-        <Card>
-          <CardHeader>
-            <div className="flex items-center gap-2">
-              <BookOpen className="h-4 w-4 text-emerald-600" />
-              <CardTitle>today_study</CardTitle>
-              <Badge className="ml-auto" variant="outline">
-                vocab {study?.vocab?.length ?? 0} · sentences {study?.sentences?.length ?? 0}
-              </Badge>
-            </div>
-            <CardDescription>Deterministic pick per KST date</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <div className="grid gap-4 sm:grid-cols-2">
-              <div>
-                <div className="mb-2 text-sm font-bold">Vocab</div>
-                <ul className="list-disc space-y-1 pl-5 text-sm">
-                  {(study?.vocab ?? []).map((v) => (
-                    <li key={v}>{v}</li>
-                  ))}
-                </ul>
-              </div>
-              <div>
-                <div className="mb-2 text-sm font-bold">Sentences</div>
-                <ul className="list-disc space-y-1 pl-5 text-sm">
-                  {(study?.sentences ?? []).map((s) => (
-                    <li key={s}>{s}</li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardHeader>
-            <div className="flex items-center gap-2">
-              <Sparkles className="h-4 w-4 text-sky-600" />
-              <CardTitle>today_delta</CardTitle>
-              <Badge className="ml-auto" variant="outline">
-                {delta?.date ?? '-'}
-              </Badge>
-            </div>
-            <CardDescription>Fetched from IBI source</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <div className="space-y-2">
-              <div className="text-sm font-extrabold">{delta?.title ?? '-'}</div>
-              {delta?.link ? (
-                <a className="text-sm" href={delta.link} target="_blank" rel="noreferrer">
-                  {delta.link}
-                </a>
-              ) : null}
-
-              <div className="grid gap-3 sm:grid-cols-2">
-                <div>
-                  <div className="mb-1 text-xs font-bold uppercase tracking-wide text-slate-500">vocab</div>
-                  <pre className="rounded-xl border border-slate-200 bg-slate-50 p-3 text-xs">{delta?.vocab ?? ''}</pre>
-                </div>
-                <div>
-                  <div className="mb-1 text-xs font-bold uppercase tracking-wide text-slate-500">sentences</div>
-                  <pre className="rounded-xl border border-slate-200 bg-slate-50 p-3 text-xs">{delta?.sentences ?? ''}</pre>
-                </div>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
-      </div>
+      {/* Raw today_study/today_delta cards intentionally hidden. */}
 
       <Card>
         <CardHeader>
