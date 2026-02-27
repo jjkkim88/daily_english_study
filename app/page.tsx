@@ -80,15 +80,18 @@ export default async function Page() {
       <div className="flex flex-wrap items-center justify-between gap-2">
         <div>
           <div className="text-2xl font-extrabold tracking-tight">Today</div>
-          <div className="text-sm text-slate-500">Derived from the official push snapshot</div>
+          <div className="text-sm text-slate-500">Learning English vocabulary and sentence</div>
         </div>
         <div className="flex flex-wrap gap-2">
           <Badge variant="default">{date || 'no-date'}</Badge>
-          {sourceHistory?.message ? (
-            <Badge variant="secondary">from history</Badge>
-          ) : (
-            <Badge variant="secondary">fallback</Badge>
-          )}
+          {(() => {
+            const url = sourceHistory?.today_delta?.link || delta?.link || '';
+            return url ? (
+              <a href={url} target="_blank" rel="noreferrer">
+                <Badge variant="secondary">study material</Badge>
+              </a>
+            ) : null;
+          })()}
         </div>
       </div>
 
@@ -100,7 +103,7 @@ export default async function Page() {
               <CardTitle>Today’s Vocab</CardTitle>
               <Badge className="ml-auto" variant="outline">{parsed.vocab.length}</Badge>
             </div>
-            <CardDescription>[오늘의 단어] section from push</CardDescription>
+            <CardDescription>[오늘의 단어]</CardDescription>
           </CardHeader>
           <CardContent>
             <ul className="list-disc space-y-1 pl-5 text-sm">
@@ -118,7 +121,7 @@ export default async function Page() {
               <CardTitle>Today’s Sentence</CardTitle>
               <Badge className="ml-auto" variant="outline">{parsed.sentences.length}</Badge>
             </div>
-            <CardDescription>[오늘의 문장] section from push</CardDescription>
+            <CardDescription>[오늘의 문장]</CardDescription>
           </CardHeader>
           <CardContent>
             <ul className="list-disc space-y-1 pl-5 text-sm">
@@ -137,7 +140,7 @@ export default async function Page() {
         </CardHeader>
         <CardContent>
           <details>
-            <summary className="cursor-pointer text-sm font-bold text-emerald-700">Show message</summary>
+            <summary className="cursor-pointer text-sm font-medium text-slate-700">Show message</summary>
             <pre className="mt-3 rounded-2xl border border-slate-200 bg-white p-4 text-sm">{fullText}</pre>
           </details>
         </CardContent>

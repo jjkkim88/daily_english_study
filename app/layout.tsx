@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import Image from 'next/image';
 import Link from 'next/link';
 import './globals.css';
 import { readLastSyncLabel } from '../lib/fsdata';
@@ -27,8 +28,10 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
         <div className="min-h-screen bg-[radial-gradient(900px_500px_at_10%_0%,rgba(34,197,94,0.22),transparent_60%),radial-gradient(900px_500px_at_85%_10%,rgba(96,165,250,0.18),transparent_60%)] bg-slate-50">
           <div className="mx-auto flex max-w-6xl gap-4 px-4 py-4">
             <aside className="hidden w-64 shrink-0 rounded-2xl border border-slate-200 bg-white/70 p-4 backdrop-blur md:block">
-              <div className="text-base font-extrabold tracking-tight">Daily English Study</div>
-              {/* read-only label removed */}
+              <div className="flex items-center gap-3">
+                <Image src="/logo.png" alt="Daily English Study" width={44} height={44} className="rounded-2xl" />
+                <div className="text-base font-extrabold tracking-tight">Daily English Study</div>
+              </div>
 
               <nav className="mt-4 flex flex-col gap-1">
                 <NavLink href="/">Today</NavLink>
@@ -41,7 +44,10 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
 
             <main className="min-w-0 flex-1">
               <div className="mb-3 flex items-center justify-between rounded-2xl border border-slate-200 bg-white/70 px-4 py-3 backdrop-blur md:hidden">
-                <div className="text-sm font-extrabold tracking-tight">Daily English Study</div>
+                <div className="flex items-center gap-2">
+                  <Image src="/logo.png" alt="Daily English Study" width={28} height={28} className="rounded-xl" />
+                  <div className="text-sm font-extrabold tracking-tight">Daily English Study</div>
+                </div>
                 <div className="flex gap-1">
                   <NavLink href="/">Today</NavLink>
                   <NavLink href="/history">History</NavLink>
