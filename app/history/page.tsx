@@ -65,7 +65,7 @@ export default async function HistoryPage({
       <div className="grid gap-4 md:grid-cols-12">
         <Card className="md:col-span-5">
           <CardHeader>
-            <CardTitle>Browse</CardTitle>
+            <CardTitle>Year</CardTitle>
             <CardDescription>Select a month</CardDescription>
           </CardHeader>
           <CardContent className="space-y-3">
@@ -75,7 +75,7 @@ export default async function HistoryPage({
                 open={yg.year === new Date().getFullYear().toString()}
                 className="rounded-2xl border border-slate-200 bg-white/60 p-3"
               >
-                <summary className="cursor-pointer text-sm font-extrabold text-slate-900">{yg.year}</summary>
+                <summary className="cursor-pointer text-sm font-medium text-slate-900">{yg.year}</summary>
                 <div className="mt-3 flex flex-wrap gap-2">
                   {yg.months.map((m) => (
                     <Link key={m} href={`/history?month=${m}`}>
@@ -100,7 +100,7 @@ export default async function HistoryPage({
               {monthMeta.map((row) => (
                 <div key={row.date} className="flex flex-wrap items-center justify-between gap-2 py-3">
                   <div className="min-w-0">
-                    <Link className="text-sm font-extrabold text-slate-900 hover:underline" href={`/history/${row.date}`}>
+                    <Link className="text-sm font-medium text-slate-900 hover:underline" href={`/history/${row.date}`}>
                       {row.date}
                     </Link>
                     <div className="text-xs text-slate-500">
