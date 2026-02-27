@@ -65,6 +65,12 @@ export async function readLatestHistory(): Promise<HistoryEntry | null> {
   return readHistory(dates[0]);
 }
 
+export function kstDateString(d = new Date()): string {
+  // KST is UTC+9 with no DST.
+  const kst = new Date(d.getTime() + 9 * 60 * 60 * 1000);
+  return kst.toISOString().slice(0, 10);
+}
+
 export async function readHistory(date: string): Promise<HistoryEntry | null> {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
   return readJson<HistoryEntry>(path.join(dataDir, 'history', `${date}.json`));

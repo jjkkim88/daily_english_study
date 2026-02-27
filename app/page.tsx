@@ -1,5 +1,5 @@
 import { BookOpen, Quote } from 'lucide-react';
-import { readLatestHistory, readTodayDelta, readTodayStudy } from '../lib/fsdata';
+import { kstDateString, readHistory, readLatestHistory, readTodayDelta, readTodayStudy } from '../lib/fsdata';
 import { Badge } from '../components/ui/badge';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
 
@@ -73,18 +73,23 @@ function parsePushMessage(text: string): { vocab: string[]; sentences: string[] 
 }
 
 export default async function Page() {
-  // Phase2: Today is derived from the "official" push snapshot.
-  // Preferred source: latest history.message (created by archive_daily.py).
-  const latest = await readLatestHistory();
+  // Phase3/4: Today is derived from the official push snapshot.
+  // Preferred source: *today's* history entry (KST date) created by archive_daily.py.
+  // Fallbacks: latest history (if today's missing) → recomposed from today_study + today_delta.
+  const todayKst = kstDateString();
+  const todayHistory = await readHistory(todayKst);
+  const latest = todayHistory?.message ? null : await readLatestHistory();
 
-  // Fallback (before history exists): recomposed from today_study + today_delta.
+  const sourceHistory = todayHistory?.message ? todayHistory : latest;
+
+  // Fallback (only if no history exists yet)
   const study = await readTodayStudy();
   const delta = await readTodayDelta();
 
-  const date = latest?.date || study?.date || delta?.date || '';
+  const date = sourceHistory?.date || todayKst || study?.date || delta?.date || '';
 
-  const fullText = (latest?.message || '').trim()
-    ? String(latest?.message)
+  const fullText = (sourceHistory?.message || '').trim()
+    ? String(sourceHistory?.message)
     : buildPushPreview({
         date,
         deltaVocab: delta?.vocab,
@@ -104,7 +109,11 @@ export default async function Page() {
         </div>
         <div className="flex flex-wrap gap-2">
           <Badge variant="default">{date || 'no-date'}</Badge>
-          {latest?.message ? <Badge variant="secondary">from history</Badge> : <Badge variant="secondary">fallback</Badge>}
+          {sourceHistory?.message ? (
+            <Badge variant="secondary">from history</Badge>
+          ) : (
+            <Badge variant="secondary">fallback</Badge>
+          )}
         </div>
       </div>
 
