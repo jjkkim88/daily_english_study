@@ -22,7 +22,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="ko">
       <body>
-        <div className="min-h-screen bg-gradient-to-b from-emerald-50/70 to-slate-50">
+        <div className="min-h-screen bg-[radial-gradient(900px_500px_at_10%_0%,rgba(34,197,94,0.22),transparent_60%),radial-gradient(900px_500px_at_85%_10%,rgba(96,165,250,0.18),transparent_60%)] bg-slate-50">
           <div className="mx-auto flex max-w-6xl gap-4 px-4 py-4">
             <aside className="hidden w-64 shrink-0 rounded-2xl border border-slate-200 bg-white/70 p-4 backdrop-blur md:block">
               <div className="text-base font-extrabold tracking-tight">Daily English Study</div>
