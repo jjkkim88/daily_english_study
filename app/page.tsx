@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { BookOpen, Quote } from 'lucide-react';
 import { kstDateString, readHistory, readLatestHistory, readTodayDelta, readTodayStudy } from '../lib/fsdata';
 import { parsePushMessage } from '../lib/push';
@@ -79,8 +80,12 @@ export default async function Page() {
     <div className="space-y-4">
       <div className="flex flex-wrap items-center justify-between gap-2">
         <div>
-          <div className="text-2xl font-extrabold tracking-tight">Today</div>
-          <div className="text-sm text-slate-500">Learning English vocabulary and sentence</div>
+          <div className="flex items-center gap-2">
+            <Image src="/logo.png" alt="Daily English Study" width={18} height={18} className="rounded-lg opacity-80" />
+            <div className="text-xs font-medium text-slate-500">Learning English</div>
+          </div>
+          <div className="text-2xl font-extrabold tracking-tight">Today’s Study</div>
+          <div className="text-sm text-slate-500">Learning English vocabulary and sentences for a better tomorrow</div>
         </div>
         <div className="flex flex-wrap gap-2">
           <Badge variant="default">{date || 'no-date'}</Badge>
