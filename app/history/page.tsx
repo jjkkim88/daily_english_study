@@ -2,18 +2,30 @@ import Link from 'next/link';
 import { listHistoryDates } from '../../lib/fsdata';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
 import { Button } from '../../components/ui/button';
-import { groupByMonth } from './grouped';
+import { defaultSelectedMonth, groupByYearMonth, monthKey } from './grouped';
 
-export default async function HistoryPage() {
+export default async function HistoryPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ month?: string }>;
+}) {
+  const sp = await searchParams;
   const dates = await listHistoryDates();
+
   const latest = dates.slice(0, 7);
-  const groups = groupByMonth(dates);
+  const groups = groupByYearMonth(dates);
+
+  const selectedMonth =
+    (sp.month && /^\d{4}-\d{2}$/.test(sp.month) ? sp.month : '') ||
+    defaultSelectedMonth(dates);
+
+  const monthDates = dates.filter((d) => monthKey(d) === selectedMonth);
 
   return (
     <div className="space-y-4">
       <div>
         <div className="text-2xl font-extrabold tracking-tight">History</div>
-        <div className="text-sm text-slate-500">Latest 7 days + monthly groups</div>
+        <div className="text-sm text-slate-500">Latest 7 days + Year/Month navigator</div>
       </div>
 
       <Card>
@@ -25,7 +37,9 @@ export default async function HistoryPage() {
           <div className="flex flex-wrap gap-2">
             {latest.map((d) => (
               <Link key={d} href={`/history/${d}`}>
-                <Button variant="secondary" size="sm">{d}</Button>
+                <Button variant="secondary" size="sm">
+                  {d}
+                </Button>
               </Link>
             ))}
             {latest.length === 0 ? <div className="text-sm text-slate-500">No history yet.</div> : null}
@@ -33,27 +47,51 @@ export default async function HistoryPage() {
         </CardContent>
       </Card>
 
-      <div className="space-y-3">
-        {groups.map((g) => (
-          <Card key={g.key}>
-            <CardHeader>
-              <CardTitle>{g.label}</CardTitle>
-              <CardDescription>{g.dates.length} entries</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <details>
-                <summary className="cursor-pointer text-sm font-bold text-emerald-700">Toggle</summary>
+      <div className="grid gap-4 md:grid-cols-12">
+        <Card className="md:col-span-5">
+          <CardHeader>
+            <CardTitle>Browse</CardTitle>
+            <CardDescription>Select a month</CardDescription>
+          </CardHeader>
+          <CardContent className="space-y-3">
+            {groups.map((yg) => (
+              <details key={yg.year} open className="rounded-2xl border border-slate-200 bg-white/60 p-3">
+                <summary className="cursor-pointer text-sm font-extrabold text-slate-900">{yg.year}</summary>
                 <div className="mt-3 flex flex-wrap gap-2">
-                  {g.dates.map((d) => (
-                    <Link key={d} href={`/history/${d}`}>
-                      <Button variant="secondary" size="sm">{d}</Button>
+                  {yg.months.map((m) => (
+                    <Link key={m} href={`/history?month=${m}`}>
+                      <Button variant={m === selectedMonth ? 'default' : 'secondary'} size="sm">
+                        {m}
+                      </Button>
                     </Link>
                   ))}
                 </div>
               </details>
-            </CardContent>
-          </Card>
-        ))}
+            ))}
+          </CardContent>
+        </Card>
+
+        <Card className="md:col-span-7">
+          <CardHeader>
+            <CardTitle>{selectedMonth || 'Month'}</CardTitle>
+            <CardDescription>{monthDates.length} entries</CardDescription>
+          </CardHeader>
+          <CardContent>
+            <div className="divide-y divide-slate-200">
+              {monthDates.map((d) => (
+                <div key={d} className="flex items-center justify-between py-3">
+                  <Link className="text-sm font-extrabold text-slate-900 hover:underline" href={`/history/${d}`}>
+                    {d}
+                  </Link>
+                  <Link href={`/history/${d}`}>
+                    <Button variant="outline" size="sm">Open</Button>
+                  </Link>
+                </div>
+              ))}
+              {monthDates.length === 0 ? <div className="py-3 text-sm text-slate-500">No entries.</div> : null}
+            </div>
+          </CardContent>
+        </Card>
       </div>
     </div>
   );
