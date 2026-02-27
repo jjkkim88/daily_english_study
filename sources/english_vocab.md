@@ -2187,6 +2187,7 @@
 - wear out: 닳다
 - stay with: 남아 있다
 - burn through: 탕진하다
+- put ~ off: 미루다
 
 ## Idioms
 
@@ -2203,7 +2204,6 @@
 - get in touch with: ~와 연락하다
 - sense of family: 가족애
 - be torn between A and B: A와 B 중 어느 쪽을 선택할지 고민이다
-- put ~ off: 미루다
 - bells and whistles: 추가로 덧붙여진 것들
 - have an influence on: ~에 영향을 미치다
 - calm and reserved: 점잖은
