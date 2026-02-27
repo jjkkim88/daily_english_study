@@ -1,21 +1,22 @@
-import { readSource } from '../../lib/fsdata';
+import Link from 'next/link';
 
-export default async function SourcesPage() {
-  const vocab = await readSource('english_vocab.md');
-  const sentences = await readSource('english_sentences.md');
-
+export default async function SourcesIndexPage() {
   return (
     <div>
       <h1 className="h1">Sources</h1>
-
       <div className="card">
-        <h2>english_vocab.md</h2>
-        <pre className="pre">{vocab}</pre>
-      </div>
-
-      <div className="card" style={{ marginTop: 14 }}>
-        <h2>english_sentences.md</h2>
-        <pre className="pre">{sentences}</pre>
+        <h2>Choose</h2>
+        <ul className="list">
+          <li>
+            <Link href="/sources/vocab">Vocab (english_vocab.md)</Link>
+          </li>
+          <li>
+            <Link href="/sources/sentences">Sentences (english_sentences.md)</Link>
+          </li>
+        </ul>
+        <div className="muted" style={{ marginTop: 10 }}>
+          Paging: 50 lines per page
+        </div>
       </div>
     </div>
   );

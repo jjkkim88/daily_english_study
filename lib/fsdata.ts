@@ -71,3 +71,27 @@ export async function readSource(name: 'english_vocab.md' | 'english_sentences.m
     return '';
   }
 }
+
+export type PagedText = {
+  page: number;
+  pageSize: number;
+  totalLines: number;
+  totalPages: number;
+  lines: string[];
+};
+
+export async function readSourcePaged(
+  name: 'english_vocab.md' | 'english_sentences.md',
+  page: number,
+  pageSize = 50
+): Promise<PagedText> {
+  const raw = await readSource(name);
+  const allLines = raw ? raw.split(/\r?\n/) : [];
+  const totalLines = allLines.length;
+  const totalPages = Math.max(1, Math.ceil(totalLines / pageSize));
+  const safePage = Math.min(Math.max(1, Number.isFinite(page) ? page : 1), totalPages);
+  const start = (safePage - 1) * pageSize;
+  const end = start + pageSize;
+  const lines = allLines.slice(start, end);
+  return { page: safePage, pageSize, totalLines, totalPages, lines };
+}
