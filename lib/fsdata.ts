@@ -94,6 +94,71 @@ export async function readSource(name: 'english_vocab.md' | 'english_sentences.m
   }
 }
 
+export type VocabSectionKey = 'words' | 'phrasal' | 'idioms' | 'all';
+
+export type PagedItems = {
+  page: number;
+  pageSize: number;
+  totalItems: number;
+  totalPages: number;
+  items: string[];
+};
+
+function sectionKeyFromHeading(h: string): VocabSectionKey | null {
+  const t = h.trim().toLowerCase();
+  if (t === 'words') return 'words';
+  if (t === 'phrasal verbs') return 'phrasal';
+  if (t === 'idioms') return 'idioms';
+  return null;
+}
+
+export async function readVocabSectionPaged(
+  section: VocabSectionKey,
+  page: number,
+  pageSize = 50
+): Promise<PagedItems> {
+  const raw = await readSource('english_vocab.md');
+  const lines = raw ? raw.split(/\r?\n/) : [];
+
+  let cur: VocabSectionKey | null = null;
+  const buckets: Record<'words' | 'phrasal' | 'idioms', string[]> = {
+    words: [],
+    phrasal: [],
+    idioms: [],
+  };
+
+  for (const line of lines) {
+    const s = line.trim();
+    if (s.startsWith('## ')) {
+      cur = sectionKeyFromHeading(s.slice(3)) as VocabSectionKey | null;
+      continue;
+    }
+    if (!s.startsWith('- ')) continue;
+    const val = s.slice(2).trim();
+    if (!val) continue;
+    if (!cur) {
+      // Back-compat: bullets before any section headings are treated as words.
+      buckets.words.push(val);
+      continue;
+    }
+    if (cur === 'words' || cur === 'phrasal' || cur === 'idioms') {
+      buckets[cur].push(val);
+    }
+  }
+
+  const all = [...buckets.words, ...buckets.phrasal, ...buckets.idioms];
+  const chosen = section === 'all' ? all : buckets[section];
+
+  const totalItems = chosen.length;
+  const totalPages = Math.max(1, Math.ceil(totalItems / pageSize));
+  const safePage = Math.min(Math.max(1, Number.isFinite(page) ? page : 1), totalPages);
+  const start = (safePage - 1) * pageSize;
+  const end = start + pageSize;
+  const items = chosen.slice(start, end);
+
+  return { page: safePage, pageSize, totalItems, totalPages, items };
+}
+
 export type PagedText = {
   page: number;
   pageSize: number;
