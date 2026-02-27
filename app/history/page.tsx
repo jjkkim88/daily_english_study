@@ -3,6 +3,8 @@ import { listHistoryDates } from '../../lib/fsdata';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
 import { Button } from '../../components/ui/button';
 import { defaultSelectedMonth, groupByYearMonth, monthKey } from './grouped';
+import { readHistory } from '../../lib/fsdata';
+import { parsePushMessage } from '../../lib/push';
 
 export default async function HistoryPage({
   searchParams,
@@ -20,6 +22,19 @@ export default async function HistoryPage({
     defaultSelectedMonth(dates);
 
   const monthDates = dates.filter((d) => monthKey(d) === selectedMonth);
+
+  const monthMeta = await Promise.all(
+    monthDates.map(async (d) => {
+      const entry = await readHistory(d);
+      const msg = String(entry?.message ?? '');
+      const parsed = parsePushMessage(msg);
+      return {
+        date: d,
+        vocabCount: parsed.vocab.length,
+        sentenceCount: parsed.sentences.length,
+      };
+    })
+  );
 
   return (
     <div className="space-y-4">
@@ -55,12 +70,16 @@ export default async function HistoryPage({
           </CardHeader>
           <CardContent className="space-y-3">
             {groups.map((yg) => (
-              <details key={yg.year} open className="rounded-2xl border border-slate-200 bg-white/60 p-3">
+              <details
+                key={yg.year}
+                open={yg.year === new Date().getFullYear().toString()}
+                className="rounded-2xl border border-slate-200 bg-white/60 p-3"
+              >
                 <summary className="cursor-pointer text-sm font-extrabold text-slate-900">{yg.year}</summary>
                 <div className="mt-3 flex flex-wrap gap-2">
                   {yg.months.map((m) => (
                     <Link key={m} href={`/history?month=${m}`}>
-                      <Button variant={m === selectedMonth ? 'default' : 'secondary'} size="sm">
+                      <Button variant={m === selectedMonth ? 'outline' : 'secondary'} size="sm">
                         {m}
                       </Button>
                     </Link>
@@ -78,12 +97,17 @@ export default async function HistoryPage({
           </CardHeader>
           <CardContent>
             <div className="divide-y divide-slate-200">
-              {monthDates.map((d) => (
-                <div key={d} className="flex items-center justify-between py-3">
-                  <Link className="text-sm font-extrabold text-slate-900 hover:underline" href={`/history/${d}`}>
-                    {d}
-                  </Link>
-                  <Link href={`/history/${d}`}>
+              {monthMeta.map((row) => (
+                <div key={row.date} className="flex flex-wrap items-center justify-between gap-2 py-3">
+                  <div className="min-w-0">
+                    <Link className="text-sm font-extrabold text-slate-900 hover:underline" href={`/history/${row.date}`}>
+                      {row.date}
+                    </Link>
+                    <div className="text-xs text-slate-500">
+                      vocab {row.vocabCount} · sentences {row.sentenceCount}
+                    </div>
+                  </div>
+                  <Link href={`/history/${row.date}`}>
                     <Button variant="outline" size="sm">Open</Button>
                   </Link>
                 </div>
