@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I always dreamed of having a place of my own.
+- I won an apartment lottery after 22 years.
+- I burst into tears.
+
 - I was not completely sure about it at first.
 - I've learned the earlier you start, the better.
 

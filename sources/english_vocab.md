@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- persuade: 설득하다
+- struggle: 투쟁하다, 몸부림치다
+- clutter: 채우다, 잡동사니
 
 - severance: 단절
 - reassure: 완성시키다
@@ -2190,6 +2193,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- lump-sum lease: 전세
 
 - nest egg: 노후 자금
 - severance pay: 퇴직금
