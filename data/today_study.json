@@ -1,20 +1,20 @@
 {
-  "date": "2026-02-28",
-  "generatedAt": "2026-02-27T15:47:15.718669Z",
+  "date": "2026-03-01",
+  "generatedAt": "2026-02-28T15:00:07.105676Z",
   "vocab": [
-    "consciousness: 의식, 자각",
-    "sheer: 순전한, 순수한",
-    "oral: 구두, 입의",
-    "handful: 한 줌, 소량, 다루기 힘든",
-    "reincarnate: 환생하다"
+    "tendency: 성향, 기질, 동향",
+    "depressed: 우울한, 활기가 없는",
+    "proverb: 속담",
+    "cooperative: 협조하는, 협력하는",
+    "advocate: 지지하다, 옹호자, 변호사"
   ],
   "sentences": [
-    "My daughter and her family of four returned to Korea after living in the US for two years.",
-    "I can't run as often as before now that it is getting cold.",
-    "Lately, I have been upset with him and found myself acting cold toward him."
+    "Everything is face-paced.",
+    "My heart broke for her.",
+    "In the beginning, just getting my form right was really hard."
   ],
   "counts": {
-    "vocabPool": 2200,
-    "sentencePool": 243
+    "vocabPool": 2203,
+    "sentencePool": 246
   }
 }
