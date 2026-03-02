@@ -1,17 +1,17 @@
 {
-  "date": "2026-03-01",
-  "generatedAt": "2026-02-28T15:00:07.105676Z",
+  "date": "2026-03-02",
+  "generatedAt": "2026-03-01T15:00:05.527175Z",
   "vocab": [
-    "tendency: 성향, 기질, 동향",
-    "depressed: 우울한, 활기가 없는",
-    "proverb: 속담",
-    "cooperative: 협조하는, 협력하는",
-    "advocate: 지지하다, 옹호자, 변호사"
+    "severe: 극심한, 가혹한",
+    "machinery: 기계류",
+    "repetitive: 반복되는",
+    "someday: 언젠가",
+    "barefoot: 맨발의"
   ],
   "sentences": [
-    "Everything is face-paced.",
-    "My heart broke for her.",
-    "In the beginning, just getting my form right was really hard."
+    "To mark the occasion, I asked her what she'd like as a graduation gift.",
+    "I was not completely sure about it at first.",
+    "They are a lot more expensive than you'd think."
   ],
   "counts": {
     "vocabPool": 2203,
