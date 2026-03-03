@@ -1,40 +1,33 @@
 # ✍ 외울 문장 정리
 
+- I'm a late-in-life mom with 60 just around the corner.
+- Studying together instead of alone makes it more fun and effective.
 - I always dreamed of having a place of my own.
 - I won an apartment lottery after 22 years.
 - I burst into tears.
-
 - I was not completely sure about it at first.
 - I've learned the earlier you start, the better.
-
 - You can still enjoy something even if you're not good at it.
 - My son isn't very athletic and doesn't like physical activities.
-
 - His work pants wear out quickly.
 - Even making a small bag required many do-overs.
-
 - We have to take a long way around.
 - The bus has no choice but to take a detour.
 - It occurred to me that life is a lot like a bus route.
 - If you have a clear goal in life, you'll get there eventually.
 - What matters is not giving up.
-
 - People are always debating whether talent is something you were born with or something you develop.
 - She has a slim build.
 - He has a broad build.
 - He takes after me in that way.
 - He is amazing with machines.
-
 - Back in college, I studied English against my will.
-
 - I complained that he was wasting money replacing switches that were perfectly fine.
 - Thanks to my clever husband, I can enjoy smart and convenient lifestyle.
 - I was against it at first.
-
 - I couldn't just leave it there either.
 - Being able to help someone really warmed my heart.
 - She thanked me over and over.
-
 - We chose to travel independently.
 - It really made me realize how much time has passed.
 - In a foreign setting we had long conversations over drinks with our adult son.

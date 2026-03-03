@@ -1,17 +1,17 @@
 {
-  "date": "2026-03-02",
-  "generatedAt": "2026-03-01T15:00:05.527175Z",
+  "date": "2026-03-03",
+  "generatedAt": "2026-03-02T15:00:06.100990Z",
   "vocab": [
-    "severe: 극심한, 가혹한",
-    "machinery: 기계류",
-    "repetitive: 반복되는",
-    "someday: 언젠가",
-    "barefoot: 맨발의"
+    "partly: 부분적으로, 어느 정도",
+    "inspire: 고무하다, 영감을 주다",
+    "C: 걱정 마세요.",
+    "recurrence: 되풀이, 반복, 재발",
+    "flat: 평지"
   ],
   "sentences": [
-    "To mark the occasion, I asked her what she'd like as a graduation gift.",
-    "I was not completely sure about it at first.",
-    "They are a lot more expensive than you'd think."
+    "I start by setting aside my concern and giving my mind a break.",
+    "I might have to go get one today.",
+    "Around this time next year, he will be a college student."
   ],
   "counts": {
     "vocabPool": 2203,

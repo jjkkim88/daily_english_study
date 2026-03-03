@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- late-in-life: 만년에
+
 - persuade: 설득하다
 - struggle: 투쟁하다, 몸부림치다
 - clutter: 채우다, 잡동사니
@@ -2193,6 +2196,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- fill in the gap: 차이를 매우다
+- just around the corner: 입박하여
+
 - lump-sum lease: 전세
 
 - nest egg: 노후 자금
