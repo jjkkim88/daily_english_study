@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I've been subscribing to a paper newspaper for four years.
+- I just skimmed through it.
+- it's easier on the eyes.
+
 - I'm a late-in-life mom with 60 just around the corner.
 - Studying together instead of alone makes it more fun and effective.
 - I always dreamed of having a place of my own.

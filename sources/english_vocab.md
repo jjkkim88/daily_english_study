@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+- exposed: 노출된
+- comprehension: 이해력
+- expand: 확대하다, 확대시키다
+- strengthen: 강화하다
+- broaden: 넓어지다
+- literacy: 글을 읽고 쓸 줄 아는 능력
 
 - late-in-life: 만년에
 
@@ -2189,6 +2195,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- skim through: 훍어보다
+- toss out: ~을 밖으로 던져버리다
 
 - wear out: 닳다
 - stay with: 남아 있다
@@ -2196,6 +2204,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+- subscribe to: ~을 구독 신청하다
+- easy on the eye: 보기 좋은, 가독성이 좋은
+- come in handy: 쓸모가 있다
+- knowledge base: 배경 지식
 
 - fill in the gap: 차이를 매우다
 - just around the corner: 입박하여
