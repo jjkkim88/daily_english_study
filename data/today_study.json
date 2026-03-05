@@ -1,20 +1,18 @@
 {
-  "date": "2026-03-04",
-  "generatedAt": "2026-03-03T15:00:15.519001Z",
+  "date": "2026-03-05",
+  "generatedAt": "2026-03-04T15:00:06.712168Z",
   "vocab": [
-    "customary: 관례적인, 습관적인",
-    "inspires : 고무하다, 영감을 주다, 고취시키다",
-    "abdominal: 복부의, 복근",
-    "seizure: 압수, 장악",
-    "necessity: 필요성, 불가피한 일, 필수품"
+    "compliment: 칭찬",
+    "rapidly: 빠르게",
+    "discipline: 규율, 수련법, 징계하다",
+    "ethnic: 민족의",
+    "skyrocket: 급등하다"
   ],
   "sentences": [
-    "My husband received a two-week vacation every four months.",
-    "My son is not very athletic.",
-    "It was such an unforgettable experience."
+    "Find one good thing about your spouse every day and compliment them on it."
   ],
   "counts": {
-    "vocabPool": 2206,
-    "sentencePool": 248
+    "vocabPool": 2215,
+    "sentencePool": 251
   }
 }

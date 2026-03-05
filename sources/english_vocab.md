@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- resentful: 분해하는, 분개하는
+- breakup: 이별, 붕괴
+
 - exposed: 노출된
 - comprehension: 이해력
 - expand: 확대하다, 확대시키다
@@ -2195,6 +2199,11 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- see someone off: ~을 배웅하다, ~을 쫓아내다
+- dress up: 차려 입다
+- break up: 헤어지다
+
 - skim through: 훍어보다
 - toss out: ~을 밖으로 던져버리다
 
@@ -2204,6 +2213,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- see a boyfriend: 남자친구를 사귀다
+- care for each other: 서로 알콜당콜 지내다
+- in tears: 눈물을 흘리며
+
 - subscribe to: ~을 구독 신청하다
 - easy on the eye: 보기 좋은, 가독성이 좋은
 - come in handy: 쓸모가 있다

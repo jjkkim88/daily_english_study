@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- Are you seeing anyone?
+- She came to me in tears.
+- Her boyfriend ended things.
+- First love often ends in heartbreak.
+
 - I've been subscribing to a paper newspaper for four years.
 - I just skimmed through it.
 - it's easier on the eyes.
