@@ -1,18 +1,20 @@
 {
-  "date": "2026-03-05",
-  "generatedAt": "2026-03-04T15:00:06.712168Z",
+  "date": "2026-03-06",
+  "generatedAt": "2026-03-05T15:00:08.336124Z",
   "vocab": [
-    "compliment: 칭찬",
-    "rapidly: 빠르게",
-    "discipline: 규율, 수련법, 징계하다",
-    "ethnic: 민족의",
-    "skyrocket: 급등하다"
+    "traumatic: 대단히 충격적인",
+    "precious: 귀중한",
+    "disagreement: 의견 충돌, 다툼, 불일치",
+    "annoying: 짜증스러운",
+    "demanding: 부담이 큰, 요구가 많은, 쉽게 만족하지 않은"
   ],
   "sentences": [
-    "Find one good thing about your spouse every day and compliment them on it."
+    "Everything is face-paced.",
+    "Dogs have emotions and can deeply connect with people.",
+    "I teach math to students for a living."
   ],
   "counts": {
-    "vocabPool": 2215,
-    "sentencePool": 251
+    "vocabPool": 2223,
+    "sentencePool": 255
   }
 }

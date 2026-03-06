@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- She doodles all over my workbook.
+- But in the end I lose my temper.
+- Its hard to focus when you have a little one.
+
 - Are you seeing anyone?
 - She came to me in tears.
 - Her boyfriend ended things.

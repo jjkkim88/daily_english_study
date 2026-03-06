@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- doodle: 낙서하다
+- temper: 성질, 울화통, 누그러뜨리다
+- scribble: 갈겨쓰다, 낙서하다
+- frustrating: 불만스러운, 좌절감을 주는
 
 - resentful: 분해하는, 분개하는
 - breakup: 이별, 붕괴
@@ -2213,6 +2217,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- burst into tears: 울음보를 터트리다
 
 - see a boyfriend: 남자친구를 사귀다
 - care for each other: 서로 알콜당콜 지내다
