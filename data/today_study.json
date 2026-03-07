@@ -1,20 +1,20 @@
 {
-  "date": "2026-03-06",
-  "generatedAt": "2026-03-05T15:00:08.336124Z",
+  "date": "2026-03-07",
+  "generatedAt": "2026-03-06T15:00:06.198822Z",
   "vocab": [
-    "traumatic: 대단히 충격적인",
-    "precious: 귀중한",
-    "disagreement: 의견 충돌, 다툼, 불일치",
-    "annoying: 짜증스러운",
-    "demanding: 부담이 큰, 요구가 많은, 쉽게 만족하지 않은"
+    "medication: 약물",
+    "inspires : 고무하다, 영감을 주다, 고취시키다",
+    "illustration: 삽화",
+    "pose: 제기하다, 질문하다, 포즈",
+    "manipulative: 조종하는, 조작의"
   ],
   "sentences": [
-    "Everything is face-paced.",
-    "Dogs have emotions and can deeply connect with people.",
-    "I teach math to students for a living."
+    "I was not completely sure about it at first.",
+    "It helps me clear my head.",
+    "I hope the time they spend there will become fun memories for them."
   ],
   "counts": {
-    "vocabPool": 2223,
-    "sentencePool": 255
+    "vocabPool": 2227,
+    "sentencePool": 258
   }
 }
