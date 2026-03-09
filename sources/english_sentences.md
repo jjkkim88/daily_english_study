@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- As I expected, I only got predictable responses at first.
+- Was the answer any good?
+
 - She doodles all over my workbook.
 - But in the end I lose my temper.
 - Its hard to focus when you have a little one.

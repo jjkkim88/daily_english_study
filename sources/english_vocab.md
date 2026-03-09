@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- firsthand: 직접
+- witness: 목격하다, 증인
+
 - doodle: 낙서하다
 - temper: 성질, 울화통, 누그러뜨리다
 - scribble: 갈겨쓰다, 낙서하다
@@ -2203,6 +2207,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- talk through: 따져가면서 이야기 하다
+- come up with: ~을 생산하다, 제시하다
 
 - see someone off: ~을 배웅하다, ~을 쫓아내다
 - dress up: 차려 입다
@@ -2217,6 +2223,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- like in the movies: 영화에서 처럼
+
 - burst into tears: 울음보를 터트리다
 
 - see a boyfriend: 남자친구를 사귀다

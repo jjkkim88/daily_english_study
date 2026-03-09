@@ -1,17 +1,17 @@
 {
-  "date": "2026-03-07",
-  "generatedAt": "2026-03-06T15:00:06.198822Z",
+  "date": "2026-03-09",
+  "generatedAt": "2026-03-08T15:00:04.853110Z",
   "vocab": [
-    "medication: 약물",
-    "inspires : 고무하다, 영감을 주다, 고취시키다",
-    "illustration: 삽화",
-    "pose: 제기하다, 질문하다, 포즈",
-    "manipulative: 조종하는, 조작의"
+    "pediatric: 소아과의",
+    "urology: 비뇨의학과",
+    "exhilarating : 아주 신이나는, 짜릿한",
+    "relaxed: 느긋한, 여유 있는, 편안한",
+    "supportive: 지원하는, 도와주는,"
   ],
   "sentences": [
-    "I was not completely sure about it at first.",
-    "It helps me clear my head.",
-    "I hope the time they spend there will become fun memories for them."
+    "So she can play just about any song.",
+    "I was a little nervous at first, but I got used to it.",
+    "I just paid what I had to pay without missing a deadline."
   ],
   "counts": {
     "vocabPool": 2227,
