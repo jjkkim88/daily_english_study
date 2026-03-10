@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- greedy: 탐욕스러운, 욕심 많은
+- clutter: 채우다, 잡동사니
 
 - firsthand: 직접
 - witness: 목격하다, 증인
@@ -2207,6 +2209,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- begin with: 애초에
+- clear out: 청소하다, 처분하다
+
 - talk through: 따져가면서 이야기 하다
 - come up with: ~을 생산하다, 제시하다
 
@@ -2223,6 +2229,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- secondhand trading: 중고거래
+- in the first place: 애당초
 
 - like in the movies: 영화에서 처럼
 

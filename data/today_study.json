@@ -1,20 +1,20 @@
 {
-  "date": "2026-03-09",
-  "generatedAt": "2026-03-08T15:00:04.853110Z",
+  "date": "2026-03-10",
+  "generatedAt": "2026-03-09T15:00:04.423424Z",
   "vocab": [
-    "pediatric: 소아과의",
-    "urology: 비뇨의학과",
-    "exhilarating : 아주 신이나는, 짜릿한",
-    "relaxed: 느긋한, 여유 있는, 편안한",
-    "supportive: 지원하는, 도와주는,"
+    "aloud: 소리내어, 큰 소리로",
+    "reveal: 드러나다",
+    "dupe: 속이다, 사기를 치다",
+    "inevitably: 필연적이다시피, 예상한 대로",
+    "revision: 수정, 검토"
   ],
   "sentences": [
-    "So she can play just about any song.",
-    "I was a little nervous at first, but I got used to it.",
-    "I just paid what I had to pay without missing a deadline."
+    "It turns out, I didn't need to worry.",
+    "Following through is hard for everyone.",
+    "The mushrooms have quite a strong smell"
   ],
   "counts": {
-    "vocabPool": 2227,
-    "sentencePool": 258
+    "vocabPool": 2232,
+    "sentencePool": 260
   }
 }

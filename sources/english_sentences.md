@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I do a lot of secondhand trading.
+- It cuts down on waste.
+- It also makes me think twice before buying anything new.
+
 - As I expected, I only got predictable responses at first.
 - Was the answer any good?
 
