@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- It's best to enjoy them in moderation depending on how your body reacts.
+- I get blocked up.
+
 - I do a lot of secondhand trading.
 - It cuts down on waste.
 - It also makes me think twice before buying anything new.

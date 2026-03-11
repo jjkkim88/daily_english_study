@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- lycopene: 라이코펜
+- obesity: 비만
+- diabetes: 당뇨
+
 - greedy: 탐욕스러운, 욕심 많은
 - clutter: 채우다, 잡동사니
 
@@ -2209,6 +2214,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- flush out: 씻어 내다
+- rich in: 풍부한
+- get blocked up: 변비가 생기다
 
 - begin with: 애초에
 - clear out: 청소하다, 처분하다
@@ -2229,6 +2237,12 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- free radicals: 활성산소
+- supple skin: 탱탱하고 탄력있는 피부
+- dark spot: 잡티, 기미
+- in moderation: 적당히
+
 - secondhand trading: 중고거래
 - in the first place: 애당초
 
