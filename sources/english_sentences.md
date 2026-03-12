@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- Everyone in my company has been on edge.
+- We might have to head out at a moment's notice.
+
 - It's best to enjoy them in moderation depending on how your body reacts.
 - I get blocked up.
 

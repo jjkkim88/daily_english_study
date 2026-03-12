@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- renewable: 제생 가능한
+- intermittent: 간헐적인
 
 - lycopene: 라이코펜
 - obesity: 비만
@@ -2214,6 +2216,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- head out: ~으로 향하다
+
 - flush out: 씻어 내다
 - rich in: 풍부한
 - get blocked up: 변비가 생기다
@@ -2237,6 +2242,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- be on edge: 신경이 곤두서 있다
+- at a moment: ~의 순간에
+- at a moment notice: 즉시, 즉각적으로
 
 - free radicals: 활성산소
 - supple skin: 탱탱하고 탄력있는 피부

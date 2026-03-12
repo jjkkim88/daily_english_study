@@ -1,20 +1,18 @@
 {
-  "date": "2026-03-11",
-  "generatedAt": "2026-03-10T15:14:20.120377Z",
+  "date": "2026-03-12",
+  "generatedAt": "2026-03-11T15:00:12.764297Z",
   "vocab": [
-    "incinerate: 소각하다",
-    "over-involvement: 과몰입, 과잉 간섭",
-    "decent: 괜찮은, 품위있는, 예의바른",
-    "depressing: 우울한, 우울하게 만드는",
-    "labor-intensive: 노동집약적인"
+    "nearsightedness: 근시",
+    "convenience: 편리한",
+    "supportive: 지원하는, 도와주는, 힘을 주는",
+    "cesarean: 제왕절개로",
+    "reincarnation: 환생"
   ],
   "sentences": [
-    "I've become more mindful about what I eat.",
-    "It allows him to feel proud of himself, too.",
-    "Preparing for classes this way, I realized that I'm growing, too."
+    "Convenience stores don't just sell daily necessities."
   ],
   "counts": {
-    "vocabPool": 2237,
-    "sentencePool": 263
+    "vocabPool": 2245,
+    "sentencePool": 265
   }
 }
