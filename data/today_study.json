@@ -1,18 +1,20 @@
 {
-  "date": "2026-03-12",
-  "generatedAt": "2026-03-11T15:00:12.764297Z",
+  "date": "2026-03-13",
+  "generatedAt": "2026-03-12T15:00:14.237654Z",
   "vocab": [
-    "nearsightedness: 근시",
-    "convenience: 편리한",
-    "supportive: 지원하는, 도와주는, 힘을 주는",
-    "cesarean: 제왕절개로",
-    "reincarnation: 환생"
+    "calorie: 칼로리",
+    "chew: 씹다",
+    "dine: 식사를 하다",
+    "thick: 두꺼운",
+    "immerse: 담그다, ~에 몰두하다"
   ],
   "sentences": [
-    "Convenience stores don't just sell daily necessities."
+    "I'm not usually big on snacking.",
+    "How did you manage all that?",
+    "I had to take two buses and they stop running pretty early."
   ],
   "counts": {
-    "vocabPool": 2245,
-    "sentencePool": 265
+    "vocabPool": 2251,
+    "sentencePool": 267
   }
 }

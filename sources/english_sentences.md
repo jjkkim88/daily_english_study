@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- We sample street food and enjoy looking at everything.
+- I always go and have a look around.
+
 - Everyone in my company has been on edge.
 - We might have to head out at a moment's notice.
 

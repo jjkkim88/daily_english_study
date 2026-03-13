@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- seasonal: 계절적인
+- mouth-watering: 군침도는
+- thrive: 번창하다, 잘 자라다
+
 - renewable: 제생 가능한
 - intermittent: 간헐적인
 
@@ -2242,6 +2247,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- hand in hand: 서로 손을 잡고
+- perilla leaf: 깻잎
+
 - be on edge: 신경이 곤두서 있다
 - at a moment: ~의 순간에
 - at a moment notice: 즉시, 즉각적으로
