@@ -1,20 +1,20 @@
 {
-  "date": "2026-03-13",
-  "generatedAt": "2026-03-12T15:00:14.237654Z",
+  "date": "2026-03-14",
+  "generatedAt": "2026-03-13T15:00:10.047453Z",
   "vocab": [
-    "calorie: 칼로리",
-    "chew: 씹다",
-    "dine: 식사를 하다",
-    "thick: 두꺼운",
-    "immerse: 담그다, ~에 몰두하다"
+    "sunlight: 햇빛",
+    "acuity: 명민한, 예리함",
+    "stance: 자세, 입장",
+    "enthusiasm: 열정, 열의",
+    "neurotransmitter: 신경 전달 물질"
   ],
   "sentences": [
-    "I'm not usually big on snacking.",
-    "How did you manage all that?",
-    "I had to take two buses and they stop running pretty early."
+    "He is amazing with machines.",
+    "My parents advised me to see a dermatologist right away, saying the sooner I had it removed, the better.",
+    "Looking back, I remember being hooked on Future Boy Conan when I was a kid."
   ],
   "counts": {
-    "vocabPool": 2251,
-    "sentencePool": 267
+    "vocabPool": 2254,
+    "sentencePool": 269
   }
 }
