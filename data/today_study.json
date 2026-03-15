@@ -1,17 +1,17 @@
 {
-  "date": "2026-03-14",
-  "generatedAt": "2026-03-13T15:00:10.047453Z",
+  "date": "2026-03-15",
+  "generatedAt": "2026-03-14T15:00:13.932476Z",
   "vocab": [
-    "sunlight: 햇빛",
-    "acuity: 명민한, 예리함",
-    "stance: 자세, 입장",
-    "enthusiasm: 열정, 열의",
-    "neurotransmitter: 신경 전달 물질"
+    "selfish: 이기적인",
+    "adverse: 부정적인",
+    "environmental: 환경의",
+    "oasis: 오아시스",
+    "special-purpose: 특수목적"
   ],
   "sentences": [
-    "He is amazing with machines.",
-    "My parents advised me to see a dermatologist right away, saying the sooner I had it removed, the better.",
-    "Looking back, I remember being hooked on Future Boy Conan when I was a kid."
+    "I complained that he was wasting money replacing switches that were perfectly fine.",
+    "It was fascinating to watch them grow so quickly.",
+    "I soaked the mushrooms in water for a day."
   ],
   "counts": {
     "vocabPool": 2254,
