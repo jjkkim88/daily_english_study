@@ -1,17 +1,15 @@
 {
-  "date": "2026-03-15",
-  "generatedAt": "2026-03-14T15:00:13.932476Z",
+  "date": "2026-03-16",
+  "generatedAt": "2026-03-15T15:00:10.915845Z",
   "vocab": [
-    "selfish: 이기적인",
-    "adverse: 부정적인",
-    "environmental: 환경의",
-    "oasis: 오아시스",
-    "special-purpose: 특수목적"
+    "expertise: 전문성, 전문지식",
+    "calorie: 칼로리",
+    "caffeine: 카페인",
+    "significance: 중요성, 의의",
+    "conservative: 보수적인"
   ],
   "sentences": [
-    "I complained that he was wasting money replacing switches that were perfectly fine.",
-    "It was fascinating to watch them grow so quickly.",
-    "I soaked the mushrooms in water for a day."
+    "One drop of coffee will give me caffeine jitters."
   ],
   "counts": {
     "vocabPool": 2254,

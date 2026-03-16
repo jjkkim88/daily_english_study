@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- declutter: 잡동사니들을 처리하다
+- clumsy: 어설픈, 서투른
+- overwhelming: 압도적인, 부담스러운
 
 - seasonal: 계절적인
 - mouth-watering: 군침도는
@@ -2221,6 +2224,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- end up: 결국 처하게 되다
+- stand out: 눈에 띄다, 튀어나오다
 
 - head out: ~으로 향하다
 
@@ -2247,6 +2252,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- along the way: ~하는 도중에
 
 - hand in hand: 서로 손을 잡고
 - perilla leaf: 깻잎

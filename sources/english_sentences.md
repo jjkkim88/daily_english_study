@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- It suddenly felt overwhelming.
+- I felt so much freer.
+- I lost touch with her after graduation.
+
 - We sample street food and enjoy looking at everything.
 - I always go and have a look around.
 
