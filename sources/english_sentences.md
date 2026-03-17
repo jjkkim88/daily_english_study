@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- It was my mistake.
+- After a moment of frustration, I knew I had to deal with it quickly.
+- Now I have developed the habit of double-checking the laundry before I start the machine.
+
 - It suddenly felt overwhelming.
 - I felt so much freer.
 - I lost touch with her after graduation.

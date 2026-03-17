@@ -1,18 +1,18 @@
 {
-  "date": "2026-03-16",
-  "generatedAt": "2026-03-15T15:00:10.915845Z",
+  "date": "2026-03-17",
+  "generatedAt": "2026-03-16T15:00:17.800773Z",
   "vocab": [
-    "expertise: 전문성, 전문지식",
-    "calorie: 칼로리",
-    "caffeine: 카페인",
-    "significance: 중요성, 의의",
-    "conservative: 보수적인"
+    "surpassing: 빼어난, 탁월하여",
+    "nephew: 남자 조카",
+    "temptation: 유혹, 유혹하는 것",
+    "vow: 맹세, 맹세하다",
+    "minor: 미성년자"
   ],
   "sentences": [
-    "One drop of coffee will give me caffeine jitters."
+    "I vow to myself."
   ],
   "counts": {
-    "vocabPool": 2254,
-    "sentencePool": 269
+    "vocabPool": 2259,
+    "sentencePool": 272
   }
 }

@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- lint: 먼지
+- culprit: 범인, 장본인
+- lint-remover: 먼지 제거기
+- mess: 엉망인 상태
+
 - declutter: 잡동사니들을 처리하다
 - clumsy: 어설픈, 서투른
 - overwhelming: 압도적인, 부담스러운
@@ -2224,6 +2230,11 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- coverd in: ~로 덮인
+- wipe down: 닦아내다
+- from now on: 이제부터는
+
 - end up: 결국 처하게 되다
 - stand out: 눈에 띄다, 튀어나오다
 
@@ -2252,6 +2263,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- burst open: 터져 나오다
+
 - along the way: ~하는 도중에
 
 - hand in hand: 서로 손을 잡고
