@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Blisters broke out on her hands and feet.
+- I'm coming down with a fever.
+- Getting sick on a trip is the worst.
+
 - It was my mistake.
 - After a moment of frustration, I knew I had to deal with it quickly.
 - Now I have developed the habit of double-checking the laundry before I start the machine.

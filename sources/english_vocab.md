@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+- blister: 물집, 수포
+- porridge: 죽
+- picture-perfect: 흠 잡을 데 없이 완벽한
+- instantly: 즉각, 즉시
+- hopefully: 바라건데
 
 - lint: 먼지
 - culprit: 범인, 장본인
@@ -2230,6 +2235,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- break out: 발발하다
+- come down with: 걸리다
 
 - coverd in: ~로 덮인
 - wipe down: 닦아내다
@@ -2263,6 +2270,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- cherry tomato: 방울 토마토
+- hand, foot, and mouth disease: 수족구 병
 
 - burst open: 터져 나오다
 

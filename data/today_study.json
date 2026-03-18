@@ -1,18 +1,18 @@
 {
-  "date": "2026-03-17",
-  "generatedAt": "2026-03-16T15:00:17.800773Z",
+  "date": "2026-03-18",
+  "generatedAt": "2026-03-17T15:00:07.456614Z",
   "vocab": [
-    "surpassing: 빼어난, 탁월하여",
-    "nephew: 남자 조카",
-    "temptation: 유혹, 유혹하는 것",
-    "vow: 맹세, 맹세하다",
-    "minor: 미성년자"
+    "resistance: 저항, 반대",
+    "subtly: 미묘하게, 예민하게",
+    "coastline: 해안선",
+    "grooming: 차림새, 몸단장, 털 손질",
+    "contact information: 연락처"
   ],
   "sentences": [
-    "I vow to myself."
+    "The coastline along the East Sea is absolutely stunning."
   ],
   "counts": {
-    "vocabPool": 2259,
-    "sentencePool": 272
+    "vocabPool": 2267,
+    "sentencePool": 275
   }
 }
