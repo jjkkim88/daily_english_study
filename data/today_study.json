@@ -1,18 +1,19 @@
 {
-  "date": "2026-03-18",
-  "generatedAt": "2026-03-17T15:00:07.456614Z",
+  "date": "2026-03-19",
+  "generatedAt": "2026-03-18T15:00:15.620098Z",
   "vocab": [
-    "resistance: 저항, 반대",
-    "subtly: 미묘하게, 예민하게",
-    "coastline: 해안선",
-    "grooming: 차림새, 몸단장, 털 손질",
-    "contact information: 연락처"
+    "occurrence: 발생하는 것, 발생, 존재, 사건",
+    "anxiety: 불안",
+    "debate: 토론, 논쟁, 논의하다",
+    "adjustable: 조절 가능한",
+    "obstruct: 막다, 방해하다"
   ],
   "sentences": [
-    "The coastline along the East Sea is absolutely stunning."
+    "Concerns might come and go, but anxiety can persist for a long time.",
+    "There's been debate about whether people should take off their shoes indoors."
   ],
   "counts": {
-    "vocabPool": 2267,
-    "sentencePool": 275
+    "vocabPool": 2275,
+    "sentencePool": 278
   }
 }

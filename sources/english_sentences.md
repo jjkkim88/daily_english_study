@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I'm a calm person and not very talkative.
+- Being able to speak well really goes a long way in everyday social life.
+- There were a few things they all have in common.
+
 - Blisters broke out on her hands and feet.
 - I'm coming down with a fever.
 - Getting sick on a trip is the worst.

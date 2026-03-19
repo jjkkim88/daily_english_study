@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- talkative: 말이 많은, 수다스러운
+- debt: 빚
+- convince: 납득시키다, 설득하다
+
 - blister: 물집, 수포
 - porridge: 죽
 - picture-perfect: 흠 잡을 데 없이 완벽한
@@ -2235,6 +2240,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- deep down: 속으로는
+- pay off: 갚다
+
 - break out: 발발하다
 - come down with: 걸리다
 
@@ -2270,6 +2279,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- go a long way: 오래가다, 지속되다
+
 - cherry tomato: 방울 토마토
 - hand, foot, and mouth disease: 수족구 병
 
