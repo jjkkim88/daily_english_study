@@ -1,19 +1,20 @@
 {
-  "date": "2026-03-19",
-  "generatedAt": "2026-03-18T15:00:15.620098Z",
+  "date": "2026-03-20",
+  "generatedAt": "2026-03-19T15:00:06.957899Z",
   "vocab": [
-    "occurrence: 발생하는 것, 발생, 존재, 사건",
-    "anxiety: 불안",
-    "debate: 토론, 논쟁, 논의하다",
-    "adjustable: 조절 가능한",
-    "obstruct: 막다, 방해하다"
+    "residents: 주민",
+    "coexistance: 공존",
+    "recite: 낭독하다",
+    "breed: 품종, 사육하다",
+    "tsunami: 홍수"
   ],
   "sentences": [
-    "Concerns might come and go, but anxiety can persist for a long time.",
-    "There's been debate about whether people should take off their shoes indoors."
+    "Find one good thing about your spouse every day and compliment them on it.",
+    "My kids look after themselves pretty well.",
+    "I've noticed that, too."
   ],
   "counts": {
-    "vocabPool": 2275,
-    "sentencePool": 278
+    "vocabPool": 2280,
+    "sentencePool": 281
   }
 }

@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- miscarriage: 유산
+- stiff: 뻣뻣한
 
 - talkative: 말이 많은, 수다스러운
 - debt: 빚
@@ -2240,6 +2242,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- worn out: 매우 지친, 닳고 닳은
 
 - deep down: 속으로는
 - pay off: 갚다
@@ -2279,6 +2282,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- IVF treatments: 시험관 시술
+- on an impulse: 충동적으로
+- at ease: 마음이 편안한
 
 - go a long way: 오래가다, 지속되다
 

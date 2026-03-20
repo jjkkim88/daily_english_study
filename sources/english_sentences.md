@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Both my body and my heart were completely worn out.
+- My back is stiff.
+- Playing the piano really puts my mind at ease.
+
 - I'm a calm person and not very talkative.
 - Being able to speak well really goes a long way in everyday social life.
 - There were a few things they all have in common.
