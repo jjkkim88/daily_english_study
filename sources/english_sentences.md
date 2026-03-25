@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I could feel my skills getting rusty.
+- I decided to hit the books again.
+- It was a perfect fit for me.
+
 - Both my body and my heart were completely worn out.
 - My back is stiff.
 - Playing the piano really puts my mind at ease.

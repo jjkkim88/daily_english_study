@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- semiconductor: 반도체
+- rusty: 녹슨, 녹이 슨
+- affairs: 사건
+
 - miscarriage: 유산
 - stiff: 뻣뻣한
 
@@ -2282,6 +2287,12 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- hit the books: 열심히 공부하다
+- scond nature: 제2의 천성
+- current affairs: 시사
+- sense of accomplishment: 보람, 성취감
+
 - IVF treatments: 시험관 시술
 - on an impulse: 충동적으로
 - at ease: 마음이 편안한

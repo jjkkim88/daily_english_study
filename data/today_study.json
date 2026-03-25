@@ -1,20 +1,18 @@
 {
-  "date": "2026-03-20",
-  "generatedAt": "2026-03-19T15:00:06.957899Z",
+  "date": "2026-03-25",
+  "generatedAt": "2026-03-24T15:00:13.321121Z",
   "vocab": [
-    "residents: 주민",
-    "coexistance: 공존",
-    "recite: 낭독하다",
-    "breed: 품종, 사육하다",
-    "tsunami: 홍수"
+    "peak: 절정, 봉우리",
+    "cornea: 각막",
+    "agricultural: 농업의",
+    "necessities: 필수품",
+    "corn: 티눈, 옥수수"
   ],
   "sentences": [
-    "Find one good thing about your spouse every day and compliment them on it.",
-    "My kids look after themselves pretty well.",
-    "I've noticed that, too."
+    "Convenience stores don't just sell daily necessities."
   ],
   "counts": {
-    "vocabPool": 2280,
-    "sentencePool": 281
+    "vocabPool": 2285,
+    "sentencePool": 284
   }
 }
