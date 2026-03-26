@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- The moment it hit 6:05, an employee shut down the liquor section.
+- It really caught me off guard.
+
 - I could feel my skills getting rusty.
 - I decided to hit the books again.
 - It was a perfect fit for me.

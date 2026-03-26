@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+- liquor: 술, 독주
+- strictly: 엄격하게
+- insult: 모욕하다
+- self-control: 자제력
+- descendant: 자손, 후예
 
 - semiconductor: 반도체
 - rusty: 녹슨, 녹이 슨
@@ -2247,6 +2252,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- miss out on: ~을 놓치다
+
 - worn out: 매우 지친, 닳고 닳은
 
 - deep down: 속으로는
@@ -2287,6 +2295,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- catch somebody off guard: 의료를 찌르다
 
 - hit the books: 열심히 공부하다
 - scond nature: 제2의 천성

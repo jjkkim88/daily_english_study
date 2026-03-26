@@ -1,18 +1,18 @@
 {
-  "date": "2026-03-25",
-  "generatedAt": "2026-03-24T15:00:13.321121Z",
+  "date": "2026-03-26",
+  "generatedAt": "2026-03-25T15:00:33.532046Z",
   "vocab": [
-    "peak: 절정, 봉우리",
-    "cornea: 각막",
-    "agricultural: 농업의",
-    "necessities: 필수품",
-    "corn: 티눈, 옥수수"
+    "trivial: 사소한, 하찮은",
+    "lycopene: 라이코펜",
+    "double-check: 재확인하다",
+    "buried: 파묻힌",
+    "rinse: 헹구다, 가볍게 씻다"
   ],
   "sentences": [
-    "Convenience stores don't just sell daily necessities."
+    "Now I have developed the habit of double-checking the laundry before I start the machine."
   ],
   "counts": {
-    "vocabPool": 2285,
-    "sentencePool": 284
+    "vocabPool": 2292,
+    "sentencePool": 287
   }
 }
