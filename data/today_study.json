@@ -1,18 +1,18 @@
 {
-  "date": "2026-03-26",
-  "generatedAt": "2026-03-25T15:00:33.532046Z",
+  "date": "2026-03-27",
+  "generatedAt": "2026-03-26T15:00:13.108222Z",
   "vocab": [
-    "trivial: 사소한, 하찮은",
-    "lycopene: 라이코펜",
-    "double-check: 재확인하다",
-    "buried: 파묻힌",
-    "rinse: 헹구다, 가볍게 씻다"
+    "sincere: 진실된, 진심의",
+    "detour: 우회하다",
+    "compromise: 타협하다, 타협",
+    "annals: 연대기, 연보",
+    "rural : 농촌의"
   ],
   "sentences": [
-    "Now I have developed the habit of double-checking the laundry before I start the machine."
+    "The bus has no choice but to take a detour."
   ],
   "counts": {
-    "vocabPool": 2292,
-    "sentencePool": 287
+    "vocabPool": 2299,
+    "sentencePool": 289
   }
 }
