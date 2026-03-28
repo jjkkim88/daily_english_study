@@ -1,15 +1,17 @@
 {
-  "date": "2026-03-27",
-  "generatedAt": "2026-03-26T15:00:13.108222Z",
+  "date": "2026-03-28",
+  "generatedAt": "2026-03-27T15:00:12.129493Z",
   "vocab": [
-    "sincere: 진실된, 진심의",
-    "detour: 우회하다",
-    "compromise: 타협하다, 타협",
-    "annals: 연대기, 연보",
-    "rural : 농촌의"
+    "foster: 양성하다",
+    "novel: 새로운, 신기한",
+    "entrepreneurial: 기업가적인",
+    "tummy: 배",
+    "drought: 가뭄"
   ],
   "sentences": [
-    "The bus has no choice but to take a detour."
+    "It felt like walking through an endless tunnel.",
+    "I didn't give up and kept at it.",
+    "But I still find myself thinking about him from time to time."
   ],
   "counts": {
     "vocabPool": 2299,
