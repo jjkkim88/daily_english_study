@@ -1,17 +1,17 @@
 {
-  "date": "2026-03-28",
-  "generatedAt": "2026-03-27T15:00:12.129493Z",
+  "date": "2026-03-29",
+  "generatedAt": "2026-03-28T15:00:06.308476Z",
   "vocab": [
-    "foster: 양성하다",
-    "novel: 새로운, 신기한",
-    "entrepreneurial: 기업가적인",
-    "tummy: 배",
-    "drought: 가뭄"
+    "lint: 먼지",
+    "celebrities: 연예인",
+    "update: 갱신하다",
+    "first-timer: 초보자",
+    "attend: 참석하다, 다니다, 주의를 기울이다"
   ],
   "sentences": [
-    "It felt like walking through an endless tunnel.",
-    "I didn't give up and kept at it.",
-    "But I still find myself thinking about him from time to time."
+    "I'm a mom raising two daughters, one year apart.",
+    "Convenience stores don't just sell daily necessities.",
+    "So she can play just about any song."
   ],
   "counts": {
     "vocabPool": 2299,
