@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- That one month away from Korea was a precious gift for our family, opening our eyes to a much bigger world.
+- It was an unforgettable experience for our whole family.
+
 - The moment it hit 6:05, an employee shut down the liquor section.
 - It really caught me off guard.
 

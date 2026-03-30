@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- ethnic: 민족의
+- real-world: 실세계의
+- captivating: 매혹적인, 마음을 사로잡는
+- downpour: 폭우
+
 - liquor: 술, 독주
 - strictly: 엄격하게
 - insult: 모욕하다
@@ -2252,6 +2258,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- joke around: 이런저런 농담을 주고받다
+- stand out: 매혹하다
 
 - miss out on: ~을 놓치다
 
@@ -2295,6 +2303,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- sound of thunder: 천둥소리
+
 - catch somebody off guard: 의료를 찌르다
 
 - hit the books: 열심히 공부하다
