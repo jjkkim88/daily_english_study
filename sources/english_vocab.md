@@ -2258,6 +2258,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- put up with: ~을 이겨내다, ~을 견디다
+
 - joke around: 이런저런 농담을 주고받다
 - stand out: 매혹하다
 
@@ -2303,6 +2306,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+- be apart: 떨어져 있다.
+- live apart: 떨어져 살다
+- posted family: 주재원 가족
+- for the sake of: ~때문에, ~을 위해서
+- post to: 파견되다, ~에 배치하다
 
 - sound of thunder: 천둥소리
 

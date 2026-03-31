@@ -1,18 +1,18 @@
 {
-  "date": "2026-03-30",
-  "generatedAt": "2026-03-29T15:00:13.315211Z",
+  "date": "2026-03-31",
+  "generatedAt": "2026-03-30T15:00:24.733330Z",
   "vocab": [
-    "seasick: 뱃멀리",
-    "divorce: 이혼, 이혼하다",
-    "pledge: 약속, 약속하다",
-    "finely: 잘게, 섬세하게",
-    "dear: 소중한, 사랑하는"
+    "jacuzzi: 자쿠지",
+    "stir-fry: 볶다, 볶음요리",
+    "feature: 특징, 기능, 특징을 이루다",
+    "brigade: 여단",
+    "partway: 도중까지"
   ],
   "sentences": [
-    "A lot of people got seasick."
+    "I quit partway through."
   ],
   "counts": {
-    "vocabPool": 2299,
-    "sentencePool": 289
+    "vocabPool": 2305,
+    "sentencePool": 291
   }
 }

@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- We've spent about four or those years living apart.
+- We chose to live apart instead.
+
 - That one month away from Korea was a precious gift for our family, opening our eyes to a much bigger world.
 - It was an unforgettable experience for our whole family.
 
