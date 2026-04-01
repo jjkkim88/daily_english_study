@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- People are always interested in other people's business.
+- I have decided not to let anyone treat me carelessly.
+- Once you hit 40, you start thinking a lot.
+
 - We've spent about four or those years living apart.
 - We chose to live apart instead.
 

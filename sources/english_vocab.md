@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+- fundamental: 근본적인
+- adolescence: 사춘기
+- concrete: 콘크리트로 된
+- soul-searching: 성찰
+- carelessly: 부주의하게, 경솔하게
+- treat: 대하다, 여기다
 
 - ethnic: 민족의
 - real-world: 실세계의
