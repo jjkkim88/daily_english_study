@@ -1,20 +1,18 @@
 {
-  "date": "2026-04-01",
-  "generatedAt": "2026-03-31T15:00:31.849337Z",
+  "date": "2026-04-02",
+  "generatedAt": "2026-04-01T15:00:34.640906Z",
   "vocab": [
-    "thrilled: 황홀해 하는, 아주 흥분한",
-    "scorching: 찌는 듯 한",
-    "bedtime: 취침 시간",
-    "cherish: 간직하다",
-    "antioxidants: 항산화 물질"
+    "fill: 채우다, 실컷",
+    "in that way: 그런면에서는",
+    "potty: 미친, 유아용 변기, ~에 사족을 못쓰는",
+    "intact: 온전한",
+    "daunting: 벅찬, 주눅이 들게 하는"
   ],
   "sentences": [
-    "There are times in life when you feel completely stuck.",
-    "I can't tell you how comforting it is to have a good relationship with the family next door.",
-    "You have to pay attention to the color."
+    "He takes after me in that way."
   ],
   "counts": {
-    "vocabPool": 2311,
-    "sentencePool": 293
+    "vocabPool": 2317,
+    "sentencePool": 296
   }
 }

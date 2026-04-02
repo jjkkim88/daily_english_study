@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- nagging: 계속되는, 잔소리하는
+- boomer: 꼰대
+- colleague: 동료
+
 - fundamental: 근본적인
 - adolescence: 사춘기
 - concrete: 콘크리트로 된
@@ -2264,6 +2269,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- take on: 떠맡다, 도맡다, 태우다, 대결하다
 
 - put up with: ~을 이겨내다, ~을 견디다
 

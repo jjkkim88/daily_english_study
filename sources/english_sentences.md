@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- When I was a new hire, I promised myself that I would become an open-minded senior.
+- I guess it's all just part of growing up.
+
 - People are always interested in other people's business.
 - I have decided not to let anyone treat me carelessly.
 - Once you hit 40, you start thinking a lot.
