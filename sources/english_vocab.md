@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- exaggeration: 과장
+- bond: 유대, 접착시키다
 
 - nagging: 계속되는, 잔소리하는
 - boomer: 꼰대
@@ -2269,6 +2271,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- step up: 나서다, 책임지다
+
 - take on: 떠맡다, 도맡다, 태우다, 대결하다
 
 - put up with: ~을 이겨내다, ~을 견디다
@@ -2318,6 +2323,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- keep close eye on: 세심히 챙기다
+- play one's own part: 역할을 하다, 맡은 바를 다하다
+
 - be apart: 떨어져 있다.
 - live apart: 떨어져 살다
 - posted family: 주재원 가족

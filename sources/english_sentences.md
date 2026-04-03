@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- It's no exaggeration to say she raised me on her back.
+- The third is the one who keeps a close eye on our parents' health.
+- Each of us is doing our best in our own way.
+
 - When I was a new hire, I promised myself that I would become an open-minded senior.
 - I guess it's all just part of growing up.
 

@@ -1,18 +1,19 @@
 {
-  "date": "2026-04-02",
-  "generatedAt": "2026-04-01T15:00:34.640906Z",
+  "date": "2026-04-03",
+  "generatedAt": "2026-04-02T15:00:13.841566Z",
   "vocab": [
-    "fill: 채우다, 실컷",
-    "in that way: 그런면에서는",
-    "potty: 미친, 유아용 변기, ~에 사족을 못쓰는",
-    "intact: 온전한",
-    "daunting: 벅찬, 주눅이 들게 하는"
+    "anticipation: 기대, 예상",
+    "norms: 규법, 기준",
+    "dermatitis: 피부염",
+    "breakup: 이별, 붕괴",
+    "wards: 병동"
   ],
   "sentences": [
-    "He takes after me in that way."
+    "We were filled with anticipation.",
+    "That anticipation makes the whole day feel richer."
   ],
   "counts": {
-    "vocabPool": 2317,
-    "sentencePool": 296
+    "vocabPool": 2321,
+    "sentencePool": 298
   }
 }
