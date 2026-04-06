@@ -1,19 +1,20 @@
 {
-  "date": "2026-04-03",
-  "generatedAt": "2026-04-02T15:00:13.841566Z",
+  "date": "2026-04-06",
+  "generatedAt": "2026-04-06T01:02:47.449816Z",
   "vocab": [
-    "anticipation: 기대, 예상",
-    "norms: 규법, 기준",
-    "dermatitis: 피부염",
-    "breakup: 이별, 붕괴",
-    "wards: 병동"
+    "orthopedic: 정형 외과의",
+    "especially: 특히",
+    "pilgrim: 순례길",
+    "fast-paced: 빨리 돌아가는",
+    "molar: 어금니"
   ],
   "sentences": [
-    "We were filled with anticipation.",
-    "That anticipation makes the whole day feel richer."
+    "I had to take two buses and they stop running pretty early.",
+    "Looking back, I remember being hooked on Future Boy Conan when I was a kid.",
+    "When I first met her, I just thought of her as a dog."
   ],
   "counts": {
-    "vocabPool": 2321,
-    "sentencePool": 298
+    "vocabPool": 2326,
+    "sentencePool": 301
   }
 }
