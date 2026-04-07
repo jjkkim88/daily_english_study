@@ -1,6 +1,14 @@
 # 📘 영어 단어 정리
 
 ## Words
+- demanding: 버거운, 부담이 큰, 요구가 많은
+- intense: 격렬한, 진지한
+
+- frustration: 답답함, 불만
+- consistency: 한결같음, 일관성
+- smoothly: 부드럽게, 순조롭게
+- flow: 흐름, 흐르다
+
 - exaggeration: 과장
 - bond: 유대, 접착시키다
 
@@ -2271,6 +2279,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- slip by: ~을 슬쩍 통과하다, 흘려보내다
+- pay off: 성공하다, 성과를 올리다
 
 - step up: 나서다, 책임지다
 
@@ -2323,6 +2333,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- in that: ~라는 점에서
+
+- take note: 필기하다
+- before I knew it: 어느새, 불현듯
 
 - keep close eye on: 세심히 챙기다
 - play one's own part: 역할을 하다, 맡은 바를 다하다

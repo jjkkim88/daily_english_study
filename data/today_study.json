@@ -1,20 +1,18 @@
 {
-  "date": "2026-04-06",
-  "generatedAt": "2026-04-06T01:02:47.449816Z",
+  "date": "2026-04-07",
+  "generatedAt": "2026-04-06T15:00:09.911898Z",
   "vocab": [
-    "orthopedic: 정형 외과의",
-    "especially: 특히",
-    "pilgrim: 순례길",
-    "fast-paced: 빨리 돌아가는",
-    "molar: 어금니"
+    "dispatch: 파견, 보내다",
+    "conquer: 정복하다, 이기다",
+    "intuitively: 직관적인",
+    "superstition: 미신",
+    "excess: 지나침, 초과한"
   ],
   "sentences": [
-    "I had to take two buses and they stop running pretty early.",
-    "Looking back, I remember being hooked on Future Boy Conan when I was a kid.",
-    "When I first met her, I just thought of her as a dog."
+    "I decided to set out on my own to conquer New York City."
   ],
   "counts": {
-    "vocabPool": 2326,
-    "sentencePool": 301
+    "vocabPool": 2333,
+    "sentencePool": 305
   }
 }

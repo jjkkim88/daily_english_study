@@ -1,5 +1,13 @@
 # ✍ 외울 문장 정리
 
+- As I have gotten older, the intense exercise has started to feel a bit too demanding.
+- Park golf is a lot like regular golf in that you walk on grass and hit a ball into a hole.
+
+- I didn't want to let each day's new topic slip by.
+- Before I knew it, I had become much more fluent.
+- Nothing beats consistency, especially when you enjoy the process.
+- It just flowed naturally in an English interview I had recently.
+
 - It's no exaggeration to say she raised me on her back.
 - The third is the one who keeps a close eye on our parents' health.
 - Each of us is doing our best in our own way.
