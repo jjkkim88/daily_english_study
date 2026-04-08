@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- aquaphobia: 물공포증
+- drown: 익사하다, 흠뻑 젖게 하다
+- traumatize: 트라우마가 생기다
+- scaredy-cat: 겁쟁이
+
 - demanding: 버거운, 부담이 큰, 요구가 많은
 - intense: 격렬한, 진지한
 
@@ -2333,6 +2339,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- go in past: ~너머 들어가다
 
 - in that: ~라는 점에서
 

@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I was traumatized by that experience.
+- My daughter quickly moved up to the advanced class.
+
 - As I have gotten older, the intense exercise has started to feel a bit too demanding.
 - Park golf is a lot like regular golf in that you walk on grass and hit a ball into a hole.
 
