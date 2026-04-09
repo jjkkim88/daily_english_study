@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- buzzword: 유행어
+- commit: 약속하다, 저지르다, 헌신하다
+- triathlon: 철인3종 경기
+- budge: 꼼짝하다, 약간 움직이다
 
 - aquaphobia: 물공포증
 - drown: 익사하다, 흠뻑 젖게 하다
@@ -2339,6 +2343,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- restful sleep: 숙면
+- pull myself together: 정신차리다
+- take five: 5분 쉬다
+
 - go in past: ~너머 들어가다
 
 - in that: ~라는 점에서

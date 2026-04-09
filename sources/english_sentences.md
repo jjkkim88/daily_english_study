@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- Slow aging has become a buzzword lately.
+- There are days when I don't want to budge.
+- I pull myself together.
+- I'm going to take five.
+
 - I was traumatized by that experience.
 - My daughter quickly moved up to the advanced class.
 
