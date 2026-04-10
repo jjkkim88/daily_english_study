@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- She made it through several critical moments, including surgery.
+- She is an affectionate loving daughter.
+- It's really that time already.
+
 - Slow aging has become a buzzword lately.
 - There are days when I don't want to budge.
 - I pull myself together.

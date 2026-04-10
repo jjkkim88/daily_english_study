@@ -1,19 +1,20 @@
 {
-  "date": "2026-04-09",
-  "generatedAt": "2026-04-08T15:00:17.502408Z",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-09T15:00:05.627346Z",
   "vocab": [
-    "variable: 변수",
-    "solidify: 굳어지다, 굳히다",
-    "diehard: 보수적인, 완고한",
-    "properly: 적절히",
-    "independently: 독립하여, 자주적으로"
+    "intensive: 집중적인, 강도 높은",
+    "newfound: 새로 발견된, 최근에 눈에 띄는",
+    "dear: 소중한, 사랑하는",
+    "setup: 세팅, 구성",
+    "perspective: 관점, 시각, 군형감, 원근법"
   ],
   "sentences": [
-    "We chose to travel independently.",
-    "I wanted my 10-year-old daughter to learn to ski properly."
+    "Around this time next year, he will be a college student.",
+    "I grit my teeth.",
+    "When I first met her, I just thought of her as a dog."
   ],
   "counts": {
-    "vocabPool": 2341,
-    "sentencePool": 309
+    "vocabPool": 2348,
+    "sentencePool": 313
   }
 }

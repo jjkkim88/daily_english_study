@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- incubator: 인큐베이터
+- discharge: 해고하다, 석방하다, 방출
+- rehabilitation: 재활
+- milestone: 이정표, 중요한 단계
+- affectionate: 애교 많은
+
 - buzzword: 유행어
 - commit: 약속하다, 저지르다, 헌신하다
 - triathlon: 철인3종 경기
@@ -2289,6 +2296,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- make it through: 견디다
+
 - slip by: ~을 슬쩍 통과하다, 흘려보내다
 - pay off: 성공하다, 성과를 올리다
 
@@ -2343,6 +2353,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- more or less: 거의
+- premature birth: 조산
 
 - restful sleep: 숙면
 - pull myself together: 정신차리다
