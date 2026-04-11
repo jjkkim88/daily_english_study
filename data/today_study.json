@@ -1,20 +1,19 @@
 {
-  "date": "2026-04-10",
-  "generatedAt": "2026-04-09T15:00:05.627346Z",
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-10T15:00:19.240819Z",
   "vocab": [
-    "intensive: 집중적인, 강도 높은",
-    "newfound: 새로 발견된, 최근에 눈에 띄는",
-    "dear: 소중한, 사랑하는",
-    "setup: 세팅, 구성",
-    "perspective: 관점, 시각, 군형감, 원근법"
+    "care for each other: 서로 알콜당콜 지내다",
+    "morale: 사기, 의욕",
+    "chores: 잡일, 허드렛일",
+    "spouse: 배우자",
+    "especially: 특히, 유난히"
   ],
   "sentences": [
-    "Around this time next year, he will be a college student.",
-    "I grit my teeth.",
-    "When I first met her, I just thought of her as a dog."
+    "Nothing beats consistency, especially when you enjoy the process.",
+    "Find one good thing about your spouse every day and compliment them on it."
   ],
   "counts": {
-    "vocabPool": 2348,
-    "sentencePool": 313
+    "vocabPool": 2355,
+    "sentencePool": 316
   }
 }
