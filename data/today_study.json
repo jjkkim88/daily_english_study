@@ -1,16 +1,15 @@
 {
-  "date": "2026-04-11",
-  "generatedAt": "2026-04-10T15:00:19.240819Z",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-11T15:00:10.198384Z",
   "vocab": [
-    "care for each other: 서로 알콜당콜 지내다",
-    "morale: 사기, 의욕",
-    "chores: 잡일, 허드렛일",
-    "spouse: 배우자",
-    "especially: 특히, 유난히"
+    "uncanny: 이상한, 묘한",
+    "eldest: 가장 나이가 많은",
+    "cradle: 아기침대",
+    "hands-on: 직접 해 보는",
+    "pull myself together: 정신차리다"
   ],
   "sentences": [
-    "Nothing beats consistency, especially when you enjoy the process.",
-    "Find one good thing about your spouse every day and compliment them on it."
+    "I pull myself together."
   ],
   "counts": {
     "vocabPool": 2355,
