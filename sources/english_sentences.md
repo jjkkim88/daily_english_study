@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- My husband encouraged me to really go for it this time.
+- With my family's full support, I trained hard for 10 months.
+
 - She made it through several critical moments, including surgery.
 - She is an affectionate loving daughter.
 - It's really that time already.

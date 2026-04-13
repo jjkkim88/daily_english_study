@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-12",
-  "generatedAt": "2026-04-11T15:00:10.198384Z",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-12T15:00:14.715909Z",
   "vocab": [
-    "uncanny: 이상한, 묘한",
-    "eldest: 가장 나이가 많은",
-    "cradle: 아기침대",
-    "hands-on: 직접 해 보는",
-    "pull myself together: 정신차리다"
+    "painstakingly: 공들여",
+    "strain: 부담, 압박, 혹사하다",
+    "reimbursement: 갚음, 상환",
+    "growth: 성장, 증가",
+    "temper: 성질, 울화통, 누그러뜨리다"
   ],
   "sentences": [
-    "I pull myself together."
+    "But in the end I lose my temper."
   ],
   "counts": {
     "vocabPool": 2355,

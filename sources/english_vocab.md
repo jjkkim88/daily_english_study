@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- meaningful: 의미 있는, 중요한
 
 - incubator: 인큐베이터
 - discharge: 해고하다, 석방하다, 방출
@@ -2296,6 +2297,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- go for: ~을 시도하다, ~을 좋아하다
 
 - make it through: 견디다
 
@@ -2353,6 +2355,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- on top of that: 그 위에
+
 - more or less: 거의
 - premature birth: 조산
 
