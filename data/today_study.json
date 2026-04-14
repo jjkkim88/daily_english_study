@@ -1,18 +1,20 @@
 {
-  "date": "2026-04-13",
-  "generatedAt": "2026-04-12T15:00:14.715909Z",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-13T15:00:19.544938Z",
   "vocab": [
-    "painstakingly: 공들여",
-    "strain: 부담, 압박, 혹사하다",
-    "reimbursement: 갚음, 상환",
-    "growth: 성장, 증가",
-    "temper: 성질, 울화통, 누그러뜨리다"
+    "recognition: 인정, 승인, 인지",
+    "fluorescent : 형광색",
+    "traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다",
+    "point: 시점, 지점",
+    "annoying: 짜증스러운"
   ],
   "sentences": [
-    "But in the end I lose my temper."
+    "He has a broad build.",
+    "I always dreamed of having a place of my own.",
+    "Dogs have emotions and can deeply connect with people."
   ],
   "counts": {
-    "vocabPool": 2355,
-    "sentencePool": 316
+    "vocabPool": 2358,
+    "sentencePool": 318
   }
 }
