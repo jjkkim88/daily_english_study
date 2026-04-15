@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-14",
-  "generatedAt": "2026-04-13T15:00:19.544938Z",
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-14T15:00:10.848383Z",
   "vocab": [
-    "recognition: 인정, 승인, 인지",
-    "fluorescent : 형광색",
-    "traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다",
-    "point: 시점, 지점",
-    "annoying: 짜증스러운"
+    "niece: 여자 조카",
+    "metropolis: 대도시권",
+    "burn through: 탕진하다",
+    "burden: 부담, 짐",
+    "blast: 폭발, 강한 바람, 팔발시키다"
   ],
   "sentences": [
-    "He has a broad build.",
-    "I always dreamed of having a place of my own.",
-    "Dogs have emotions and can deeply connect with people."
+    "My son was at the wheel.",
+    "He seems to have an idealized view of life in Korea.",
+    "My kids look after themselves pretty well."
   ],
   "counts": {
     "vocabPool": 2358,

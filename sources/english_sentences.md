@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I only thought of it as another appliance, but now it feels like a beloved companion.
+- It cleans every corner of the house all on its own.
+- It's especially helpful on weekends when I have guests over.
+- My robot vacuum has given me the gift of time and breathing room.
+
 - My husband encouraged me to really go for it this time.
 - With my family's full support, I trained hard for 10 months.
 

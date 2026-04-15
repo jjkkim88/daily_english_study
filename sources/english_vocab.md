@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- beloved: 소중한, 사랑하는
+- companion: 동반자, 동행
+- spotless: 티끌하나 없는게
+- speck: 작은 얼룩
+- endearing: 사랑스러운
+
 - meaningful: 의미 있는, 중요한
 
 - incubator: 인큐베이터
@@ -2297,6 +2304,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- guest over: 손님을 맞이하다
+
 - go for: ~을 시도하다, ~을 좋아하다
 
 - make it through: 견디다
@@ -2355,6 +2365,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- speck of dust: 티끌
+- in advance: 미리
 
 - on top of that: 그 위에
 
