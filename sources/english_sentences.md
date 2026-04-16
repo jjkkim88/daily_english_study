@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I was so gung-ho about running.
+- I became paralyzed and couldn't choose.
+- I agonized over it for a whole month.
+
 - I only thought of it as another appliance, but now it feels like a beloved companion.
 - It cleans every corner of the house all on its own.
 - It's especially helpful on weekends when I have guests over.

@@ -1,20 +1,20 @@
 {
-  "date": "2026-04-15",
-  "generatedAt": "2026-04-14T15:00:10.848383Z",
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-15T15:00:14.241622Z",
   "vocab": [
-    "niece: 여자 조카",
-    "metropolis: 대도시권",
-    "burn through: 탕진하다",
-    "burden: 부담, 짐",
-    "blast: 폭발, 강한 바람, 팔발시키다"
+    "pilgrimage: 순례, 성지 참배",
+    "sharp: 날카로운, 급격한, 정각에",
+    "rights: 권리",
+    "transaction: 거래, 매매, 처리",
+    "leisurely: 한가한"
   ],
   "sentences": [
-    "My son was at the wheel.",
-    "He seems to have an idealized view of life in Korea.",
-    "My kids look after themselves pretty well."
+    "His work pants wear out quickly.",
+    "He has been begging us non-stop.",
+    "My daughter quickly moved up to the advanced class."
   ],
   "counts": {
-    "vocabPool": 2358,
-    "sentencePool": 318
+    "vocabPool": 2366,
+    "sentencePool": 322
   }
 }

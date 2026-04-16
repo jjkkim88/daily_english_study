@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- paralyzed: 마비된
+- splurge: 돈을 물쓰듯 쓰기
+- agonized: 고뇌에 찬
 
 - beloved: 소중한, 사랑하는
 - companion: 동반자, 동행
@@ -2365,6 +2368,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- in person: 직접
+
 - speck of dust: 티끌
 - in advance: 미리
 
