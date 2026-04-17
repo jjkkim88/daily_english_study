@@ -1,20 +1,18 @@
 {
-  "date": "2026-04-16",
-  "generatedAt": "2026-04-15T15:00:14.241622Z",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T00:13:26.777486Z",
   "vocab": [
-    "pilgrimage: 순례, 성지 참배",
-    "sharp: 날카로운, 급격한, 정각에",
-    "rights: 권리",
-    "transaction: 거래, 매매, 처리",
-    "leisurely: 한가한"
+    "flip: 뒤집다, 던지기",
+    "frustrating: 불만스러운, 좌절감을 주는",
+    "cylinder: 실린더, 원통",
+    "companion: 동반자, 친구",
+    "boast: 뽐내다, 자랑하다, 뽐냄, 자랑"
   ],
   "sentences": [
-    "His work pants wear out quickly.",
-    "He has been begging us non-stop.",
-    "My daughter quickly moved up to the advanced class."
+    "I only thought of it as another appliance, but now it feels like a beloved companion."
   ],
   "counts": {
-    "vocabPool": 2366,
-    "sentencePool": 322
+    "vocabPool": 2370,
+    "sentencePool": 325
   }
 }

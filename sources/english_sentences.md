@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- My spouse and I have been camping enthusiasts for 12 years now.
+- Cheery blossom were in full bloom.
+- It made us feel like real Jeju locals.
+
 - I was so gung-ho about running.
 - I became paralyzed and couldn't choose.
 - I agonized over it for a whole month.

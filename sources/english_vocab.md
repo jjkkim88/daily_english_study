@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- enthusiast: 열광적인 팬
+- region: 지역
+
 - paralyzed: 마비된
 - splurge: 돈을 물쓰듯 쓰기
 - agonized: 고뇌에 찬
@@ -2307,6 +2311,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- set off: 출발하다
+- divide into: ~으로 나누다
+- soak in: ~에 적시다
+- show up: 눈에 띄다
 
 - guest over: 손님을 맞이하다
 
@@ -2368,6 +2376,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- canola flower: 유채꽃
 
 - in person: 직접
 
