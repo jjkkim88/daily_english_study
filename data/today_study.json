@@ -1,18 +1,20 @@
 {
-  "date": "2026-04-17",
-  "generatedAt": "2026-04-17T00:13:26.777486Z",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-17T15:00:13.115732Z",
   "vocab": [
-    "flip: 뒤집다, 던지기",
-    "frustrating: 불만스러운, 좌절감을 주는",
-    "cylinder: 실린더, 원통",
-    "companion: 동반자, 친구",
-    "boast: 뽐내다, 자랑하다, 뽐냄, 자랑"
+    "quantum: 양자",
+    "leisurely: 여유로운, 한가한, 느긋한",
+    "diminish: 줄어들다, 약해지다",
+    "setup: 세팅, 구성",
+    "care for each other: 서로 알콜당콜 지내다"
   ],
   "sentences": [
-    "I only thought of it as another appliance, but now it feels like a beloved companion."
+    "Another year is already coming to an end.",
+    "We take a 40-minutes bus ride downtown to get a snack together.",
+    "Once you hit 40, you start thinking a lot."
   ],
   "counts": {
-    "vocabPool": 2370,
-    "sentencePool": 325
+    "vocabPool": 2377,
+    "sentencePool": 328
   }
 }
