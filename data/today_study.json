@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-18",
-  "generatedAt": "2026-04-17T15:00:13.115732Z",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-18T15:00:13.615570Z",
   "vocab": [
-    "quantum: 양자",
-    "leisurely: 여유로운, 한가한, 느긋한",
-    "diminish: 줄어들다, 약해지다",
-    "setup: 세팅, 구성",
-    "care for each other: 서로 알콜당콜 지내다"
+    "avid: 열심인, 열렬한, 열망하는",
+    "leftover: 남은 음식",
+    "accompany: 동반하다, 동행하다",
+    "seasonal: 계절적인",
+    "adopt: 채택하다, 입양하다"
   ],
   "sentences": [
-    "Another year is already coming to an end.",
-    "We take a 40-minutes bus ride downtown to get a snack together.",
-    "Once you hit 40, you start thinking a lot."
+    "I could relate to how hard it must be for them.",
+    "My child is keeping busy with student council activities and weekly exams.",
+    "She doodles all over my workbook."
   ],
   "counts": {
     "vocabPool": 2377,
