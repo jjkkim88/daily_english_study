@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I was not too keen on the idea.
+- I've never been a big fan of over-the-top wedding culture.
+
 - My spouse and I have been camping enthusiasts for 12 years now.
 - Cheery blossom were in full bloom.
 - It made us feel like real Jeju locals.

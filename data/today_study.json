@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-19",
-  "generatedAt": "2026-04-18T15:00:13.615570Z",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-19T15:00:13.803916Z",
   "vocab": [
-    "avid: 열심인, 열렬한, 열망하는",
-    "leftover: 남은 음식",
-    "accompany: 동반하다, 동행하다",
-    "seasonal: 계절적인",
-    "adopt: 채택하다, 입양하다"
+    "handwrite: 손으로 쓰다",
+    "sore: 아픈, 화가 난",
+    "self-discipline: 자기 관리",
+    "rural : 농촌의",
+    "intricate: 복잡한"
   ],
   "sentences": [
-    "I could relate to how hard it must be for them.",
-    "My child is keeping busy with student council activities and weekly exams.",
-    "She doodles all over my workbook."
+    "With my family's full support, I trained hard for 10 months.",
+    "I was so gung-ho about running.",
+    "A lot of people got seasick."
   ],
   "counts": {
     "vocabPool": 2377,

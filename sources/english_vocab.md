@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- over-the-top : 과장된
+- overpriced: 너무 비싼
+- frills: 군더더기, 거품, 프릴
 
 - enthusiast: 열광적인 팬
 - region: 지역
@@ -2311,6 +2314,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- keen on: ~에 관심이 많은
+- help out: 도와주다
+
 - set off: 출발하다
 - divide into: ~으로 나누다
 - soak in: ~에 적시다
@@ -2376,6 +2383,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- throw party: 파티를 열다
+
 - canola flower: 유채꽃
 
 - in person: 직접
