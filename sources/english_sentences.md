@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I am what you would call a detailer, someone who is really into washing their car.
+- I first got into washing cars when I bought my very first one.
+- Washing my car lets me clear my head.
+- Let me walk you through the basic routine.
+
 - I was not too keen on the idea.
 - I've never been a big fan of over-the-top wedding culture.
 

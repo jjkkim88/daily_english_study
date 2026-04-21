@@ -1,20 +1,20 @@
 {
-  "date": "2026-04-20",
-  "generatedAt": "2026-04-19T15:00:13.803916Z",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-20T15:00:26.310313Z",
   "vocab": [
-    "handwrite: 손으로 쓰다",
-    "sore: 아픈, 화가 난",
-    "self-discipline: 자기 관리",
-    "rural : 농촌의",
-    "intricate: 복잡한"
+    "intermittent: 간헐적인",
+    "blast: 폭발, 강한 바람, 팔발시키다",
+    "sensation: 느낌, 감각",
+    "mouth-watering: 군침도는",
+    "substantial: 상당한"
   ],
   "sentences": [
-    "With my family's full support, I trained hard for 10 months.",
-    "I was so gung-ho about running.",
-    "A lot of people got seasick."
+    "Make up your mind already.",
+    "Nothing beats consistency, especially when you enjoy the process.",
+    "The moment it hit 6:05, an employee shut down the liquor section."
   ],
   "counts": {
-    "vocabPool": 2377,
-    "sentencePool": 328
+    "vocabPool": 2383,
+    "sentencePool": 330
   }
 }

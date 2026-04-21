@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- dirt: 먼지, 흙
+- pamper: 소중히 보살피다, 애지중지하다
+- mitt: 글러브
+- accomplishment: 업적, 공적, 완수
+- hose: 호스
+
 - over-the-top : 과장된
 - overpriced: 너무 비싼
 - frills: 군더더기, 거품, 프릴
@@ -2314,6 +2321,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- get into: ~을 시작하게 되다, 들어가다
+- loosen up: 풀어주다, 불리다
+- spray on: 표면에 뿌리다
 
 - keen on: ~에 관심이 많은
 - help out: 도와주다
