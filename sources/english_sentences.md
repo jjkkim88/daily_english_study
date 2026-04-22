@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Nothing beats them for quenching your thirst.
+- Their mouths can swell up, and in severe cases, they can even have difficulty breathing.
+- Do you have an allergic reaction to them?
+
 - I am what you would call a detailer, someone who is really into washing their car.
 - I first got into washing cars when I bought my very first one.
 - Washing my car lets me clear my head.

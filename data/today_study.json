@@ -1,20 +1,18 @@
 {
-  "date": "2026-04-21",
-  "generatedAt": "2026-04-20T15:00:26.310313Z",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-21T15:00:11.513025Z",
   "vocab": [
-    "intermittent: 간헐적인",
-    "blast: 폭발, 강한 바람, 팔발시키다",
-    "sensation: 느낌, 감각",
-    "mouth-watering: 군침도는",
-    "substantial: 상당한"
+    "neglect: 방치하다, 도외시키다",
+    "non-stop: 쉴세없이",
+    "jargon: 용어",
+    "lifetime: 평생",
+    "wander: 거닐다, 헤매다, 다른 데로 가다"
   ],
   "sentences": [
-    "Make up your mind already.",
-    "Nothing beats consistency, especially when you enjoy the process.",
-    "The moment it hit 6:05, an employee shut down the liquor section."
+    "He has been begging us non-stop."
   ],
   "counts": {
-    "vocabPool": 2383,
-    "sentencePool": 330
+    "vocabPool": 2391,
+    "sentencePool": 334
   }
 }

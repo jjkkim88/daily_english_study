@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- edible: 먹을 수 있는
+- hives: 두드러기
 
 - dirt: 먼지, 흙
 - pamper: 소중히 보살피다, 애지중지하다
@@ -2321,6 +2323,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- swell up: 부어오르다
+
 - get into: ~을 시작하게 되다, 들어가다
 - loosen up: 풀어주다, 불리다
 - spray on: 표면에 뿌리다
@@ -2393,6 +2398,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- refer to ~ as ~: ~을 ~라 일컫다
+- quenching one's thirst: 갈증해소하다
 
 - throw party: 파티를 열다
 
