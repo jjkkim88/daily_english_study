@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- struggle: 힘겹게 나아가다, 투쟁하다
+- portfolio: 포트폴리오, 작품집
+
 - edible: 먹을 수 있는
 - hives: 두드러기
 
@@ -2323,6 +2327,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- cheer someone on: ~를 응원하다
 
 - swell up: 부어오르다
 
@@ -2398,6 +2403,12 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- think of: ~을 고려하다
+- get anywhere: 무엇인가 성과를 거두다, 잘 되다
+- keep at it: 견디어 내다, 계속하다
+- gt a kick out of: ~을 즐기다, ~로부터 짜릿한 흥분을 얻다.
+
 - refer to ~ as ~: ~을 ~라 일컫다
 - quenching one's thirst: 갈증해소하다
 

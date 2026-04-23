@@ -1,18 +1,18 @@
 {
-  "date": "2026-04-22",
-  "generatedAt": "2026-04-21T15:00:11.513025Z",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-22T15:00:14.639097Z",
   "vocab": [
-    "neglect: 방치하다, 도외시키다",
-    "non-stop: 쉴세없이",
-    "jargon: 용어",
-    "lifetime: 평생",
-    "wander: 거닐다, 헤매다, 다른 데로 가다"
+    "doubles: 복식",
+    "oversight: 실수, 관리 감독",
+    "symptom: 증상",
+    "pull myself together: 정신차리다",
+    "adversity: 역경"
   ],
   "sentences": [
-    "He has been begging us non-stop."
+    "I pull myself together."
   ],
   "counts": {
-    "vocabPool": 2391,
-    "sentencePool": 334
+    "vocabPool": 2395,
+    "sentencePool": 337
   }
 }

@@ -1,5 +1,11 @@
 # ✍ 외울 문장 정리
 
+- This has always been a struggle for me.
+- I tried everything I could think of including phone lessons, video lessons, and YouTube videos.
+- I felt like I wasn't getting anywhere.
+- I kept at it consistently.
+- I get a kick out of memorizing sentences every day.
+
 - Nothing beats them for quenching your thirst.
 - Their mouths can swell up, and in severe cases, they can even have difficulty breathing.
 - Do you have an allergic reaction to them?
