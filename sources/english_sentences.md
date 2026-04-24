@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I was so anxious that morning that I broke into a cold sweat.
+- As a parent, I can't help but worry.
+
 - This has always been a struggle for me.
 - I tried everything I could think of including phone lessons, video lessons, and YouTube videos.
 - I felt like I wasn't getting anywhere.

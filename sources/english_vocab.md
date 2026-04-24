@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- hands-on: 직접해보는
+- excursion: 여행, 외도
+- slightest: 최소의
 
 - struggle: 힘겹게 나아가다, 투쟁하다
 - portfolio: 포트폴리오, 작품집
@@ -2327,6 +2330,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- break into: ~하기 시작하다
+
 - cheer someone on: ~를 응원하다
 
 - swell up: 부어오르다
@@ -2403,6 +2409,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+- sign somebody up for ~: ~를 ~을 위해 신청하다
+- head out the door: 문을 열고 나서다
+- and so on and so forth: 기타 등등
+- cold sweat: 식은땀
+- can't help but: ~하지 않을 수 없다
 
 - think of: ~을 고려하다
 - get anywhere: 무엇인가 성과를 거두다, 잘 되다

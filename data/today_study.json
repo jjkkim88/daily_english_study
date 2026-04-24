@@ -1,18 +1,20 @@
 {
-  "date": "2026-04-23",
-  "generatedAt": "2026-04-22T15:00:14.639097Z",
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-23T15:00:16.922577Z",
   "vocab": [
-    "doubles: 복식",
-    "oversight: 실수, 관리 감독",
-    "symptom: 증상",
-    "pull myself together: 정신차리다",
-    "adversity: 역경"
+    "dictation: 받아쓰기",
+    "refer to ~ as ~: ~을 ~라 일컫다",
+    "transplant: 이식하다, 옮겨 심다",
+    "disperse: 흩어지다, 해산하다,",
+    "vivid: 생생한"
   ],
   "sentences": [
-    "I pull myself together."
+    "I complained that he was wasting money replacing switches that were perfectly fine.",
+    "Playing the piano really puts my mind at ease.",
+    "Was the answer any good?"
   ],
   "counts": {
-    "vocabPool": 2395,
-    "sentencePool": 337
+    "vocabPool": 2402,
+    "sentencePool": 342
   }
 }
