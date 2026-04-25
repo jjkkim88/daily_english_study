@@ -1,20 +1,19 @@
 {
-  "date": "2026-04-24",
-  "generatedAt": "2026-04-23T15:00:16.922577Z",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-24T15:00:20.426669Z",
   "vocab": [
-    "dictation: 받아쓰기",
-    "refer to ~ as ~: ~을 ~라 일컫다",
-    "transplant: 이식하다, 옮겨 심다",
-    "disperse: 흩어지다, 해산하다,",
-    "vivid: 생생한"
+    "self-esteem: 자존감, 자부심",
+    "concerns: 걱정, 염려, 관심사",
+    "properly: 적절히",
+    "thriller: 스릴러 물",
+    "play one's own part: 역할을 하다, 맡은 바를 다하다"
   ],
   "sentences": [
-    "I complained that he was wasting money replacing switches that were perfectly fine.",
-    "Playing the piano really puts my mind at ease.",
-    "Was the answer any good?"
+    "I wanted my 10-year-old daughter to learn to ski properly.",
+    "Concerns might come and go, but anxiety can persist for a long time."
   ],
   "counts": {
-    "vocabPool": 2402,
-    "sentencePool": 342
+    "vocabPool": 2411,
+    "sentencePool": 344
   }
 }
