@@ -1,16 +1,17 @@
 {
-  "date": "2026-04-25",
-  "generatedAt": "2026-04-24T15:00:20.426669Z",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-25T15:00:12.147201Z",
   "vocab": [
-    "self-esteem: 자존감, 자부심",
-    "concerns: 걱정, 염려, 관심사",
-    "properly: 적절히",
-    "thriller: 스릴러 물",
-    "play one's own part: 역할을 하다, 맡은 바를 다하다"
+    "conservation: 보호, 보존",
+    "trajectory: 탄도, 궤적, 궤도",
+    "reassuring: 든든한, 안심시키는",
+    "bully: 괴롭히다, 괴롭히는 사람",
+    "podium: 단"
   ],
   "sentences": [
-    "I wanted my 10-year-old daughter to learn to ski properly.",
-    "Concerns might come and go, but anxiety can persist for a long time."
+    "It allows him to feel proud of himself, too.",
+    "I get a kick out of memorizing sentences every day.",
+    "She doodles all over my workbook."
   ],
   "counts": {
     "vocabPool": 2411,
