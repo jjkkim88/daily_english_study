@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- unwind: 풀다, 긴장을 풀다
+
 - hands-on: 직접해보는
 - excursion: 여행, 외도
 - slightest: 최소의
@@ -2409,6 +2412,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- take the chance: 기회를 이용해서
+- for the first time in a long while: 오랜만에 처음으로
+- take it easy: 진정해라, 여유있게 해라
+
 - sign somebody up for ~: ~를 ~을 위해 신청하다
 - head out the door: 문을 열고 나서다
 - and so on and so forth: 기타 등등

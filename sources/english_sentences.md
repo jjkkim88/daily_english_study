@@ -1,5 +1,12 @@
 # ✍ 외울 문장 정리
 
+- We took the chance to travel to Da Nang, Vietnam.
+- It was just the two of us.
+- She looked truly relaxed for the first time in a long while.
+- Our trip felt like a wish come true.
+- We really got to unwind.
+- She had the time of her life.
+
 - I was so anxious that morning that I broke into a cold sweat.
 - As a parent, I can't help but worry.
 
