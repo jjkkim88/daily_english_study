@@ -1,17 +1,17 @@
 {
-  "date": "2026-04-28",
-  "generatedAt": "2026-04-27T15:00:11.548327Z",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-28T15:00:10.954997Z",
   "vocab": [
-    "daunting: 벅찬, 주눅이 들게 하는",
-    "potassium: 칼륨",
-    "adopt: 입양하다",
-    "woodwind: 목관 악기",
-    "works: 작품들"
+    "notable: 주목할 만한",
+    "corporate: 기업의, 법인의",
+    "droopy: 쳐진",
+    "doable: 할 수 있는",
+    "smooth: 매끈한, 부드럽게 하다"
   ],
   "sentences": [
-    "I was not too keen on the idea.",
-    "Studying together instead of alone makes it more fun and effective.",
-    "I would just buy a simple esspresso maker without all the bells and whistles."
+    "It helps me clear my head.",
+    "I've never been a big fan of over-the-top wedding culture.",
+    "My parents advised me to see a dermatologist right away, saying the sooner I had it removed, the better."
   ],
   "counts": {
     "vocabPool": 2415,

@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- It could be exhausting at times.
+- It really hit me how much he has grown.
+- Part of me feels a little sad.
+
 - We took the chance to travel to Da Nang, Vietnam.
 - It was just the two of us.
 - She looked truly relaxed for the first time in a long while.

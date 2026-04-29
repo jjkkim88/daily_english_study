@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- ease: 완화시키다
+- worn: 해진, 닳은
+- ragged: 누더기가 된, 다 해진
+- exhausting: 기진맥진하게 만드는
 
 - unwind: 풀다, 긴장을 풀다
 
@@ -2412,6 +2416,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- separation anxiety: 분리 불안
+- stuffed animal: 봉제 인형
+- at times: 가끔은
 
 - take the chance: 기회를 이용해서
 - for the first time in a long while: 오랜만에 처음으로
