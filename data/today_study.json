@@ -1,20 +1,20 @@
 {
-  "date": "2026-04-29",
-  "generatedAt": "2026-04-28T15:00:10.954997Z",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-29T15:00:15.967368Z",
   "vocab": [
-    "notable: 주목할 만한",
-    "corporate: 기업의, 법인의",
-    "droopy: 쳐진",
-    "doable: 할 수 있는",
-    "smooth: 매끈한, 부드럽게 하다"
+    "geothermal: 지열의",
+    "cemented: 확고부동해진",
+    "supportive: 지원하는, 도와주는, 힘을 주는",
+    "scold: 야단치다, 꾸짖다",
+    "widespread: 광범위한, 널리 퍼진"
   ],
   "sentences": [
-    "It helps me clear my head.",
-    "I've never been a big fan of over-the-top wedding culture.",
-    "My parents advised me to see a dermatologist right away, saying the sooner I had it removed, the better."
+    "So she can play just about any song.",
+    "She doodles all over my workbook.",
+    "My wife and I have been taking turns going with him, which means he has seen the movie ten times all told."
   ],
   "counts": {
-    "vocabPool": 2415,
-    "sentencePool": 350
+    "vocabPool": 2421,
+    "sentencePool": 353
   }
 }
