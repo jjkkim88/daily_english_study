@@ -1,17 +1,15 @@
 {
-  "date": "2026-05-01",
-  "generatedAt": "2026-04-30T15:00:06.213789Z",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-01T15:00:12.297746Z",
   "vocab": [
-    "annals: 연대기, 연보",
-    "dread: 몹시 무서워하다, 두려움",
-    "handkerchief: 손수건",
-    "damage: 피해",
-    "sculpture: 조각품"
+    "fifty-fifty: 반반",
+    "appetite: 식욕, 욕구",
+    "rigid: 엄격한, 융통성 없는",
+    "scenery: 경치, 배경",
+    "companion: 동반자, 동지"
   ],
   "sentences": [
-    "it's finally starting to cool down.",
-    "Thanks to my clever husband, I can enjoy smart and convenient lifestyle.",
-    "I start by setting aside my concern and giving my mind a break."
+    "I only thought of it as another appliance, but now it feels like a beloved companion."
   ],
   "counts": {
     "vocabPool": 2421,
