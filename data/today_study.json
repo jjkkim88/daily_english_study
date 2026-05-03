@@ -1,15 +1,17 @@
 {
-  "date": "2026-05-02",
-  "generatedAt": "2026-05-01T15:00:12.297746Z",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-02T15:00:25.700586Z",
   "vocab": [
-    "fifty-fifty: 반반",
-    "appetite: 식욕, 욕구",
-    "rigid: 엄격한, 융통성 없는",
-    "scenery: 경치, 배경",
-    "companion: 동반자, 동지"
+    "well-placed: 믿을 수 있는",
+    "dear: 소중한, 사랑하는",
+    "makeover: 새단장",
+    "systemic: 전체에 영향을 주는",
+    "grumble: 투덜 거리다, 불만사항"
   ],
   "sentences": [
-    "I only thought of it as another appliance, but now it feels like a beloved companion."
+    "Convenience stores don't just sell daily necessities.",
+    "Being able to help someone really warmed my heart.",
+    "It occurred to me that life is a lot like a bus route."
   ],
   "counts": {
     "vocabPool": 2421,
