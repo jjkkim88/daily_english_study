@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-03",
-  "generatedAt": "2026-05-02T15:00:25.700586Z",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-03T15:00:07.329200Z",
   "vocab": [
-    "well-placed: 믿을 수 있는",
-    "dear: 소중한, 사랑하는",
-    "makeover: 새단장",
-    "systemic: 전체에 영향을 주는",
-    "grumble: 투덜 거리다, 불만사항"
+    "anesthesia: 마취",
+    "vain: 헛된, 소용없는, 허영심이 많은",
+    "pilgrim: 순례길",
+    "sheepish: 당황해 하는",
+    "bittersweet: 달콤쌈싸름한"
   ],
   "sentences": [
-    "Convenience stores don't just sell daily necessities.",
-    "Being able to help someone really warmed my heart.",
-    "It occurred to me that life is a lot like a bus route."
+    "I don't even want to go anywhere near it.",
+    "She doodles all over my workbook.",
+    "I decided to hit the books again."
   ],
   "counts": {
     "vocabPool": 2421,
