@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-04",
-  "generatedAt": "2026-05-03T15:00:07.329200Z",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-04T15:00:33.455564Z",
   "vocab": [
-    "anesthesia: 마취",
-    "vain: 헛된, 소용없는, 허영심이 많은",
-    "pilgrim: 순례길",
-    "sheepish: 당황해 하는",
-    "bittersweet: 달콤쌈싸름한"
+    "reignite: 재점화하다",
+    "embracing: 껴안는, 포용하는",
+    "exhausted: 기진맥진한, 고갈된",
+    "urination: 배뇨",
+    "rewire: 전선을 갈다"
   ],
   "sentences": [
-    "I don't even want to go anywhere near it.",
-    "She doodles all over my workbook.",
-    "I decided to hit the books again."
+    "I discovered a whole new world of Gimbap.",
+    "People are always debating whether talent is something you were born with or something you develop.",
+    "I would just buy a simple esspresso maker without all the bells and whistles."
   ],
   "counts": {
     "vocabPool": 2421,
