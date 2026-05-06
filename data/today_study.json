@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-05",
-  "generatedAt": "2026-05-04T15:00:33.455564Z",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-05T15:00:25.637238Z",
   "vocab": [
-    "reignite: 재점화하다",
-    "embracing: 껴안는, 포용하는",
-    "exhausted: 기진맥진한, 고갈된",
-    "urination: 배뇨",
-    "rewire: 전선을 갈다"
+    "frustrating: 불만스러운, 좌절감을 주는",
+    "expectant: 기대하는, 출산을 앞둔",
+    "convince: 설득하다",
+    "detain: 구금하다, 붙들다",
+    "expense: 비용"
   ],
   "sentences": [
-    "I discovered a whole new world of Gimbap.",
-    "People are always debating whether talent is something you were born with or something you develop.",
-    "I would just buy a simple esspresso maker without all the bells and whistles."
+    "Their mouths can swell up, and in severe cases, they can even have difficulty breathing.",
+    "We have to take a long way around.",
+    "We had an amazing time thanks to our daughter."
   ],
   "counts": {
     "vocabPool": 2421,
