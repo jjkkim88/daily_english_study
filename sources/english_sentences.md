@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I owed her a lot.
+- I plan to keep this up for as long as my health allows.
+- You're such a thoughtful husband.
+
 - It could be exhausting at times.
 - It really hit me how much he has grown.
 - Part of me feels a little sad.

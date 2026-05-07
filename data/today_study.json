@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-06",
-  "generatedAt": "2026-05-05T15:00:25.637238Z",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-06T15:00:14.634066Z",
   "vocab": [
-    "frustrating: 불만스러운, 좌절감을 주는",
-    "expectant: 기대하는, 출산을 앞둔",
-    "convince: 설득하다",
-    "detain: 구금하다, 붙들다",
-    "expense: 비용"
+    "swing: 흔들다, 획 움직이다",
+    "soundproofing: 방음",
+    "exclaim: 소리치다, 외치다",
+    "relative: 친척, 비교상의 상대적인",
+    "thermostat: 온도 조절기"
   ],
   "sentences": [
-    "Their mouths can swell up, and in severe cases, they can even have difficulty breathing.",
-    "We have to take a long way around.",
-    "We had an amazing time thanks to our daughter."
+    "Around this time next year, he will be a college student.",
+    "I was overcome with emotion.",
+    "I was against it at first."
   ],
   "counts": {
     "vocabPool": 2421,

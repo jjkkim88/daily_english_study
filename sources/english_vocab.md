@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- owe: 빚지고 있다, 신세를 지고 있다
+- stisfied: 만족스러운
+
 - ease: 완화시키다
 - worn: 해진, 닳은
 - ragged: 누더기가 된, 다 해진
@@ -2416,6 +2420,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- carry a heavy load: 큰 책임을 짊어지다
+- ever since: 그 이래 줄곧
+
 - separation anxiety: 분리 불안
 - stuffed animal: 봉제 인형
 - at times: 가끔은
