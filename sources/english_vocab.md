@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- vague: 희미한, 모호한, 애매한
+- grandiose: 거창한
+- nourish: 영양분을 공급하다, 키우다
+- grounded: 안정된
 
 - owe: 빚지고 있다, 신세를 지고 있다
 - stisfied: 만족스러운

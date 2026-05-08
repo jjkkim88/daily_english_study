@@ -1,20 +1,20 @@
 {
-  "date": "2026-05-07",
-  "generatedAt": "2026-05-06T15:00:14.634066Z",
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T00:25:07.601838Z",
   "vocab": [
-    "swing: 흔들다, 획 움직이다",
-    "soundproofing: 방음",
-    "exclaim: 소리치다, 외치다",
-    "relative: 친척, 비교상의 상대적인",
-    "thermostat: 온도 조절기"
+    "in person: 직접",
+    "conventional: 관습적인, 전통적인",
+    "slump: 금감하다, 불황",
+    "reveal: 드러내다",
+    "nomad: 유목민"
   ],
   "sentences": [
-    "Around this time next year, he will be a college student.",
-    "I was overcome with emotion.",
-    "I was against it at first."
+    "It's not enforced by law.",
+    "You can still enjoy something even if you're not good at it.",
+    "We are learning more as we are struggling."
   ],
   "counts": {
-    "vocabPool": 2421,
-    "sentencePool": 353
+    "vocabPool": 2429,
+    "sentencePool": 358
   }
 }

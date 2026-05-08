@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- When I thought about life priorities in the past, it felt vague and grandiose.
+- My top priority is a healthy life for myself.
+
 - I owed her a lot.
 - I plan to keep this up for as long as my health allows.
 - You're such a thoughtful husband.
