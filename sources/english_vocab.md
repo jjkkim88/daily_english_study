@@ -1,6 +1,14 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- adjust: 적응하다
+- childcare: 보육
+- grandparenting: 황혼육아
+- innocent: 결백한, 무고한, 순결한
+- fulfillment: 이행, 달성, 성취
+- kind-hearted: 마음씨 고운
+
 - vague: 희미한, 모호한, 애매한
 - grandiose: 거창한
 - nourish: 영양분을 공급하다, 키우다
@@ -2345,6 +2353,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- wash away: ~을 쓸어가다
 
 - break into: ~하기 시작하다
 

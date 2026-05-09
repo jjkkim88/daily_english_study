@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- That was when my daughter had a baby, and I started helping out with childcare.
+- I'm now in my eighth year of helping with childcare as a grandparent.
+- That kind-hearted comment instantly washed away all the fatigue of childcare.
+
 - When I thought about life priorities in the past, it felt vague and grandiose.
 - My top priority is a healthy life for myself.
 

@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-08",
-  "generatedAt": "2026-05-08T00:25:07.601838Z",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-08T15:00:14.020611Z",
   "vocab": [
-    "in person: 직접",
-    "conventional: 관습적인, 전통적인",
-    "slump: 금감하다, 불황",
-    "reveal: 드러내다",
-    "nomad: 유목민"
+    "devote: 바치다, 쏟다",
+    "part: 헤어지다, 부분",
+    "thoroughly: 대단히, 완전히, 철저하게",
+    "swelter: 무더위에 시달리다",
+    "reflect: 비추다, 반영하다"
   ],
   "sentences": [
-    "It's not enforced by law.",
-    "You can still enjoy something even if you're not good at it.",
-    "We are learning more as we are struggling."
+    "Part of me feels a little sad.",
+    "I guess it's all just part of growing up.",
+    "The best part of the jump rope academy is that our son genuinely enjoys it."
   ],
   "counts": {
     "vocabPool": 2429,
