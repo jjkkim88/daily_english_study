@@ -1,20 +1,20 @@
 {
-  "date": "2026-05-09",
-  "generatedAt": "2026-05-08T15:00:14.020611Z",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-09T15:00:18.601227Z",
   "vocab": [
-    "devote: 바치다, 쏟다",
-    "part: 헤어지다, 부분",
-    "thoroughly: 대단히, 완전히, 철저하게",
-    "swelter: 무더위에 시달리다",
-    "reflect: 비추다, 반영하다"
+    "houseplant: 실내 화초",
+    "bowl: 그릇, 공기, 공을 굴리다",
+    "morale: 사기, 의욕",
+    "noticeably: 뚜렷한, 현저한",
+    "increasingly: 점점 더, 갈수록 더"
   ],
   "sentences": [
-    "Part of me feels a little sad.",
-    "I guess it's all just part of growing up.",
-    "The best part of the jump rope academy is that our son genuinely enjoys it."
+    "I grit my teeth.",
+    "It felt refreshing to focus on playing an instrument for the first time in a while.",
+    "We argue here and there."
   ],
   "counts": {
-    "vocabPool": 2429,
-    "sentencePool": 358
+    "vocabPool": 2436,
+    "sentencePool": 361
   }
 }
