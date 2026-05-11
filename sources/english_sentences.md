@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- He took a hard fall and hit his face.
+- As a mom, it was a really upsetting and discouraging.
+- His teacher carefully Photoshopped the photo and removed all the bruises.
+
 - That was when my daughter had a baby, and I started helping out with childcare.
 - I'm now in my eighth year of helping with childcare as a grandparent.
 - That kind-hearted comment instantly washed away all the fatigue of childcare.

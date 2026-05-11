@@ -1,17 +1,15 @@
 {
-  "date": "2026-05-10",
-  "generatedAt": "2026-05-09T15:00:18.601227Z",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-10T15:00:19.709386Z",
   "vocab": [
-    "houseplant: 실내 화초",
-    "bowl: 그릇, 공기, 공을 굴리다",
-    "morale: 사기, 의욕",
-    "noticeably: 뚜렷한, 현저한",
-    "increasingly: 점점 더, 갈수록 더"
+    "reserved: 내성적인, 과묵한",
+    "bustling: 북적거리는",
+    "coverd in: ~로 덮인",
+    "coastline: 해안선",
+    "initially: 처음에"
   ],
   "sentences": [
-    "I grit my teeth.",
-    "It felt refreshing to focus on playing an instrument for the first time in a while.",
-    "We argue here and there."
+    "The coastline along the East Sea is absolutely stunning."
   ],
   "counts": {
     "vocabPool": 2436,

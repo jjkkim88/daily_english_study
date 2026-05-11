@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+- bruise: 멍이 생기다, 타박상을 입다
+- racoon: 라쿤, 너구리
+- upsetting: 속상하게 하는
+- discouraging: 실망스러운
+- Phtoshopped: 포토샵하다
+- thoughtfulness: 생각에 잠김, 사려 깊음
 
 - adjust: 적응하다
 - childcare: 보육
@@ -2353,6 +2359,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- play around: 뛰어나디면서 놀다
+
 - wash away: ~을 쓸어가다
 
 - break into: ~하기 시작하다
@@ -2433,6 +2442,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- take a fall: 넘어지다
+- photo shoot: 사진 촬영
 
 - carry a heavy load: 큰 책임을 짊어지다
 - ever since: 그 이래 줄곧
