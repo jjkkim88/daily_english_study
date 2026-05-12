@@ -1,18 +1,20 @@
 {
-  "date": "2026-05-11",
-  "generatedAt": "2026-05-10T15:00:19.709386Z",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-11T15:00:14.538394Z",
   "vocab": [
-    "reserved: 내성적인, 과묵한",
-    "bustling: 북적거리는",
-    "coverd in: ~로 덮인",
-    "coastline: 해안선",
-    "initially: 처음에"
+    "percussion: 타악기",
+    "needless: 불필요한",
+    "housewife: 주부",
+    "wherever: 어디에서나, 어디든지",
+    "stisfied: 만족스러운"
   ],
   "sentences": [
-    "The coastline along the East Sea is absolutely stunning."
+    "My dad is good with his hands.",
+    "I was not too keen on the idea.",
+    "My son is not very athletic."
   ],
   "counts": {
-    "vocabPool": 2436,
-    "sentencePool": 361
+    "vocabPool": 2445,
+    "sentencePool": 364
   }
 }

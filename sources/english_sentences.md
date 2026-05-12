@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- When I actually tried it, it was much harder than I expected.
+- I often got frustrated because things didn't go the way I want it.
+- I felt like I was on top of the world.
+
 - He took a hard fall and hit his face.
 - As a mom, it was a really upsetting and discouraging.
 - His teacher carefully Photoshopped the photo and removed all the bruises.

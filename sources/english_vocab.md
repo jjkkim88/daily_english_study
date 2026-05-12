@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- bow: 인사하다, 활
+- screech: 귀에 거슬리는 소리를 내다
+- frustrated: 답답한
+- praise: 칭찬, 칭찬하다
+
 - bruise: 멍이 생기다, 타박상을 입다
 - racoon: 라쿤, 너구리
 - upsetting: 속상하게 하는
@@ -2442,6 +2448,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- heaped praise on someone: 아낌없이 칭찬하다
+- top of the world: 절정의
+
 - take a fall: 넘어지다
 - photo shoot: 사진 촬영
 
