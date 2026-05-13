@@ -1,20 +1,20 @@
 {
-  "date": "2026-05-12",
-  "generatedAt": "2026-05-11T15:00:14.538394Z",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-12T15:00:11.897964Z",
   "vocab": [
-    "percussion: 타악기",
-    "needless: 불필요한",
-    "housewife: 주부",
-    "wherever: 어디에서나, 어디든지",
-    "stisfied: 만족스러운"
+    "trifecta: 삼권장악",
+    "pallet: 팔레트, 화물 받침대",
+    "assess: 재다, 평가하다",
+    "observant: 관찰력 있는, 준수하는",
+    "disperse: 흩어지다, 해산하다,"
   ],
   "sentences": [
-    "My dad is good with his hands.",
-    "I was not too keen on the idea.",
-    "My son is not very athletic."
+    "How did you manage all that?",
+    "There's been debate about whether people should take off their shoes indoors.",
+    "I put so much effort into my studies."
   ],
   "counts": {
-    "vocabPool": 2445,
-    "sentencePool": 364
+    "vocabPool": 2451,
+    "sentencePool": 367
   }
 }

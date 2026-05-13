@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- eatery: 음식점
+- patience: 참을성, 인내심
 
 - bow: 인사하다, 활
 - screech: 귀에 거슬리는 소리를 내다
@@ -2365,6 +2367,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- come across: 우연치 않게 발견하다, 목격하다
 
 - play around: 뛰어나디면서 놀다
 
@@ -2448,6 +2451,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- a sense of satisfaction: 만족감
 
 - heaped praise on someone: 아낌없이 칭찬하다
 - top of the world: 절정의

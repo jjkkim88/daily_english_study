@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Right after a restaurant is featured on TV, it gets so crowded that it is hard to score a table.
+- I feel a sense of satisfaction that I got to try it myself.
+- I had to wait for two whole hours.
+
 - When I actually tried it, it was much harder than I expected.
 - I often got frustrated because things didn't go the way I want it.
 - I felt like I was on top of the world.
