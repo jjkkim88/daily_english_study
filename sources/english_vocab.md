@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- struggle: 몸무림치다, 힘겨워하다
+- genuinely: 진심으로
+
 - eatery: 음식점
 - patience: 참을성, 인내심
 
@@ -2367,6 +2371,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- end up: 결국 ~하게 되다
+
 - come across: 우연치 않게 발견하다, 목격하다
 
 - play around: 뛰어나디면서 놀다
@@ -2451,6 +2458,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- hit the book: 열심히 공부하다
+- in the near future: 가까운 장래에
+
 - a sense of satisfaction: 만족감
 
 - heaped praise on someone: 아낌없이 칭찬하다

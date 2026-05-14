@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- It was something I had always regretted not doing earlier in life.
+- My child struggled a lot with English at first.
+
 - Right after a restaurant is featured on TV, it gets so crowded that it is hard to score a table.
 - I feel a sense of satisfaction that I got to try it myself.
 - I had to wait for two whole hours.

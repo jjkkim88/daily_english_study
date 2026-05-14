@@ -1,20 +1,18 @@
 {
-  "date": "2026-05-13",
-  "generatedAt": "2026-05-12T15:00:11.897964Z",
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-13T15:00:12.848600Z",
   "vocab": [
-    "trifecta: 삼권장악",
-    "pallet: 팔레트, 화물 받침대",
-    "assess: 재다, 평가하다",
-    "observant: 관찰력 있는, 준수하는",
-    "disperse: 흩어지다, 해산하다,"
+    "addict: 중독자",
+    "speck of dust: 티끌",
+    "flavor: 맛, 풍미, ~맛을 내다",
+    "nutritious: 양질의",
+    "plush: 부드럽고 푹신한"
   ],
   "sentences": [
-    "How did you manage all that?",
-    "There's been debate about whether people should take off their shoes indoors.",
-    "I put so much effort into my studies."
+    "Despite its terrible stench, many people love it for its unique flavor."
   ],
   "counts": {
-    "vocabPool": 2451,
-    "sentencePool": 367
+    "vocabPool": 2455,
+    "sentencePool": 370
   }
 }
