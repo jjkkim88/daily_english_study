@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- Just being part of a group can be enough to keep you motivated.
+- With advances in AI, they are now shared in many different formats.
+- Sadly, my efforts did not do much good.
+- It's easy to see at a glance what we learned that day.
+
 - It was something I had always regretted not doing earlier in life.
 - My child struggled a lot with English at first.
 

@@ -1,18 +1,20 @@
 {
-  "date": "2026-05-14",
-  "generatedAt": "2026-05-13T15:00:12.848600Z",
+  "date": "2026-05-15",
+  "generatedAt": "2026-05-14T15:00:08.606894Z",
   "vocab": [
-    "addict: 중독자",
-    "speck of dust: 티끌",
-    "flavor: 맛, 풍미, ~맛을 내다",
-    "nutritious: 양질의",
-    "plush: 부드럽고 푹신한"
+    "from now on: 이제부터는",
+    "inshight: 통찰력, 사이트",
+    "tariffs: 관세",
+    "febrile: 열설적인, 과열된",
+    "lutein: 루테인"
   ],
   "sentences": [
-    "Despite its terrible stench, many people love it for its unique flavor."
+    "My heart was pounding.",
+    "It's best to enjoy them in moderation depending on how your body reacts.",
+    "Studying together instead of alone makes it more fun and effective."
   ],
   "counts": {
-    "vocabPool": 2455,
-    "sentencePool": 370
+    "vocabPool": 2460,
+    "sentencePool": 372
   }
 }

@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+- motivated: 동기부여된
+- passionate: 열정적인, 격정적인
+- smoothly: 부드럽게
+- flowing: 흐르는, 물 흐르는 듯한, 유창한
+- efforts: 노력, 수고
 
 - struggle: 몸무림치다, 힘겨워하다
 - genuinely: 진심으로
@@ -2371,6 +2376,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- share in: ~을 서로 나누다
 
 - end up: 결국 ~하게 되다
 
@@ -2458,6 +2464,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- much good: 교묘만, 솜씨가 좋은
+- at a glance: 첫눈에, 한눈에
 
 - hit the book: 열심히 공부하다
 - in the near future: 가까운 장래에
