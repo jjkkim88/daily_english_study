@@ -1,20 +1,18 @@
 {
-  "date": "2026-05-15",
-  "generatedAt": "2026-05-14T15:00:08.606894Z",
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-15T15:00:09.861341Z",
   "vocab": [
-    "from now on: 이제부터는",
-    "inshight: 통찰력, 사이트",
-    "tariffs: 관세",
-    "febrile: 열설적인, 과열된",
-    "lutein: 루테인"
+    "faraway: 멀리 떨어진, 먼",
+    "toe: 발가락",
+    "occasion: 때, 행사, ~의 원인이 되다, ~을 야기하다",
+    "duty: 의무",
+    "opt: 택하다"
   ],
   "sentences": [
-    "My heart was pounding.",
-    "It's best to enjoy them in moderation depending on how your body reacts.",
-    "Studying together instead of alone makes it more fun and effective."
+    "To mark the occasion, I asked her what she'd like as a graduation gift."
   ],
   "counts": {
-    "vocabPool": 2460,
-    "sentencePool": 372
+    "vocabPool": 2468,
+    "sentencePool": 376
   }
 }
