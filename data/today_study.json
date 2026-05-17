@@ -1,15 +1,17 @@
 {
-  "date": "2026-05-16",
-  "generatedAt": "2026-05-15T15:00:09.861341Z",
+  "date": "2026-05-17",
+  "generatedAt": "2026-05-16T15:00:22.246928Z",
   "vocab": [
-    "faraway: 멀리 떨어진, 먼",
-    "toe: 발가락",
-    "occasion: 때, 행사, ~의 원인이 되다, ~을 야기하다",
-    "duty: 의무",
-    "opt: 택하다"
+    "allied: 동맹한, 연합한",
+    "colleague: 동료",
+    "coincidence: 우연의 일치",
+    "leak: 누수, 새다",
+    "ruined: 폐허가 된"
   ],
   "sentences": [
-    "To mark the occasion, I asked her what she'd like as a graduation gift."
+    "These seats are color coded pink.",
+    "Before I knew it, I had become much more fluent.",
+    "We were on our way home after eating out as a family."
   ],
   "counts": {
     "vocabPool": 2468,
