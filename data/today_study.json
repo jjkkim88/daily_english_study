@@ -1,17 +1,15 @@
 {
-  "date": "2026-05-17",
-  "generatedAt": "2026-05-16T15:00:22.246928Z",
+  "date": "2026-05-18",
+  "generatedAt": "2026-05-17T15:00:11.701845Z",
   "vocab": [
-    "allied: 동맹한, 연합한",
-    "colleague: 동료",
-    "coincidence: 우연의 일치",
-    "leak: 누수, 새다",
-    "ruined: 폐허가 된"
+    "participate: 참여하다",
+    "unveil: 덮개를 벗기다, 발표하다",
+    "avid: 열심인, 열망하는",
+    "rollout: 첫 공개 전시",
+    "engaged: ~하고 있는"
   ],
   "sentences": [
-    "These seats are color coded pink.",
-    "Before I knew it, I had become much more fluent.",
-    "We were on our way home after eating out as a family."
+    "Most classes are free of charge, so anyone can easily participate."
   ],
   "counts": {
     "vocabPool": 2468,

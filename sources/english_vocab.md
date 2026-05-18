@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- anatomy: 해부학
+- grasp: 꽉 잡다, 움켜잡다, 완전히 이해하다
+
 - motivated: 동기부여된
 - passionate: 열정적인, 격정적인
 - smoothly: 부드럽게
@@ -2376,6 +2380,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- come across: 우연치 않게 발견하다
+
 - share in: ~을 서로 나누다
 
 - end up: 결국 ~하게 되다
@@ -2464,6 +2471,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- oriental medicine doctor: 한의사
+
 - much good: 교묘만, 솜씨가 좋은
 - at a glance: 첫눈에, 한눈에
 

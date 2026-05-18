@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I used to know nothing about exercise.
+- Now I think I can understand at least half.
+- There are days when I really don't feel like studying.
+- That keeps me motivated to study.
+
 - Just being part of a group can be enough to keep you motivated.
 - With advances in AI, they are now shared in many different formats.
 - Sadly, my efforts did not do much good.
