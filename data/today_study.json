@@ -1,18 +1,20 @@
 {
-  "date": "2026-05-18",
-  "generatedAt": "2026-05-17T15:00:11.701845Z",
+  "date": "2026-05-20",
+  "generatedAt": "2026-05-19T15:00:16.035812Z",
   "vocab": [
-    "participate: 참여하다",
-    "unveil: 덮개를 벗기다, 발표하다",
-    "avid: 열심인, 열망하는",
-    "rollout: 첫 공개 전시",
-    "engaged: ~하고 있는"
+    "occasional: 가끔의",
+    "packet: 꾸러미, 묵음",
+    "parakeet: 작은 잉꼬",
+    "unfold: 펼쳐지다, 전개되다",
+    "sustainable: 지속 가능한"
   ],
   "sentences": [
-    "Most classes are free of charge, so anyone can easily participate."
+    "You need to pass a written test and an interview.",
+    "Before I knew it, I had become much more fluent.",
+    "My top priority is a healthy life for myself."
   ],
   "counts": {
-    "vocabPool": 2468,
-    "sentencePool": 376
+    "vocabPool": 2472,
+    "sentencePool": 380
   }
 }

@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Football is also an easy topic for small talk.
+- It's hard to join in on conversations.
+- Our local team didn't make it to the finals.
+
 - I used to know nothing about exercise.
 - Now I think I can understand at least half.
 - There are days when I really don't feel like studying.

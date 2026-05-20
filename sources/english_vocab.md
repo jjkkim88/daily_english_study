@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- encourage: 격려하다, 용기를 복돋우다
+- hooked: 중독된, ~에 빠져 있는
 
 - anatomy: 해부학
 - grasp: 꽉 잡다, 움켜잡다, 완전히 이해하다
@@ -2380,6 +2382,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- join in on: ~에 적극 참여하여 임하다
 
 - come across: 우연치 않게 발견하다
 
@@ -2471,6 +2474,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+- small talk: 잡담
+- subscribe to:~을 구독, 신청하다
+- diehard fan: 열열한 팬
+- make it to: ~에 이르다, 도착하다
 
 - oriental medicine doctor: 한의사
 
