@@ -1,20 +1,20 @@
 {
-  "date": "2026-05-20",
-  "generatedAt": "2026-05-19T15:00:16.035812Z",
+  "date": "2026-05-21",
+  "generatedAt": "2026-05-20T15:00:11.043481Z",
   "vocab": [
-    "occasional: 가끔의",
-    "packet: 꾸러미, 묵음",
-    "parakeet: 작은 잉꼬",
-    "unfold: 펼쳐지다, 전개되다",
-    "sustainable: 지속 가능한"
+    "urology: 비뇨의학과",
+    "throughout: 도처에, ~동안 쭉, 내내",
+    "auditor: 회계감사관",
+    "paradigm: 패러다임",
+    "props: 소품"
   ],
   "sentences": [
-    "You need to pass a written test and an interview.",
-    "Before I knew it, I had become much more fluent.",
-    "My top priority is a healthy life for myself."
+    "With my family's full support, I trained hard for 10 months.",
+    "One drop of coffee will give me caffeine jitters.",
+    "I've noticed that, too."
   ],
   "counts": {
-    "vocabPool": 2472,
-    "sentencePool": 380
+    "vocabPool": 2479,
+    "sentencePool": 383
   }
 }

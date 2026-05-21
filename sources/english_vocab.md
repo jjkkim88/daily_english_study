@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- awkward: 어색한, 곤란한, 불편한
+- in-laws: 시부모, 장인, 장모
+- milestone: 이정표, 중요한 단계, 특별한 날
+- fulfilled: 성취감을 느끼는
+
 - encourage: 격려하다, 용기를 복돋우다
 - hooked: 중독된, ~에 빠져 있는
 
@@ -2474,6 +2480,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- the dead of winter: 한겨울에
+
 - small talk: 잡담
 - subscribe to:~을 구독, 신청하다
 - diehard fan: 열열한 팬

@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- We planned the trip to celebrate that milestone.
+- Things felt a bit awkward.
+- That really meant a lot to me.
+
 - Football is also an easy topic for small talk.
 - It's hard to join in on conversations.
 - Our local team didn't make it to the finals.
