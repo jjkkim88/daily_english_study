@@ -1,20 +1,18 @@
 {
-  "date": "2026-05-21",
-  "generatedAt": "2026-05-20T15:00:11.043481Z",
+  "date": "2026-05-22",
+  "generatedAt": "2026-05-21T15:00:13.198976Z",
   "vocab": [
-    "urology: 비뇨의학과",
-    "throughout: 도처에, ~동안 쭉, 내내",
-    "auditor: 회계감사관",
-    "paradigm: 패러다임",
-    "props: 소품"
+    "sterilized: 살균한,",
+    "whopping: 엄청 큰, 무려",
+    "scond nature: 제2의 천성",
+    "effort: 노력, 수고",
+    "supplement: 보충, 보충하다"
   ],
   "sentences": [
-    "With my family's full support, I trained hard for 10 months.",
-    "One drop of coffee will give me caffeine jitters.",
-    "I've noticed that, too."
+    "I put so much effort into my studies."
   ],
   "counts": {
-    "vocabPool": 2479,
-    "sentencePool": 383
+    "vocabPool": 2483,
+    "sentencePool": 386
   }
 }

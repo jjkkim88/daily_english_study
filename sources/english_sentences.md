@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I write down whatever thoughts and feelings came up.
+- Just doing that made me feel a sense of relief.
+- Getting it all out feels very refreshing.
+
 - We planned the trip to celebrate that milestone.
 - Things felt a bit awkward.
 - That really meant a lot to me.

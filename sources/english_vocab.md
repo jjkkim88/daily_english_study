@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- judgmental: 비판을 잘하는, 판단의
+- amazingly: 놀랍게도
+- organize: 정리하다
 
 - awkward: 어색한, 곤란한, 불편한
 - in-laws: 시부모, 장인, 장모
@@ -2388,6 +2391,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- write down: 쓰다
+- come up: ~이 일어나다, 표면 위로 나타나다
+
 - join in on: ~에 적극 참여하여 임하다
 
 - come across: 우연치 않게 발견하다
@@ -2480,6 +2487,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- come to mind: 생각이 떠오르다
+- central part: 중심부
+- sense of relief: 안도감, 후련함
 
 - the dead of winter: 한겨울에
 
