@@ -1,17 +1,15 @@
 {
-  "date": "2026-05-23",
-  "generatedAt": "2026-05-22T15:00:26.149939Z",
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-23T15:00:09.105548Z",
   "vocab": [
-    "willingness: 기꺼이 하는 마음",
-    "fleeting: 순식간의, 잠깐 동안의",
-    "fade: 바래다, 희미해지다, 서서히 사라지다",
-    "designated: 지정하다, 지명된",
-    "dorm: 기숙사"
+    "enormous: 막대한",
+    "rot: 썩다, 부패",
+    "pamper: 소중히 보살피다, 애지중지하다",
+    "anxious: 불안해하는, 염려하는",
+    "defensively: 방어적으로"
   ],
   "sentences": [
-    "We try to keep things low pressure to help everyone keep going.",
-    "Are you seeing anyone?",
-    "We argue here and there."
+    "I was so anxious that morning that I broke into a cold sweat."
   ],
   "counts": {
     "vocabPool": 2491,
