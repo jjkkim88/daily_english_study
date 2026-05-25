@@ -1,15 +1,17 @@
 {
-  "date": "2026-05-24",
-  "generatedAt": "2026-05-23T15:00:09.105548Z",
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-24T15:00:12.310657Z",
   "vocab": [
-    "enormous: 막대한",
-    "rot: 썩다, 부패",
-    "pamper: 소중히 보살피다, 애지중지하다",
-    "anxious: 불안해하는, 염려하는",
-    "defensively: 방어적으로"
+    "grim: 암울한, 엄숙한",
+    "paperwork: 서류작업",
+    "grief: 비탄, 큰 슬픔",
+    "smoothly: 부드럽게, 순조롭게",
+    "enrich: 질을 높이다, 풍요롭게 하다"
   ],
   "sentences": [
-    "I was so anxious that morning that I broke into a cold sweat."
+    "I think it might be the longest one ever.",
+    "Slow aging has become a buzzword lately.",
+    "Studying together instead of alone makes it more fun and effective."
   ],
   "counts": {
     "vocabPool": 2491,
