@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- polished: 윤이 나는
+
 - judgmental: 비판을 잘하는, 판단의
 - amazingly: 놀랍게도
 - organize: 정리하다
@@ -2391,6 +2394,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- looking back: 돌이켜보면
+- find out about: ~에 존재를 알아채다
 
 - write down: 쓰다
 - come up: ~이 일어나다, 표면 위로 나타나다
@@ -2487,6 +2492,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- immigrate to: ~로 이주하다
+- at the level: ~의 수준의
+
 - come to mind: 생각이 떠오르다
 - central part: 중심부
 - sense of relief: 안도감, 후련함

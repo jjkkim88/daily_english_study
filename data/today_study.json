@@ -1,17 +1,15 @@
 {
-  "date": "2026-05-25",
-  "generatedAt": "2026-05-24T15:00:12.310657Z",
+  "date": "2026-05-26",
+  "generatedAt": "2026-05-25T15:00:10.241614Z",
   "vocab": [
-    "grim: 암울한, 엄숙한",
-    "paperwork: 서류작업",
-    "grief: 비탄, 큰 슬픔",
-    "smoothly: 부드럽게, 순조롭게",
-    "enrich: 질을 높이다, 풍요롭게 하다"
+    "absorb: 흡수하다, 받아들이다",
+    "grandparenting: 황혼육아",
+    "convinced: 확신하는, 독실한, 투철한",
+    "stimulation: 자극",
+    "go for: ~을 시도하다, ~을 좋아하다"
   ],
   "sentences": [
-    "I think it might be the longest one ever.",
-    "Slow aging has become a buzzword lately.",
-    "Studying together instead of alone makes it more fun and effective."
+    "My husband encouraged me to really go for it this time."
   ],
   "counts": {
     "vocabPool": 2491,

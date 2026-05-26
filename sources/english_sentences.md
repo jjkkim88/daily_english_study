@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- My English still isn't at the level I want.
+- The day will come when AI does much of our work.
+
 - I write down whatever thoughts and feelings came up.
 - Just doing that made me feel a sense of relief.
 - Getting it all out feels very refreshing.
