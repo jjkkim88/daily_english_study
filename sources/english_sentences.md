@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I asked him what was holding him back.
+- I waited anxiously all day.
+
 - My English still isn't at the level I want.
 - The day will come when AI does much of our work.
 

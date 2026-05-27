@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- tack: 방침, 침로
+- foolish: 어리석은, 바보 같은
+- anxiously: 불안해하며, 염려하며
 
 - polished: 윤이 나는
 
@@ -2394,6 +2397,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- run for: ~에 입후보하다, ~을 부르러 달려가다
+- hold back: 망설이다, ~을 저지하다
+
 - looking back: 돌이켜보면
 - find out about: ~에 존재를 알아채다
 
