@@ -1,18 +1,19 @@
 {
-  "date": "2026-05-27",
-  "generatedAt": "2026-05-26T15:00:30.310428Z",
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-27T15:00:15.257028Z",
   "vocab": [
-    "adolescence: 사춘기",
-    "commerce: 무역, 상업",
-    "organize: 정리하다, 정돈하다",
-    "decompress: 기압이 줄다, 압축풀다, 스트레스 줄이다",
-    "lycopene: 라이코펜"
+    "centric: 중심의, 중추적인",
+    "avid: 열심인, 열렬한, 열망하는",
+    "gentle: 온화한, 부드러운, 조용한, 가벼운, 부드럽게 하다",
+    "excess: 지나침, 초과한",
+    "hand-me-down: 물려주는"
   ],
   "sentences": [
-    "Neither of us really had a hobby to decompress from work."
+    "Give it a gentle squeeze.",
+    "The weather was sunny with a gentle breeze."
   ],
   "counts": {
-    "vocabPool": 2496,
-    "sentencePool": 391
+    "vocabPool": 2501,
+    "sentencePool": 393
   }
 }

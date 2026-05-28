@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- briefly: 잠시, 간단히
+- retching: 구역질, 울컥거리는 것
+- acute: 급성
+- pneumonia: 폐렴
+- nausea: 메스꺼움
+
 - tack: 방침, 침로
 - foolish: 어리석은, 바보 같은
 - anxiously: 불안해하며, 염려하며
@@ -2397,6 +2404,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- keep ~ down: 억제하다, 토하지 않다
+- pull over: 길 한쪽으로 차를 대다
 
 - run for: ~에 입후보하다, ~을 부르러 달려가다
 - hold back: 망설이다, ~을 저지하다
@@ -2499,6 +2508,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- morning sickness: 입덧
+- beak down in tears: 울음을 터뜨리다
 
 - immigrate to: ~로 이주하다
 - at the level: ~의 수준의
