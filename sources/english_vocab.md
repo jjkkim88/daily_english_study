@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- planner: 설계자, 일정 계획표
+- grounded: 안정된
+- revisit: 다시 방문하다, 다시 돌아가다
 
 - briefly: 잠시, 간단히
 - retching: 구역질, 울컥거리는 것
@@ -2404,6 +2407,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- fill in: 채우다
+
 - keep ~ down: 억제하다, 토하지 않다
 - pull over: 길 한쪽으로 차를 대다
 

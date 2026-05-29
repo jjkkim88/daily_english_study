@@ -1,19 +1,20 @@
 {
-  "date": "2026-05-28",
-  "generatedAt": "2026-05-27T15:00:15.257028Z",
+  "date": "2026-05-29",
+  "generatedAt": "2026-05-28T15:00:09.118050Z",
   "vocab": [
-    "centric: 중심의, 중추적인",
-    "avid: 열심인, 열렬한, 열망하는",
-    "gentle: 온화한, 부드러운, 조용한, 가벼운, 부드럽게 하다",
-    "excess: 지나침, 초과한",
-    "hand-me-down: 물려주는"
+    "seriousness: 심각함, 진지함",
+    "fluoride: 불소",
+    "break up: 헤어지다",
+    "podium: 단, 지휘대",
+    "foster: 조성하다, 발전시키다, 위탁 양육하다"
   ],
   "sentences": [
-    "Give it a gentle squeeze.",
-    "The weather was sunny with a gentle breeze."
+    "Now I think I can understand at least half.",
+    "I asked him what was holding him back.",
+    "Reality turned out to be a lot tougher than I imagined."
   ],
   "counts": {
-    "vocabPool": 2501,
-    "sentencePool": 393
+    "vocabPool": 2510,
+    "sentencePool": 396
   }
 }

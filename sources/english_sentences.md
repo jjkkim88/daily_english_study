@@ -1,5 +1,7 @@
 # ✍ 외울 문장 정리
 
+- It must feel like revisiting those days.
+
 - I couldn't even keep down water.
 - During the drive, my nausea got so bad that we had to pull over.
 - I broke down in tears.
