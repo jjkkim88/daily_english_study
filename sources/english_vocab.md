@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- developed: 발달한, 선진의
+- impression: 인상, 감명
+- orphanage: 고아원
+- sihtseeing: 관광
+
 - planner: 설계자, 일정 계획표
 - grounded: 안정된
 - revisit: 다시 방문하다, 다시 돌아가다
@@ -2407,6 +2413,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- work out: 잘풀리다, 운동하다
 
 - fill in: 채우다
 
@@ -2514,6 +2521,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- go sightseeing: 구경 다니다
+
 - morning sickness: 입덧
 - beak down in tears: 울음을 터뜨리다
 

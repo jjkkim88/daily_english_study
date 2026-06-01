@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I took them around Seoul as best I could.
+- We go sightseeing in Seoul together.
+- Unfortunately that didn't work out.
+
 - It must feel like revisiting those days.
 
 - I couldn't even keep down water.

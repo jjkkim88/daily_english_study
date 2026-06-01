@@ -1,20 +1,19 @@
 {
-  "date": "2026-05-29",
-  "generatedAt": "2026-05-28T15:00:09.118050Z",
+  "date": "2026-06-01",
+  "generatedAt": "2026-05-31T15:00:14.527704Z",
   "vocab": [
-    "seriousness: 심각함, 진지함",
-    "fluoride: 불소",
-    "break up: 헤어지다",
-    "podium: 단, 지휘대",
-    "foster: 조성하다, 발전시키다, 위탁 양육하다"
+    "overwhelming: 압도적인, 부담스러운",
+    "infestation: 우글거림",
+    "wistful: 아쉬운",
+    "expand: 확대하다, 확대시키다",
+    "hassle: 귀찮은 상황, 재촉하다"
   ],
   "sentences": [
-    "Now I think I can understand at least half.",
-    "I asked him what was holding him back.",
-    "Reality turned out to be a lot tougher than I imagined."
+    "It suddenly felt overwhelming.",
+    "It is a bit of hassle to wash."
   ],
   "counts": {
-    "vocabPool": 2510,
-    "sentencePool": 396
+    "vocabPool": 2513,
+    "sentencePool": 397
   }
 }
