@@ -1,19 +1,18 @@
 {
-  "date": "2026-06-01",
-  "generatedAt": "2026-05-31T15:00:14.527704Z",
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-01T15:00:06.514606Z",
   "vocab": [
-    "overwhelming: 압도적인, 부담스러운",
-    "infestation: 우글거림",
-    "wistful: 아쉬운",
-    "expand: 확대하다, 확대시키다",
-    "hassle: 귀찮은 상황, 재촉하다"
+    "pique: 불쾌감",
+    "captivating: 매혹적인, 마음을 사로잡는",
+    "means: 수단, 방법, 재력",
+    "mainly: 주로",
+    "transformative: 변화시키는"
   ],
   "sentences": [
-    "It suddenly felt overwhelming.",
-    "It is a bit of hassle to wash."
+    "My wife and I have been taking turns going with him, which means he has seen the movie ten times all told."
   ],
   "counts": {
-    "vocabPool": 2513,
-    "sentencePool": 397
+    "vocabPool": 2519,
+    "sentencePool": 400
   }
 }

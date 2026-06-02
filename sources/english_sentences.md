@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I used to go to PC cafés all the time.
+- I started to get competitive.
+
 - I took them around Seoul as best I could.
 - We go sightseeing in Seoul together.
 - Unfortunately that didn't work out.

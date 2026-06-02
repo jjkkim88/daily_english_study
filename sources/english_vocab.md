@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- back: 옛날에
+- annoyed: 짜증난, 약이 오른
+- competitive: 경쟁을 하는, 경쟁심이 강한
+- carefree: 근심 걱정 없는, 속 편한
 
 - developed: 발달한, 선진의
 - impression: 인상, 감명
@@ -2413,6 +2417,11 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- stay away: 거리를 두다
+- give in: ~에 굴복하다, 동의하다, 받아들이다
+- crack ~ up: ~을 몹시 웃기다
+
 - work out: 잘풀리다, 운동하다
 
 - fill in: 채우다
@@ -2521,6 +2530,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- all the time: 내내, 아주 자주
 
 - go sightseeing: 구경 다니다
 
