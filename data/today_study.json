@@ -1,18 +1,20 @@
 {
-  "date": "2026-06-02",
-  "generatedAt": "2026-06-01T15:00:06.514606Z",
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-02T15:00:13.115010Z",
   "vocab": [
-    "pique: 불쾌감",
-    "captivating: 매혹적인, 마음을 사로잡는",
-    "means: 수단, 방법, 재력",
-    "mainly: 주로",
-    "transformative: 변화시키는"
+    "cherish: 간직하다",
+    "meetup: 모음",
+    "chart: 도표",
+    "pesticide: 농약",
+    "decorative: 장식의"
   ],
   "sentences": [
-    "My wife and I have been taking turns going with him, which means he has seen the movie ten times all told."
+    "My back is stiff.",
+    "Preparing for classes this way, I realized that I'm growing, too.",
+    "It's high in calories, so eating too much can get in the way of a diet."
   ],
   "counts": {
-    "vocabPool": 2519,
-    "sentencePool": 400
+    "vocabPool": 2527,
+    "sentencePool": 402
   }
 }
