@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- That made all the efforts I put into my homework feel pointless.
+- The thought of using AI myself crossed my mind.
+- Try not to use AI for your own sake.
+- I resolved to do my homework using only my own abilities.
+
 - I used to go to PC cafés all the time.
 - I started to get competitive.
 

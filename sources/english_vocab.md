@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- debate: 토론
+- pointless: 의미없는
+
 - back: 옛날에
 - annoyed: 짜증난, 약이 오른
 - competitive: 경쟁을 하는, 경쟁심이 강한
@@ -2417,6 +2421,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- praised for:~을 칭찬하다
 
 - stay away: 거리를 두다
 - give in: ~에 굴복하다, 동의하다, 받아들이다
@@ -2530,6 +2535,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- cross my mind: 생각이 잠시 들다
+- for your own sake: 스스로를 위해서
+- resolve to: 다짐하다
+
 - all the time: 내내, 아주 자주
 
 - go sightseeing: 구경 다니다

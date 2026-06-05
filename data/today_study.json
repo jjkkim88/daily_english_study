@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-03",
-  "generatedAt": "2026-06-02T15:00:13.115010Z",
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-04T15:00:24.614654Z",
   "vocab": [
-    "cherish: 간직하다",
-    "meetup: 모음",
-    "chart: 도표",
-    "pesticide: 농약",
-    "decorative: 장식의"
+    "straightforward: 간단한, 솔직한",
+    "log: 일지, 기록",
+    "enormous: 막대한, 거대한",
+    "loosen: 느슨하게 하다, 풀다",
+    "emerge: 나오다, 드러나다, 알려지다, 부상하다"
   ],
   "sentences": [
-    "My back is stiff.",
-    "Preparing for classes this way, I realized that I'm growing, too.",
-    "It's high in calories, so eating too much can get in the way of a diet."
+    "We are learning more as we are struggling.",
+    "It feels very rewarding whenever I can help someone.",
+    "I'm planning to be away for about two weeks."
   ],
   "counts": {
     "vocabPool": 2527,
