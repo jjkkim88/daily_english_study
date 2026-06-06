@@ -1,20 +1,20 @@
 {
-  "date": "2026-06-05",
-  "generatedAt": "2026-06-04T15:00:24.614654Z",
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-05T15:00:36.297733Z",
   "vocab": [
-    "straightforward: 간단한, 솔직한",
-    "log: 일지, 기록",
-    "enormous: 막대한, 거대한",
-    "loosen: 느슨하게 하다, 풀다",
-    "emerge: 나오다, 드러나다, 알려지다, 부상하다"
+    "recruitment: 모집",
+    "vibe: 분위기, 낌새, 느낌",
+    "hesitant: 주저하는, 망설이는",
+    "unfortunate: 운이 없는, 유감스러운",
+    "progress: 진척, 나아가다"
   ],
   "sentences": [
-    "We are learning more as we are struggling.",
-    "It feels very rewarding whenever I can help someone.",
-    "I'm planning to be away for about two weeks."
+    "The bus has no choice but to take a detour.",
+    "I couldn't stop laughing.",
+    "I get blocked up."
   ],
   "counts": {
-    "vocabPool": 2527,
-    "sentencePool": 402
+    "vocabPool": 2533,
+    "sentencePool": 406
   }
 }
