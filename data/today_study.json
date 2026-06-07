@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-06",
-  "generatedAt": "2026-06-05T15:00:36.297733Z",
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-06T15:00:38.405166Z",
   "vocab": [
-    "recruitment: 모집",
-    "vibe: 분위기, 낌새, 느낌",
-    "hesitant: 주저하는, 망설이는",
-    "unfortunate: 운이 없는, 유감스러운",
-    "progress: 진척, 나아가다"
+    "sunlight: 햇빛",
+    "authority: 권한",
+    "harshly: 가혹하게, 혹독하게",
+    "dear: 소중한, 사랑하는",
+    "miscarriage: 유산"
   ],
   "sentences": [
-    "The bus has no choice but to take a detour.",
-    "I couldn't stop laughing.",
-    "I get blocked up."
+    "The idea is to clear your mind and give your brain a break.",
+    "One drop of coffee will give me caffeine jitters.",
+    "I've become more mindful about what I eat."
   ],
   "counts": {
     "vocabPool": 2533,
