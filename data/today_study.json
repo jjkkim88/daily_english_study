@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-07",
-  "generatedAt": "2026-06-06T15:00:38.405166Z",
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-07T15:00:20.614381Z",
   "vocab": [
-    "sunlight: 햇빛",
-    "authority: 권한",
-    "harshly: 가혹하게, 혹독하게",
-    "dear: 소중한, 사랑하는",
-    "miscarriage: 유산"
+    "skepticism: 회의론, 무신론",
+    "broaden: 넓어지다, 퍼지다, 넓히다",
+    "triumph: 대성공",
+    "perception: 인식",
+    "enormous: 막대한, 거대한"
   ],
   "sentences": [
-    "The idea is to clear your mind and give your brain a break.",
-    "One drop of coffee will give me caffeine jitters.",
-    "I've become more mindful about what I eat."
+    "Before I knew it, I had become much more fluent.",
+    "But in the end I lose my temper.",
+    "I owed her a lot."
   ],
   "counts": {
     "vocabPool": 2533,
