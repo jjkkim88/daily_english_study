@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- immature: 미숙한, 철이 덜 든
+- wealthy: 부유한, 재산이 많은
 
 - debate: 토론
 - pointless: 의미없는
@@ -2421,6 +2423,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- pass on: 물려주다
+
 - praised for:~을 칭찬하다
 
 - stay away: 거리를 두다
@@ -2535,6 +2540,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- stand by me: 의리를 지키다, 내곁에 서다
+- by choice or by circumstance: 선택에 의한건지 환경에 의한건지
 
 - cross my mind: 생각이 잠시 들다
 - for your own sake: 스스로를 위해서

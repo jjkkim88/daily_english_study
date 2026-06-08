@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- We are all still legally single.
+- My friends said they would stand by me.
+- Maybe we're still be a bit immature.
+- I'm not sure if it was by choice or by circumstance.
+
 - That made all the efforts I put into my homework feel pointless.
 - The thought of using AI myself crossed my mind.
 - Try not to use AI for your own sake.
