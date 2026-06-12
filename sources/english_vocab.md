@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- refreshing: 신선한, 상쾌한
+- savory: 고소한, 풍미있는
+
 - immature: 미숙한, 철이 덜 든
 - wealthy: 부유한, 재산이 많은
 
@@ -2423,6 +2427,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- end up with: 결국 ~하게 되다
+- go in: 안으로 들어가다
+- going on: 일어나고 있는, 거의
 
 - pass on: 물려주다
 
@@ -2540,6 +2547,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- light and refreshing: 상큼한
+
 - stand by me: 의리를 지키다, 내곁에 서다
 - by choice or by circumstance: 선택에 의한건지 환경에 의한건지
 

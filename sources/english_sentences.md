@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- The look and taste both change depending on what goes in.
+- I didn't have anything going on that day.
+- It has a savory flavor.
+
 - We are all still legally single.
 - My friends said they would stand by me.
 - Maybe we're still be a bit immature.
