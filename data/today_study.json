@@ -1,18 +1,18 @@
 {
-  "date": "2026-06-12",
-  "generatedAt": "2026-06-11T15:00:27.606635Z",
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-12T15:00:27.710671Z",
   "vocab": [
-    "swift: 신속한, 빠른",
-    "accurate: 정확한, 정밀한",
-    "definitely: 분명히, 확실히",
-    "multi-purpose: 다목적의",
-    "reveal: 드러내다"
+    "affairs: 사건",
+    "ecological: 상태계의",
+    "appreciate: 고마워하다, 인식하다",
+    "do-overs: 다시 하다",
+    "rollout: 첫 공개 전시"
   ],
   "sentences": [
-    "When her birthday comes around, I will definitely treat her to a great meal."
+    "Even making a small bag required many do-overs."
   ],
   "counts": {
-    "vocabPool": 2538,
-    "sentencePool": 410
+    "vocabPool": 2544,
+    "sentencePool": 413
   }
 }
