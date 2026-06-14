@@ -1,15 +1,17 @@
 {
-  "date": "2026-06-13",
-  "generatedAt": "2026-06-12T15:00:27.710671Z",
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-13T15:00:25.000274Z",
   "vocab": [
-    "affairs: 사건",
-    "ecological: 상태계의",
-    "appreciate: 고마워하다, 인식하다",
-    "do-overs: 다시 하다",
-    "rollout: 첫 공개 전시"
+    "soundproofing: 방음",
+    "avid: 열심인, 열렬한, 열망하는",
+    "boisterous: 활기가 넘치는",
+    "pediatrician: 소아과",
+    "orthopedic: 정형 외과의"
   ],
   "sentences": [
-    "Even making a small bag required many do-overs."
+    "Being able to help someone really warmed my heart.",
+    "Both my body and my heart were completely worn out.",
+    "I asked him what was holding him back."
   ],
   "counts": {
     "vocabPool": 2544,
