@@ -1,20 +1,18 @@
 {
-  "date": "2026-06-14",
-  "generatedAt": "2026-06-13T15:00:25.000274Z",
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-18T15:00:24.211355Z",
   "vocab": [
-    "soundproofing: 방음",
-    "avid: 열심인, 열렬한, 열망하는",
-    "boisterous: 활기가 넘치는",
-    "pediatrician: 소아과",
-    "orthopedic: 정형 외과의"
+    "unaffected: 영향을 받지 않은, 자연스러운",
+    "break-in: 침입",
+    "pass on: 물려주다",
+    "work out: 잘풀리다, 운동하다",
+    "transactions: 매매, 거래"
   ],
   "sentences": [
-    "Being able to help someone really warmed my heart.",
-    "Both my body and my heart were completely worn out.",
-    "I asked him what was holding him back."
+    "Unfortunately that didn't work out."
   ],
   "counts": {
-    "vocabPool": 2544,
-    "sentencePool": 413
+    "vocabPool": 2551,
+    "sentencePool": 416
   }
 }

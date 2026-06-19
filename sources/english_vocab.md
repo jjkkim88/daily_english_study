@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+- avid: 열성인, 열망하는
+- relevant: 관련 있는, 적절한
+- related: 관련된, 친척의
+- vote: 표
+- coincidence: 우연, 동시 발생
+- foresight: 선견지명
 
 - refreshing: 신선한, 상쾌한
 - savory: 고소한, 풍미있는
@@ -2427,6 +2433,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- call off: 중지하다, 취소하다
+
 - end up with: 결국 ~하게 되다
 - go in: 안으로 들어가다
 - going on: 일어나고 있는, 거의

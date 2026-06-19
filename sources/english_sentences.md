@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I'm an avid reader.
+- It's almost as if they can see what will be relevant a couple of months later.
+- It's happened more times than I can count.
+
 - The look and taste both change depending on what goes in.
 - I didn't have anything going on that day.
 - It has a savory flavor.
