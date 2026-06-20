@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-19",
-  "generatedAt": "2026-06-18T15:00:24.211355Z",
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-19T15:00:27.602989Z",
   "vocab": [
-    "unaffected: 영향을 받지 않은, 자연스러운",
-    "break-in: 침입",
-    "pass on: 물려주다",
-    "work out: 잘풀리다, 운동하다",
-    "transactions: 매매, 거래"
+    "running water: 흐르는 물",
+    "plateau: 정체기, 안정 상태를 유지하다",
+    "effect: 영향, 결과, 효과, 느낌, 가져오다",
+    "budge: 꼼짝하다, 약간 움직이다",
+    "modernization: 현대화, 근대화"
   ],
   "sentences": [
-    "Unfortunately that didn't work out."
+    "There are days when I don't want to budge."
   ],
   "counts": {
     "vocabPool": 2551,
