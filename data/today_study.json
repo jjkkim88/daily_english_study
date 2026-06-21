@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-20",
-  "generatedAt": "2026-06-19T15:00:27.602989Z",
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-20T15:00:21.809986Z",
   "vocab": [
-    "running water: 흐르는 물",
-    "plateau: 정체기, 안정 상태를 유지하다",
-    "effect: 영향, 결과, 효과, 느낌, 가져오다",
-    "budge: 꼼짝하다, 약간 움직이다",
-    "modernization: 현대화, 근대화"
+    "non-majors: 비전공자",
+    "burst into tears: 울음보를 터트리다",
+    "addict: 중독자",
+    "declutter: 잡동사니들을 처리하다",
+    "culprit: 범인, 장본인"
   ],
   "sentences": [
-    "There are days when I don't want to budge."
+    "I burst into tears."
   ],
   "counts": {
     "vocabPool": 2551,
