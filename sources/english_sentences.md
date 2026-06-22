@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- The question isn't how to get rid of it, but how to manage it.
+- I'm trying to set my own standards.
+
 - I'm an avid reader.
 - It's almost as if they can see what will be relevant a couple of months later.
 - It's happened more times than I can count.

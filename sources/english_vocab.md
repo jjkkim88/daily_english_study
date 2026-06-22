@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- desire: 욕구
+- self-esteem: 자부심
+- praise: 칭찬, 찬양
+- standard: 기준
+
 - avid: 열성인, 열망하는
 - relevant: 관련 있는, 적절한
 - related: 관련된, 친척의
@@ -2556,6 +2562,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- need for recognition: 인정욕구
 
 - light and refreshing: 상큼한
 

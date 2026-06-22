@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-21",
-  "generatedAt": "2026-06-20T15:00:21.809986Z",
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-21T15:00:21.299619Z",
   "vocab": [
-    "non-majors: 비전공자",
-    "burst into tears: 울음보를 터트리다",
-    "addict: 중독자",
-    "declutter: 잡동사니들을 처리하다",
-    "culprit: 범인, 장본인"
+    "debate: 토론, 논쟁, 논의하다",
+    "cut-and-dried: 틀에 박힌, 이미 정해진",
+    "talented: 재능있는",
+    "specific: 구체적인",
+    "speculation: 추측, 짐작, 투기"
   ],
   "sentences": [
-    "I burst into tears."
+    "There's been debate about whether people should take off their shoes indoors."
   ],
   "counts": {
     "vocabPool": 2551,
