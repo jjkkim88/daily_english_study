@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- handle: 감당하다
+- reassure: 안심시키다
 
 - desire: 욕구
 - self-esteem: 자부심
@@ -2439,6 +2441,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- send ~ off: ~을 보내 주다
 
 - call off: 중지하다, 취소하다
 
@@ -2562,6 +2565,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- assigned to: ~에 할당된
+- language program: 어학연수
+
 - need for recognition: 인정욕구
 
 - light and refreshing: 상큼한

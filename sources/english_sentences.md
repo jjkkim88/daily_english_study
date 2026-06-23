@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- Do you think I can handle it?
+- I tried to reassure her.
+
 - The question isn't how to get rid of it, but how to manage it.
 - I'm trying to set my own standards.
 

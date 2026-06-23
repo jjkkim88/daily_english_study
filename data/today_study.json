@@ -1,18 +1,20 @@
 {
-  "date": "2026-06-22",
-  "generatedAt": "2026-06-21T15:00:21.299619Z",
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-22T15:00:29.319175Z",
   "vocab": [
-    "debate: 토론, 논쟁, 논의하다",
-    "cut-and-dried: 틀에 박힌, 이미 정해진",
-    "talented: 재능있는",
-    "specific: 구체적인",
-    "speculation: 추측, 짐작, 투기"
+    "fertility: 비옥함, 생식력",
+    "lump-sum lease: 전세",
+    "adjustable: 조절 가능한",
+    "wrist: 손목",
+    "subtle: 미묘한, 감지하기 힘든, 교묘한"
   ],
   "sentences": [
-    "There's been debate about whether people should take off their shoes indoors."
+    "When I was a new hire, I promised myself that I would become an open-minded senior.",
+    "I always get caught up in the moment.",
+    "I'm a calm person and not very talkative."
   ],
   "counts": {
-    "vocabPool": 2551,
-    "sentencePool": 416
+    "vocabPool": 2556,
+    "sentencePool": 418
   }
 }
