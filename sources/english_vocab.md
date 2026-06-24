@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- conflict: 갈등, 충돌
+- close-knit: 긴밀히 맺어진
+
 - handle: 감당하다
 - reassure: 안심시키다
 
@@ -2441,6 +2445,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- split up: 헤어지다, 나뉘다
+
 - send ~ off: ~을 보내 주다
 
 - call off: 중지하다, 취소하다
@@ -2565,6 +2572,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- ups and downs: 좋은일 안좋은일
+- face to face: 대면으로
+- send my best: 안부전하다
 
 - assigned to: ~에 할당된
 - language program: 어학연수

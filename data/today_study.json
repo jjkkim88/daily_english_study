@@ -1,20 +1,20 @@
 {
-  "date": "2026-06-23",
-  "generatedAt": "2026-06-22T15:00:29.319175Z",
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-23T15:00:22.397582Z",
   "vocab": [
-    "fertility: 비옥함, 생식력",
-    "lump-sum lease: 전세",
-    "adjustable: 조절 가능한",
-    "wrist: 손목",
-    "subtle: 미묘한, 감지하기 힘든, 교묘한"
+    "stisfied: 만족스러운",
+    "orthopedics: 정형외과",
+    "foster: 조성하다, 발전시키다, 수양",
+    "from now on: 이제부터는",
+    "authentic: 진본인, 정확한"
   ],
   "sentences": [
-    "When I was a new hire, I promised myself that I would become an open-minded senior.",
-    "I always get caught up in the moment.",
-    "I'm a calm person and not very talkative."
+    "I felt like I wasn't getting anywhere.",
+    "My robot vacuum has given me the gift of time and breathing room.",
+    "My heart was pounding."
   ],
   "counts": {
-    "vocabPool": 2556,
-    "sentencePool": 418
+    "vocabPool": 2560,
+    "sentencePool": 420
   }
 }

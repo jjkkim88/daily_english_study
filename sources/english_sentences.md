@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- Our members have split up.
+- Life has its ups and downs.
+- It has become harder for us to meet face to face.
+- Please send my best to your mother.
+
 - Do you think I can handle it?
 - I tried to reassure her.
 
