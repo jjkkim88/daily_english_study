@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- Everything start to fall into place.
+- You can't figure everything out.
+- I have a hard time understaning.
+- No one showed me the ropes
+
 - Our members have split up.
 - Life has its ups and downs.
 - It has become harder for us to meet face to face.

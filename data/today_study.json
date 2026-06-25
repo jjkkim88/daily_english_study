@@ -1,20 +1,20 @@
 {
-  "date": "2026-06-24",
-  "generatedAt": "2026-06-23T15:00:22.397582Z",
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-24T15:00:30.103936Z",
   "vocab": [
-    "stisfied: 만족스러운",
-    "orthopedics: 정형외과",
-    "foster: 조성하다, 발전시키다, 수양",
-    "from now on: 이제부터는",
-    "authentic: 진본인, 정확한"
+    "tsunami: 홍수",
+    "designate: 지정하다, 지명하다",
+    "crowd: 사람들, 집단, 가득 매우다, 밀려오다",
+    "intimidated: 겁을 내는",
+    "minority: 소수"
   ],
   "sentences": [
-    "I felt like I wasn't getting anywhere.",
-    "My robot vacuum has given me the gift of time and breathing room.",
-    "My heart was pounding."
+    "Its hard to focus when you have a little one.",
+    "When I'm at work, a long four-hour trip flies by in the blink of an eye.",
+    "When I actually tried it, it was much harder than I expected."
   ],
   "counts": {
-    "vocabPool": 2560,
-    "sentencePool": 420
+    "vocabPool": 2566,
+    "sentencePool": 424
   }
 }

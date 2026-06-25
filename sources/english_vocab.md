@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- certification: 증명
 
 - conflict: 갈등, 충돌
 - close-knit: 긴밀히 맺어진
@@ -2445,6 +2446,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- figure out: 파악하다
 
 - split up: 헤어지다, 나뉘다
 
@@ -2572,6 +2574,12 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- test proctor: 시험 감독관
+- fall into place: 제자리로 돌아가다, 꼭 맞다
+- hard time understanding: 이해하기 어렵다
+- show ~ the rope: ~에게 일을 알려주다
+
 - ups and downs: 좋은일 안좋은일
 - face to face: 대면으로
 - send my best: 안부전하다
