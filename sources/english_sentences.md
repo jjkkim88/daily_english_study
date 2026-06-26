@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- It's about an hour's drive from my home.
+- I found a method that works for me.
+- I used to freeze up whenever I met a foreigner.
+
 - Everything start to fall into place.
 - You can't figure everything out.
 - I have a hard time understaning.

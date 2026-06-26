@@ -1,20 +1,20 @@
 {
-  "date": "2026-06-25",
-  "generatedAt": "2026-06-24T15:00:30.103936Z",
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-25T15:00:29.634343Z",
   "vocab": [
-    "tsunami: 홍수",
-    "designate: 지정하다, 지명하다",
-    "crowd: 사람들, 집단, 가득 매우다, 밀려오다",
-    "intimidated: 겁을 내는",
-    "minority: 소수"
+    "growth: 성장",
+    "anecdote: 일화",
+    "parkour: 파쿠르",
+    "lounge: 라운지, 휴게실, 느긋하게 있다",
+    "peak: 절정, 봉우리"
   ],
   "sentences": [
-    "Its hard to focus when you have a little one.",
-    "When I'm at work, a long four-hour trip flies by in the blink of an eye.",
-    "When I actually tried it, it was much harder than I expected."
+    "My sister is always beefing.",
+    "It tastes great as a dip with a baguette.",
+    "It was time to replace it."
   ],
   "counts": {
-    "vocabPool": 2566,
-    "sentencePool": 424
+    "vocabPool": 2572,
+    "sentencePool": 428
   }
 }

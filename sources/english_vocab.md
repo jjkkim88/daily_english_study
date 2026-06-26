@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- drive: 운전하다, 차로
+- method: 방법
+
 - certification: 증명
 
 - conflict: 갈등, 충돌
@@ -2446,6 +2450,11 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- over and over: 반복해서
+- freeze up: 굳어지다, 태도가 얼어붙다
+- strike up: 시작하다
+
 - figure out: 파악하다
 
 - split up: 헤어지다, 나뉘다
