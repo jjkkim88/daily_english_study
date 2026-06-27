@@ -1,20 +1,20 @@
 {
-  "date": "2026-06-26",
-  "generatedAt": "2026-06-25T15:00:29.634343Z",
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-26T15:00:32.010629Z",
   "vocab": [
-    "growth: 성장",
-    "anecdote: 일화",
-    "parkour: 파쿠르",
-    "lounge: 라운지, 휴게실, 느긋하게 있다",
-    "peak: 절정, 봉우리"
+    "glimpse: 잠깐 봄, 깨닫다",
+    "calorie: 칼로리",
+    "see someone off: ~을 배웅하다, ~을 쫓아내다",
+    "alley: 골목",
+    "sign somebody up for ~: ~를 ~을 위해 신청하다"
   ],
   "sentences": [
-    "My sister is always beefing.",
-    "It tastes great as a dip with a baguette.",
-    "It was time to replace it."
+    "It really hit me how much he has grown.",
+    "Our local team didn't make it to the finals.",
+    "I had to take two buses and they stop running pretty early."
   ],
   "counts": {
-    "vocabPool": 2572,
-    "sentencePool": 428
+    "vocabPool": 2577,
+    "sentencePool": 431
   }
 }
