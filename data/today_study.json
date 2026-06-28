@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-27",
-  "generatedAt": "2026-06-26T15:00:32.010629Z",
+  "date": "2026-06-28",
+  "generatedAt": "2026-06-27T15:00:24.804048Z",
   "vocab": [
-    "glimpse: 잠깐 봄, 깨닫다",
-    "calorie: 칼로리",
-    "see someone off: ~을 배웅하다, ~을 쫓아내다",
-    "alley: 골목",
-    "sign somebody up for ~: ~를 ~을 위해 신청하다"
+    "regain: 되찾다, 되돌아오다",
+    "sibling: 형제자매",
+    "conviction: 신념, 유죄 선고, 확신",
+    "relentlessly: 끈질긴, 가차 없는",
+    "C: 걱정 마세요."
   ],
   "sentences": [
-    "It really hit me how much he has grown.",
-    "Our local team didn't make it to the finals.",
-    "I had to take two buses and they stop running pretty early."
+    "Once you hit 40, you start thinking a lot.",
+    "In a foreign setting we had long conversations over drinks with our adult son.",
+    "The only way forward was to tackle English head-on."
   ],
   "counts": {
     "vocabPool": 2577,
