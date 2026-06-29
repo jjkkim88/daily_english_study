@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- Do you eat it raw?
+- I haven't really had any stomach issues lately.
+
 - It's about an hour's drive from my home.
 - I found a method that works for me.
 - I used to freeze up whenever I met a foreigner.

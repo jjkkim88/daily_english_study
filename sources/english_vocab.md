@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+- nutrients: 영양소
+- gastritis: 위염
+- heartburn: 속 쓰림
+- fermented: 발효된
+- probiotics: 유산균
+- sauerkraut: 사우어크라우트
 
 - drive: 운전하다, 차로
 - method: 방법
@@ -2450,6 +2456,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- packed with: ~로 가득한
 
 - over and over: 반복해서
 - freeze up: 굳어지다, 태도가 얼어붙다
@@ -2583,6 +2590,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- lightly cooked: 데친
 
 - test proctor: 시험 감독관
 - fall into place: 제자리로 돌아가다, 꼭 맞다

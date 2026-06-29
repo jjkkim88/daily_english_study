@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-28",
-  "generatedAt": "2026-06-27T15:00:24.804048Z",
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-28T15:00:28.225309Z",
   "vocab": [
-    "regain: 되찾다, 되돌아오다",
-    "sibling: 형제자매",
-    "conviction: 신념, 유죄 선고, 확신",
-    "relentlessly: 끈질긴, 가차 없는",
-    "C: 걱정 마세요."
+    "bond: 유대, 접착시키다",
+    "post to: 파견되다, ~에 배치하다",
+    "nuances: 뉘앙스, 미묘한 차이",
+    "appreciate: 고마워하다, 인식하다, 진가를 알아보다",
+    "norm: 표준, 규범, 기준"
   ],
   "sentences": [
-    "Once you hit 40, you start thinking a lot.",
-    "In a foreign setting we had long conversations over drinks with our adult son.",
-    "The only way forward was to tackle English head-on."
+    "My friends said they would stand by me.",
+    "I used to know nothing about exercise.",
+    "That one month away from Korea was a precious gift for our family, opening our eyes to a much bigger world."
   ],
   "counts": {
     "vocabPool": 2577,
