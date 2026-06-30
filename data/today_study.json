@@ -1,20 +1,20 @@
 {
-  "date": "2026-06-29",
-  "generatedAt": "2026-06-28T15:00:28.225309Z",
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-29T15:00:32.097458Z",
   "vocab": [
-    "bond: 유대, 접착시키다",
-    "post to: 파견되다, ~에 배치하다",
-    "nuances: 뉘앙스, 미묘한 차이",
-    "appreciate: 고마워하다, 인식하다, 진가를 알아보다",
-    "norm: 표준, 규범, 기준"
+    "munch: 아삭아삭 먹다",
+    "ride-hailing: 차량호출",
+    "idiomatic: 자연스러운, 관용구의",
+    "still: 아직, 그런데도, 고요한",
+    "brigade: 여단"
   ],
   "sentences": [
-    "My friends said they would stand by me.",
-    "I used to know nothing about exercise.",
-    "That one month away from Korea was a precious gift for our family, opening our eyes to a much bigger world."
+    "Maybe we're still be a bit immature.",
+    "But I still find myself thinking about him from time to time.",
+    "My English still isn't at the level I want."
   ],
   "counts": {
-    "vocabPool": 2577,
-    "sentencePool": 431
+    "vocabPool": 2584,
+    "sentencePool": 433
   }
 }

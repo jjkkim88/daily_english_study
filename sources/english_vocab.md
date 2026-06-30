@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- pleasantly: 기분좋게
+- daylight: 일조
+- depression: 우울증
+- afford: 여유가 되다
+
 - nutrients: 영양소
 - gastritis: 위염
 - heartburn: 속 쓰림
@@ -2590,6 +2596,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- but then: 하지만 또, 하기는
+
 - lightly cooked: 데친
 
 - test proctor: 시험 감독관

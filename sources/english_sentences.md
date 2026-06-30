@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- It was my first time in Northern Europe.
+- People who can afford it often live for countries in Southern Europe.
+
 - Do you eat it raw?
 - I haven't really had any stomach issues lately.
 
