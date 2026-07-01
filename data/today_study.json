@@ -1,20 +1,18 @@
 {
-  "date": "2026-06-30",
-  "generatedAt": "2026-06-29T15:00:32.097458Z",
+  "date": "2026-07-01",
+  "generatedAt": "2026-06-30T15:00:26.107057Z",
   "vocab": [
-    "munch: 아삭아삭 먹다",
-    "ride-hailing: 차량호출",
-    "idiomatic: 자연스러운, 관용구의",
-    "still: 아직, 그런데도, 고요한",
-    "brigade: 여단"
+    "engaging: 매력적인",
+    "daycare: 어린이집",
+    "uncanny: 이상한, 묘한",
+    "lime: 라임, 석회질",
+    "perpetuating: 영구화하다, 영속시키다"
   ],
   "sentences": [
-    "Maybe we're still be a bit immature.",
-    "But I still find myself thinking about him from time to time.",
-    "My English still isn't at the level I want."
+    "We decided to move to a home near my husband workplace and send our baby to daycare."
   ],
   "counts": {
-    "vocabPool": 2584,
-    "sentencePool": 433
+    "vocabPool": 2588,
+    "sentencePool": 435
   }
 }

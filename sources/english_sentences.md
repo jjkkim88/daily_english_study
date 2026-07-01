@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- Work keeps me busy.
+- I took it step by step.
+
 - It was my first time in Northern Europe.
 - People who can afford it often live for countries in Southern Europe.
 

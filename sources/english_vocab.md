@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- venue: 장소
+- accomplishment: 업적, 완수
+- ad: 광고
 
 - pleasantly: 기분좋게
 - daylight: 일조
@@ -2596,6 +2599,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- that same day: 당일날
+- step by step: 점차로, 한 걸음 한 걸음
 
 - but then: 하지만 또, 하기는
 
