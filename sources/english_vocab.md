@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- accent: 억양, 강조
+- frustrating: 좌절감을 주는, 불만스러운
+- struggle: 허우적거리다, 싸우다
+- resolve: 결심하다, 해결하다
+
 - venue: 장소
 - accomplishment: 업적, 완수
 - ad: 광고

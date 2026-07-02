@@ -1,18 +1,20 @@
 {
-  "date": "2026-07-01",
-  "generatedAt": "2026-06-30T15:00:26.107057Z",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-01T15:00:22.412876Z",
   "vocab": [
-    "engaging: 매력적인",
-    "daycare: 어린이집",
-    "uncanny: 이상한, 묘한",
-    "lime: 라임, 석회질",
-    "perpetuating: 영구화하다, 영속시키다"
+    "accomplishment: 업적, 완수, 성취감",
+    "intentionally: 고의로",
+    "earthworms: 지렁이",
+    "urge: 충고하다, 권고하다, 욕구",
+    "break out: 발발하다"
   ],
   "sentences": [
-    "We decided to move to a home near my husband workplace and send our baby to daycare."
+    "I soaked the mushrooms in water for a day.",
+    "Lately, I have been upset with him and found myself acting cold toward him.",
+    "We took the chance to travel to Da Nang, Vietnam."
   ],
   "counts": {
-    "vocabPool": 2588,
-    "sentencePool": 435
+    "vocabPool": 2592,
+    "sentencePool": 437
   }
 }

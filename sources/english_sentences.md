@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- As soon as a meeting starts, I freeze up.
+- It really hit me.
+- it's hard to follow because everyone speaks with a different accent.
+
 - Work keeps me busy.
 - I took it step by step.
 
