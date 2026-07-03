@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- skewer: 꼬치
+- upside: 장점
+- downside: 단점
+- foggy: 안개 낀, 멍한
 
 - accent: 억양, 강조
 - frustrating: 좌절감을 주는, 불만스러운
@@ -2605,6 +2609,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- quit cold turkey: 갑자기 그만두다
+
 - that same day: 당일날
 - step by step: 점차로, 한 걸음 한 걸음
 

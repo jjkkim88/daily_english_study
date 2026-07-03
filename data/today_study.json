@@ -1,20 +1,20 @@
 {
-  "date": "2026-07-02",
-  "generatedAt": "2026-07-01T15:00:22.412876Z",
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-02T15:00:21.107774Z",
   "vocab": [
-    "accomplishment: 업적, 완수, 성취감",
-    "intentionally: 고의로",
-    "earthworms: 지렁이",
-    "urge: 충고하다, 권고하다, 욕구",
-    "break out: 발발하다"
+    "for the sake of: ~때문에, ~을 위해서",
+    "satellite: 위성",
+    "horizontal: 수평의, 수평선",
+    "refer to ~ as ~: ~을 ~라 일컫다",
+    "striking: 눈에 띄는, 두두러진, 매력적인"
   ],
   "sentences": [
-    "I soaked the mushrooms in water for a day.",
-    "Lately, I have been upset with him and found myself acting cold toward him.",
-    "We took the chance to travel to Da Nang, Vietnam."
+    "It lets you revisit old memories and strengthen family bonds.",
+    "This summer was unbearably hot.",
+    "It was a very emotional moment for me."
   ],
   "counts": {
-    "vocabPool": 2592,
-    "sentencePool": 437
+    "vocabPool": 2596,
+    "sentencePool": 440
   }
 }

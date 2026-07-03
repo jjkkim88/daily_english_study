@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I decided to quit cold turkey.
+- I wasn't really a heavy drinker.
+- I used to feel foggy.
+- It's not without its downsides.
+
 - As soon as a meeting starts, I freeze up.
 - It really hit me.
 - it's hard to follow because everyone speaks with a different accent.
