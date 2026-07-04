@@ -1,20 +1,20 @@
 {
-  "date": "2026-07-03",
-  "generatedAt": "2026-07-02T15:00:21.107774Z",
+  "date": "2026-07-04",
+  "generatedAt": "2026-07-03T15:00:28.797151Z",
   "vocab": [
-    "for the sake of: ~때문에, ~을 위해서",
-    "satellite: 위성",
-    "horizontal: 수평의, 수평선",
-    "refer to ~ as ~: ~을 ~라 일컫다",
-    "striking: 눈에 띄는, 두두러진, 매력적인"
+    "phase: 단계, 단계적으로 하다",
+    "patience: 참을성, 인내력",
+    "disclosure: 폭로, 밝혀진 사실",
+    "anticipated: 기대하던, 대망의",
+    "burden: 부담, 짐"
   ],
   "sentences": [
-    "It lets you revisit old memories and strengthen family bonds.",
-    "This summer was unbearably hot.",
-    "It was a very emotional moment for me."
+    "It is a bit of hassle to wash.",
+    "It has a savory flavor.",
+    "It allows him to feel proud of himself, too."
   ],
   "counts": {
-    "vocabPool": 2596,
-    "sentencePool": 440
+    "vocabPool": 2601,
+    "sentencePool": 444
   }
 }
