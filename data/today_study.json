@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-04",
-  "generatedAt": "2026-07-03T15:00:28.797151Z",
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-04T15:00:23.817421Z",
   "vocab": [
-    "phase: 단계, 단계적으로 하다",
-    "patience: 참을성, 인내력",
-    "disclosure: 폭로, 밝혀진 사실",
-    "anticipated: 기대하던, 대망의",
-    "burden: 부담, 짐"
+    "missile: 미사일",
+    "farther: 더 멀리, 더 멀어지는",
+    "soul-searching: 성찰",
+    "Buddhist: 불교",
+    "insightful: 통찰력 있는"
   ],
   "sentences": [
-    "It is a bit of hassle to wash.",
-    "It has a savory flavor.",
-    "It allows him to feel proud of himself, too."
+    "There are times in life when you feel completely stuck.",
+    "How did you manage all that?",
+    "I was overcome with emotion."
   ],
   "counts": {
     "vocabPool": 2601,
