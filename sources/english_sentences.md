@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Being with my son has made me start to warm to English.
+- It sounds like you two are really close.
+- We sit across from each other talking and laughing.
+
 - I decided to quit cold turkey.
 - I wasn't really a heavy drinker.
 - I used to feel foggy.

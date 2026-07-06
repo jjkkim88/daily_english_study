@@ -2475,6 +2475,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- come up with: 제시하다, 제안하다
+- sit across: 마주보고 앉다
+
 - packed with: ~로 가득한
 
 - over and over: 반복해서

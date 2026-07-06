@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-05",
-  "generatedAt": "2026-07-04T15:00:23.817421Z",
+  "date": "2026-07-06",
+  "generatedAt": "2026-07-05T15:00:24.805183Z",
   "vocab": [
-    "missile: 미사일",
-    "farther: 더 멀리, 더 멀어지는",
-    "soul-searching: 성찰",
-    "Buddhist: 불교",
-    "insightful: 통찰력 있는"
+    "nutrient: 영양소",
+    "Danish: 덴마크의",
+    "rescue: 구하다, 구조",
+    "glimpse: 잠깐 봄, 깨닫다",
+    "outfit: 한 벌로 입은 옷"
   ],
   "sentences": [
-    "There are times in life when you feel completely stuck.",
-    "How did you manage all that?",
-    "I was overcome with emotion."
+    "It really hit me.",
+    "Since it fell on a weekday, we didn't get a chance to eat out as a family.",
+    "I was traumatized by that experience."
   ],
   "counts": {
     "vocabPool": 2601,
