@@ -1,20 +1,18 @@
 {
-  "date": "2026-07-06",
-  "generatedAt": "2026-07-05T15:00:24.805183Z",
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-06T15:00:29.023287Z",
   "vocab": [
-    "nutrient: 영양소",
-    "Danish: 덴마크의",
-    "rescue: 구하다, 구조",
-    "glimpse: 잠깐 봄, 깨닫다",
-    "outfit: 한 벌로 입은 옷"
+    "brew: 우리다, 양조하다, 끓이다",
+    "running water: 흐르는 물",
+    "fulfilling: 성취감을 주는",
+    "Mass: 미사",
+    "skepticism: 회의론, 무신론"
   ],
   "sentences": [
-    "It really hit me.",
-    "Since it fell on a weekday, we didn't get a chance to eat out as a family.",
-    "I was traumatized by that experience."
+    "But sometimes, when I see them fighting off sleep during Mass, I feel a little sorry for them."
   ],
   "counts": {
-    "vocabPool": 2601,
-    "sentencePool": 444
+    "vocabPool": 2603,
+    "sentencePool": 447
   }
 }

@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- freshly: 갓 ~한
+- barely: 간신히, 거의 ~아니게
+- gratitude: 고마움, 감사
+- growling: 꼬르륵 거리는, 으르렁 거리는
+
 - skewer: 꼬치
 - upside: 장점
 - downside: 단점
