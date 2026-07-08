@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- She writes in it every single day.
+- That's so thoughtful of her.
+- It almost makes me tear up whenever I read it.
+
 - We barely get a moment to rest.
 - My stomach has been growling for a while now.
 

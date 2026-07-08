@@ -1,18 +1,20 @@
 {
-  "date": "2026-07-07",
-  "generatedAt": "2026-07-06T15:00:29.023287Z",
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-07T15:00:26.806197Z",
   "vocab": [
-    "brew: 우리다, 양조하다, 끓이다",
-    "running water: 흐르는 물",
-    "fulfilling: 성취감을 주는",
-    "Mass: 미사",
-    "skepticism: 회의론, 무신론"
+    "expatriate: 국외 거주자",
+    "culprit: 범인, 장본인",
+    "tuition: 수업, 수업료",
+    "rich in: 풍부한",
+    "pesticides: 농약"
   ],
   "sentences": [
-    "But sometimes, when I see them fighting off sleep during Mass, I feel a little sorry for them."
+    "I happily mulled over which one I should get.",
+    "That keeps me motivated to study.",
+    "I have decided not to let anyone treat me carelessly."
   ],
   "counts": {
-    "vocabPool": 2603,
-    "sentencePool": 447
+    "vocabPool": 2606,
+    "sentencePool": 449
   }
 }

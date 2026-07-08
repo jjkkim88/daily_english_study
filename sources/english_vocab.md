@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- gloomy: 우울한
 
 - freshly: 갓 ~한
 - barely: 간신히, 거의 ~아니게
@@ -2481,6 +2482,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- write in: 써넣다
+- write down: 기록하다
+- pick out: 고르다
 
 - come up with: 제시하다, 제안하다
 - sit across: 마주보고 앉다
@@ -2619,6 +2623,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- every little thing: 세세한 디테일까지
+- every single day: 매일 매일
 
 - quit cold turkey: 갑자기 그만두다
 
