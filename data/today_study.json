@@ -1,20 +1,18 @@
 {
-  "date": "2026-07-08",
-  "generatedAt": "2026-07-07T15:00:26.806197Z",
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-08T15:00:22.905203Z",
   "vocab": [
-    "expatriate: 국외 거주자",
-    "culprit: 범인, 장본인",
-    "tuition: 수업, 수업료",
-    "rich in: 풍부한",
-    "pesticides: 농약"
+    "deep down: 속으로는",
+    "incentive: 장려책",
+    "agonized: 고뇌에 찬",
+    "repay: 갚다, 보담하다",
+    "chores: 잡일, 허드렛일"
   ],
   "sentences": [
-    "I happily mulled over which one I should get.",
-    "That keeps me motivated to study.",
-    "I have decided not to let anyone treat me carelessly."
+    "I agonized over it for a whole month."
   ],
   "counts": {
-    "vocabPool": 2606,
-    "sentencePool": 449
+    "vocabPool": 2612,
+    "sentencePool": 452
   }
 }

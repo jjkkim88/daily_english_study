@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- retiree: 은퇴자
+- sharp: 예리한
+- eyesight: 시력
+
 - gloomy: 우울한
 
 - freshly: 갓 ~한
@@ -2623,6 +2628,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- against my will: 억지로
+
 - every little thing: 세세한 디테일까지
 - every single day: 매일 매일
 

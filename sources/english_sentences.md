@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I did it against my will.
+- My eyesight isn't what it used to be.
+
 - She writes in it every single day.
 - That's so thoughtful of her.
 - It almost makes me tear up whenever I read it.
