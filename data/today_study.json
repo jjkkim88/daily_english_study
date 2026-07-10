@@ -1,18 +1,20 @@
 {
-  "date": "2026-07-09",
-  "generatedAt": "2026-07-08T15:00:22.905203Z",
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-09T15:00:25.301009Z",
   "vocab": [
-    "deep down: 속으로는",
-    "incentive: 장려책",
-    "agonized: 고뇌에 찬",
-    "repay: 갚다, 보담하다",
-    "chores: 잡일, 허드렛일"
+    "in person: 직접",
+    "compete: 경쟁하다",
+    "pistachio: 피스타치오",
+    "exposed: 드러내다, 노출시키다",
+    "pressing: 긴급한, 거절하기 힘든"
   ],
   "sentences": [
-    "I agonized over it for a whole month."
+    "Now I have developed the habit of double-checking the laundry before I start the machine.",
+    "My husband received a two-week vacation every four months.",
+    "We might have to head out at a moment's notice."
   ],
   "counts": {
-    "vocabPool": 2612,
-    "sentencePool": 452
+    "vocabPool": 2616,
+    "sentencePool": 454
   }
 }

@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+- slight: 조금의, 경미한
+- subtle: 미묘한
+- sensitivity: 세심함, 감성
+- affect: 영향을 미치다
+- stimulation: 자극
+- empathy: 공감
 
 - retiree: 은퇴자
 - sharp: 예리한

@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- It's part of who they are.
+- Some people are just born that way.
+
 - I did it against my will.
 - My eyesight isn't what it used to be.
 
