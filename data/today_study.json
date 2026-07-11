@@ -1,20 +1,20 @@
 {
-  "date": "2026-07-10",
-  "generatedAt": "2026-07-09T15:00:25.301009Z",
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-10T15:00:32.317688Z",
   "vocab": [
-    "in person: 직접",
-    "compete: 경쟁하다",
-    "pistachio: 피스타치오",
-    "exposed: 드러내다, 노출시키다",
-    "pressing: 긴급한, 거절하기 힘든"
+    "relatable: 연결되어 있다고 느끼는, 공감대를 형성하는",
+    "affectionate: 다정한, 애정 어린",
+    "aside: 한쪽으로, 따로",
+    "ripen: 익다, 숙성하다, 익히다",
+    "prestigious: 권위있는"
   ],
   "sentences": [
-    "Now I have developed the habit of double-checking the laundry before I start the machine.",
-    "My husband received a two-week vacation every four months.",
-    "We might have to head out at a moment's notice."
+    "She is an affectionate loving daughter.",
+    "If you take this home, it will ripen naturally.",
+    "I start by setting aside my concern and giving my mind a break."
   ],
   "counts": {
-    "vocabPool": 2616,
-    "sentencePool": 454
+    "vocabPool": 2621,
+    "sentencePool": 456
   }
 }
