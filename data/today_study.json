@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-11",
-  "generatedAt": "2026-07-10T15:00:32.317688Z",
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-11T15:00:22.915282Z",
   "vocab": [
-    "relatable: 연결되어 있다고 느끼는, 공감대를 형성하는",
-    "affectionate: 다정한, 애정 어린",
-    "aside: 한쪽으로, 따로",
-    "ripen: 익다, 숙성하다, 익히다",
-    "prestigious: 권위있는"
+    "one-way street: 일방통행",
+    "anticipated: 기대하던, 대망의",
+    "seizure: 압수, 장악",
+    "scammer: 사기꾼",
+    "wobbles: 흔들리다, 뒤뚱거리다, 흔들림"
   ],
   "sentences": [
-    "She is an affectionate loving daughter.",
-    "If you take this home, it will ripen naturally.",
-    "I start by setting aside my concern and giving my mind a break."
+    "I should be the one thanking you.",
+    "I can't run as often as before now that it is getting cold.",
+    "It's a 26-hour trip from Korea, and you can only get there by connecting through another city."
   ],
   "counts": {
     "vocabPool": 2621,
