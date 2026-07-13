@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- hiking: 하이킹, 도보여행
+- practically: 사실상
+
 - slight: 조금의, 경미한
 - subtle: 미묘한
 - sensitivity: 세심함, 감성
@@ -2634,6 +2638,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- around that same time: 그즘에
+- hand in hand: 손잡고
+- jump rope: 줄넘기
 
 - against my will: 억지로
 

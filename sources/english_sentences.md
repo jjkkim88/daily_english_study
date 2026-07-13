@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- We enjoy hobbies together just like friends do.
+- I would like for us to study English together.
+- You are practically like friends.
+
 - It's part of who they are.
 - Some people are just born that way.
 

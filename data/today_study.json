@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-12",
-  "generatedAt": "2026-07-11T15:00:22.915282Z",
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-12T15:00:25.398364Z",
   "vocab": [
-    "one-way street: 일방통행",
-    "anticipated: 기대하던, 대망의",
-    "seizure: 압수, 장악",
-    "scammer: 사기꾼",
-    "wobbles: 흔들리다, 뒤뚱거리다, 흔들림"
+    "nagging: 잔소리하는, 불평하는, 계속되는",
+    "snorkeling: 스노클링",
+    "produce: 농산물",
+    "acquaintance: 아는 사람, 지인",
+    "sagging: 축 늘어진, 줄어든"
   ],
   "sentences": [
-    "I should be the one thanking you.",
-    "I can't run as often as before now that it is getting cold.",
-    "It's a 26-hour trip from Korea, and you can only get there by connecting through another city."
+    "But I still find myself thinking about him from time to time.",
+    "If you take this home, it will ripen naturally.",
+    "It could be exhausting at times."
   ],
   "counts": {
     "vocabPool": 2621,
