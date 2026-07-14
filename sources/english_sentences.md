@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I had stayed away from books all my life.
+- I spend much less time watching TV than I used to.
+- I hope this small change will become a lasting habit.
+- Time just flies by.
+
 - We enjoy hobbies together just like friends do.
 - I would like for us to study English together.
 - You are practically like friends.

@@ -1,20 +1,18 @@
 {
-  "date": "2026-07-13",
-  "generatedAt": "2026-07-12T15:00:25.398364Z",
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-13T15:00:22.898324Z",
   "vocab": [
-    "nagging: 잔소리하는, 불평하는, 계속되는",
-    "snorkeling: 스노클링",
-    "produce: 농산물",
-    "acquaintance: 아는 사람, 지인",
-    "sagging: 축 늘어진, 줄어든"
+    "thriller: 스릴러 물",
+    "roly-poly: 토실토실한, 오동통한",
+    "criticize: 비판하다, 비난하다",
+    "kind-hearted: 마음씨 고운",
+    "affairs: 사건"
   ],
   "sentences": [
-    "But I still find myself thinking about him from time to time.",
-    "If you take this home, it will ripen naturally.",
-    "It could be exhausting at times."
+    "That kind-hearted comment instantly washed away all the fatigue of childcare."
   ],
   "counts": {
-    "vocabPool": 2621,
-    "sentencePool": 456
+    "vocabPool": 2626,
+    "sentencePool": 459
   }
 }

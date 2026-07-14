@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- ignore: 무시하다
+- lasting: 지속적인, 영속적인
 
 - hiking: 하이킹, 도보여행
 - practically: 사실상
@@ -2497,6 +2499,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- free up: 해방하다, 풀어주다, 해소하다
+- stay away: 거리를 두다, 떨어져 있다
+
 - write in: 써넣다
 - write down: 기록하다
 - pick out: 고르다
