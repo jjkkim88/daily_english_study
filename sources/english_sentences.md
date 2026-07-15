@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- It's my first time going through this
+- It's very important not to get hung up over every test score.
+
 - I had stayed away from books all my life.
 - I spend much less time watching TV than I used to.
 - I hope this small change will become a lasting habit.

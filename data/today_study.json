@@ -1,18 +1,20 @@
 {
-  "date": "2026-07-14",
-  "generatedAt": "2026-07-13T15:00:22.898324Z",
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-14T15:00:30.504198Z",
   "vocab": [
-    "thriller: 스릴러 물",
-    "roly-poly: 토실토실한, 오동통한",
-    "criticize: 비판하다, 비난하다",
-    "kind-hearted: 마음씨 고운",
-    "affairs: 사건"
+    "salute: 경례하다, 거수 경례",
+    "observant: 관찰력 있는, 준수하는",
+    "surpassing: 빼어난",
+    "preowned: 중고의",
+    "spotless: 티끌하나 없는게"
   ],
   "sentences": [
-    "That kind-hearted comment instantly washed away all the fatigue of childcare."
+    "I had to take two buses and they stop running pretty early.",
+    "It's more of a voluntary system.",
+    "I write down whatever thoughts and feelings came up."
   ],
   "counts": {
-    "vocabPool": 2626,
-    "sentencePool": 459
+    "vocabPool": 2629,
+    "sentencePool": 463
   }
 }

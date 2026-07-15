@@ -2499,6 +2499,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- go through: ~을 통과하다
+- make it through: ~을 통과하다
+- root for: 응원하다
 
 - free up: 해방하다, 풀어주다, 해소하다
 - stay away: 거리를 두다, 떨어져 있다
@@ -2644,6 +2647,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- get hung up over: ~에 연연하다, 일희일비하다
+
 - around that same time: 그즘에
 - hand in hand: 손잡고
 - jump rope: 줄넘기
