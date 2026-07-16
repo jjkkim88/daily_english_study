@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- favor: 호의
+- gladly: 기꺼이
+- miraculous: 기적적인
+
 - ignore: 무시하다
 - lasting: 지속적인, 영속적인
 
@@ -2647,6 +2652,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+- ever since: 그 이래 줄곧
+- at one point: 한 때
+- favor to ask: 부탁하다
+- come up to: 다가오다
 
 - get hung up over: ~에 연연하다, 일희일비하다
 

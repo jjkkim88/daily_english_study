@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- He seemed like the kind of person who you could trust.
+- He carefully came up to me and said he had a favor to ask.
+- His marriage really felt like a miracle to me.
+
 - It's my first time going through this
 - It's very important not to get hung up over every test score.
 
