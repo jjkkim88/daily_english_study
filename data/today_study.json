@@ -1,15 +1,15 @@
 {
-  "date": "2026-07-18",
-  "generatedAt": "2026-07-17T15:00:29.798213Z",
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-18T15:00:25.326646Z",
   "vocab": [
-    "rarely: 드물게, 좀처럼 ~하지 않는",
-    "counterbalance: 균형을 잡아주다",
-    "minority: 소수",
-    "beloved: 소중한, 사랑하는",
-    "trajectory: 탄도, 궤적, 궤도"
+    "junior: 하급의, 청소년의, 아랫사람",
+    "worn out: 매우 지친, 닳고 닳은",
+    "up-and-coming: 떠오르는",
+    "resistant: 저항력 있는, ~에 잘 견디는, ~에 강한",
+    "fraud: 사기"
   ],
   "sentences": [
-    "I only thought of it as another appliance, but now it feels like a beloved companion."
+    "Both my body and my heart were completely worn out."
   ],
   "counts": {
     "vocabPool": 2639,
