@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- My skin cracks so easily.
+- I can fix them hole.
+- My lips gets chapped.
+
 - He seemed like the kind of person who you could trust.
 - He carefully came up to me and said he had a favor to ask.
 - His marriage really felt like a miracle to me.

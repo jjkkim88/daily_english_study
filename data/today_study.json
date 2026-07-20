@@ -1,15 +1,17 @@
 {
-  "date": "2026-07-19",
-  "generatedAt": "2026-07-18T15:00:25.326646Z",
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-19T15:00:29.401376Z",
   "vocab": [
-    "junior: 하급의, 청소년의, 아랫사람",
-    "worn out: 매우 지친, 닳고 닳은",
-    "up-and-coming: 떠오르는",
-    "resistant: 저항력 있는, ~에 잘 견디는, ~에 강한",
-    "fraud: 사기"
+    "labor-intensive: 노동집약적인",
+    "placement: 배치, 발령지",
+    "thoughtful: 생각에 잠긴, 친절한, 사려 깊은",
+    "sense of relief: 안도감, 후련함",
+    "reissue: 재발급하다"
   ],
   "sentences": [
-    "Both my body and my heart were completely worn out."
+    "That's so thoughtful of her.",
+    "Just doing that made me feel a sense of relief.",
+    "You're such a thoughtful husband."
   ],
   "counts": {
     "vocabPool": 2639,

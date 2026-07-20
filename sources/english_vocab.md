@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- bent: 구부러진, 휜
+- crack: 갈라지다, 깨지다
+- joints: 관절
+- chapped: 튼
 
 - favor: 호의
 - gladly: 기꺼이
@@ -2652,6 +2656,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- keep something from slipping off: ~을 흘러내리지 않게 하다
+- fix hole: 구멍을 메우다
+
 - ever since: 그 이래 줄곧
 - at one point: 한 때
 - favor to ask: 부탁하다
