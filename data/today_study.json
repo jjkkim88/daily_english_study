@@ -1,20 +1,20 @@
 {
-  "date": "2026-07-20",
-  "generatedAt": "2026-07-19T15:00:29.401376Z",
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-20T15:00:42.621221Z",
   "vocab": [
-    "labor-intensive: 노동집약적인",
-    "placement: 배치, 발령지",
-    "thoughtful: 생각에 잠긴, 친절한, 사려 깊은",
-    "sense of relief: 안도감, 후련함",
-    "reissue: 재발급하다"
+    "geothermal: 지열의",
+    "frustrated: 좌절감을 느끼는, 좌절한",
+    "stargazing: 천문학, 별을 보는",
+    "fast-paced: 빨리 돌아가는",
+    "swelter: 무더위에 시달리다"
   ],
   "sentences": [
-    "That's so thoughtful of her.",
-    "Just doing that made me feel a sense of relief.",
-    "You're such a thoughtful husband."
+    "I often got frustrated because things didn't go the way I want it.",
+    "In the end, it just left me feeling frustrated.",
+    "There are times when I get frustrated because it feels like I'm not making any gains."
   ],
   "counts": {
-    "vocabPool": 2639,
-    "sentencePool": 468
+    "vocabPool": 2644,
+    "sentencePool": 471
   }
 }

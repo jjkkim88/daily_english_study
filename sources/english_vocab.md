@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- lightweight: 가벼운
+- tremolo: 트레몰로
+- chromatic: 반음계의
+- slightly: 약간, 조금
+- waver: 흔들린다
+
 - bent: 구부러진, 휜
 - crack: 갈라지다, 깨지다
 - joints: 관절
@@ -2656,6 +2663,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- come to: ~이 되다
+- lung capacity: 폐활량
 
 - keep something from slipping off: ~을 흘러내리지 않게 하다
 - fix hole: 구멍을 메우다

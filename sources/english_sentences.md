@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I quickly came to like the harmonica.
+- It's easy to get started.
+- It's easy to carry around.
+
 - My skin cracks so easily.
 - I can fix them hole.
 - My lips gets chapped.
