@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+- beneath: 아래에, ~보다 못한
+- exotic: 이국적인
+- escape: 벗어나다
+- getaway: 도주, 휴가지
+- beta-carotene: 베타카로틴
+- allergic: 알레르기가 있는
 
 - lightweight: 가벼운
 - tremolo: 트레몰로
@@ -2663,6 +2669,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- deserve the nickname: 별명으로 불릴 자격이 있다
+- dietary fiber: 식이섬유
+- blood sugar spikes: 혈당 스파이크
+
 - come to: ~이 되다
 - lung capacity: 폐활량
 

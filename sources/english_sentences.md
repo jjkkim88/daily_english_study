@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- There also packed with nutrients.
+- Eating too much can cause blood sugar spikes.
+- I ate all I wanted last year in Vietnam.
+
 - I quickly came to like the harmonica.
 - It's easy to get started.
 - It's easy to carry around.
