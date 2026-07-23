@@ -1,6 +1,14 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- realistic: 현실적인
+- practical: 실용적인
+- efficiency: 효율성
+- romantic: 낭만적인
+- intuition: 직관력
+- opposite: 다른
+
 - beneath: 아래에, ~보다 못한
 - exotic: 이국적인
 - escape: 벗어나다
@@ -2669,6 +2677,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- tied the knot: 결혼을 하다
+- see eye to eye: 의견을 같이하다
 
 - deserve the nickname: 별명으로 불릴 자격이 있다
 - dietary fiber: 식이섬유

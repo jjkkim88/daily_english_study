@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- In many ways, we are complete opposites.
+- We usually see eye-to-eye.
+
 - There also packed with nutrients.
 - Eating too much can cause blood sugar spikes.
 - I ate all I wanted last year in Vietnam.
