@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I've been trying to study consistently while balancing work.
+- That's what keeps me motivated to keep studying.
+
 - In many ways, we are complete opposites.
 - We usually see eye-to-eye.
 

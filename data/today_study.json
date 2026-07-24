@@ -1,19 +1,20 @@
 {
-  "date": "2026-07-23",
-  "generatedAt": "2026-07-22T15:00:33.401098Z",
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-23T15:00:26.098682Z",
   "vocab": [
-    "tendon: 힘줄",
-    "rhinitis: 비염",
-    "naturally: 물론, 자연스럽게",
-    "cornerstone: 초석",
-    "dashcam: 블랙박스"
+    "anxiety: 불안",
+    "pregnancy: 임신",
+    "at a glance: 첫눈에, 한눈에",
+    "lifestyle: 생활방식",
+    "sauna: 사우나"
   ],
   "sentences": [
-    "It just flowed naturally in an English interview I had recently.",
-    "If you take this home, it will ripen naturally."
+    "It's easy to see at a glance what we learned that day.",
+    "Thanks to my clever husband, I can enjoy smart and convenient lifestyle.",
+    "Concerns might come and go, but anxiety can persist for a long time."
   ],
   "counts": {
-    "vocabPool": 2657,
-    "sentencePool": 477
+    "vocabPool": 2665,
+    "sentencePool": 479
   }
 }

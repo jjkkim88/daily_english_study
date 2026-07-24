@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- exposed: 드러내다
+- motivate: 이유가 되다, 동기를 부여하다
 
 - realistic: 현실적인
 - practical: 실용적인
@@ -2529,6 +2531,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- get into: ~하게 되다, 흥미를 갖게 되다
+
 - go through: ~을 통과하다
 - make it through: ~을 통과하다
 - root for: 응원하다
@@ -2677,6 +2682,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- while balancing work: 일과 병행하는
+
 - tied the knot: 결혼을 하다
 - see eye to eye: 의견을 같이하다
 
