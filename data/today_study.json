@@ -1,20 +1,18 @@
 {
-  "date": "2026-07-24",
-  "generatedAt": "2026-07-23T15:00:26.098682Z",
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-24T15:00:32.914860Z",
   "vocab": [
-    "anxiety: 불안",
-    "pregnancy: 임신",
-    "at a glance: 첫눈에, 한눈에",
-    "lifestyle: 생활방식",
-    "sauna: 사우나"
+    "formed: 형성된",
+    "self-control: 자제력",
+    "thorough: 빈틈없는, 철두철미한, 철저한",
+    "ethnic: 민족의",
+    "lakeside: 호숫가"
   ],
   "sentences": [
-    "It's easy to see at a glance what we learned that day.",
-    "Thanks to my clever husband, I can enjoy smart and convenient lifestyle.",
-    "Concerns might come and go, but anxiety can persist for a long time."
+    "My self-control snapped."
   ],
   "counts": {
-    "vocabPool": 2665,
-    "sentencePool": 479
+    "vocabPool": 2669,
+    "sentencePool": 481
   }
 }

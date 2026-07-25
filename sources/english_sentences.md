@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I went in for a checkup this winter before last.
+- I was given a referral for more testing.
+- I keep putting it off.
+
 - I've been trying to study consistently while balancing work.
 - That's what keeps me motivated to keep studying.
 

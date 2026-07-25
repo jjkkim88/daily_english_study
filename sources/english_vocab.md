@@ -1,6 +1,15 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- checkup: 건강 검진
+- thyroid: 갑상선
+- ultrasound: 초음파
+- hormone: 호르몬
+- irregularly: 불규칙적으로
+- lump: 혹, 덩어리
+- referral: 소개, 위탁
+
 - exposed: 드러내다
 - motivate: 이유가 되다, 동기를 부여하다
 
@@ -2531,6 +2540,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- put ~ off: 미루다
 
 - get into: ~하게 되다, 흥미를 갖게 되다
 
