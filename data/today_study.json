@@ -1,18 +1,20 @@
 {
-  "date": "2026-07-25",
-  "generatedAt": "2026-07-24T15:00:32.914860Z",
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-25T15:00:23.908599Z",
   "vocab": [
-    "formed: 형성된",
-    "self-control: 자제력",
-    "thorough: 빈틈없는, 철두철미한, 철저한",
-    "ethnic: 민족의",
-    "lakeside: 호숫가"
+    "conversational: 대회의, 구어의",
+    "overworked: 과로한",
+    "mildew: 곰팡이",
+    "strap: 끈, 묶다",
+    "aspect: 측면, 양상"
   ],
   "sentences": [
-    "My self-control snapped."
+    "It just flowed naturally in an English interview I had recently.",
+    "It's very important not to get hung up over every test score.",
+    "We take a 40-minutes bus ride downtown to get a snack together."
   ],
   "counts": {
-    "vocabPool": 2669,
-    "sentencePool": 481
+    "vocabPool": 2676,
+    "sentencePool": 484
   }
 }
