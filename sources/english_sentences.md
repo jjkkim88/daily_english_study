@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- There is a good reason people say that.
+- It's impossible not to love them.
+
 - I went in for a checkup this winter before last.
 - I was given a referral for more testing.
 - I keep putting it off.

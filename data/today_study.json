@@ -1,17 +1,15 @@
 {
-  "date": "2026-07-26",
-  "generatedAt": "2026-07-25T15:00:23.908599Z",
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-26T15:00:24.917462Z",
   "vocab": [
-    "conversational: 대회의, 구어의",
-    "overworked: 과로한",
-    "mildew: 곰팡이",
-    "strap: 끈, 묶다",
-    "aspect: 측면, 양상"
+    "evaluate: 평가하다",
+    "means: 수단",
+    "hangover: 숙취",
+    "preowned: 중고의",
+    "hopefully: 바라건데, 희망을 갖고"
   ],
   "sentences": [
-    "It just flowed naturally in an English interview I had recently.",
-    "It's very important not to get hung up over every test score.",
-    "We take a 40-minutes bus ride downtown to get a snack together."
+    "My wife and I have been taking turns going with him, which means he has seen the movie ten times all told."
   ],
   "counts": {
     "vocabPool": 2676,

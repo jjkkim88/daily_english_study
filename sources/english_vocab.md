@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+- meme: 밈
+- collarbone: 쇠골
+- ligament: 인대
+- flexible: 유연한
+- spine: 척추, 등뼈
+- hilarious: 아주 우스운
+- cramped: 비좁은
 
 - checkup: 건강 검진
 - thyroid: 갑상선
