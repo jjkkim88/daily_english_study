@@ -1,6 +1,14 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- everywhere: 어디서나
+- classy: 고급된, 세련된
+- sprinkle: 뿌리다
+- catechins: 카테킨
+- antioxidant: 산화 방지제
+- detox: 해독
+
 - meme: 밈
 - collarbone: 쇠골
 - ligament: 인대
@@ -2547,6 +2555,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- fit in with: ~와 어울리다, ~와 맞다
+
 - put ~ off: 미루다
 
 - get into: ~하게 되다, 흥미를 갖게 되다

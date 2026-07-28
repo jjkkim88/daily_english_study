@@ -1,18 +1,20 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-26T15:00:24.917462Z",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-27T15:00:23.921949Z",
   "vocab": [
-    "evaluate: 평가하다",
-    "means: 수단",
-    "hangover: 숙취",
-    "preowned: 중고의",
-    "hopefully: 바라건데, 희망을 갖고"
+    "dominant: 우세한, 지배적인",
+    "patiently: 참을성 있게",
+    "cukes: 오이 줄임말",
+    "designate: 지정하다, 지명하다",
+    "disagreement: 의견 충돌, 다툼, 불일치"
   ],
   "sentences": [
-    "My wife and I have been taking turns going with him, which means he has seen the movie ten times all told."
+    "It has a savory flavor.",
+    "It was something I had always regretted not doing earlier in life.",
+    "I have decided not to let anyone treat me carelessly."
   ],
   "counts": {
-    "vocabPool": 2676,
-    "sentencePool": 484
+    "vocabPool": 2682,
+    "sentencePool": 486
   }
 }

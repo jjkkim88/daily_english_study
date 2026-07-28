@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Matcha lattes are everywhere these days.
+- Matcha lattes are all the rage these days.
+- Matcha lattes fit right in with today's health trends.
+
 - There is a good reason people say that.
 - It's impossible not to love them.
 
