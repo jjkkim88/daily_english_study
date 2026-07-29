@@ -1,20 +1,20 @@
 {
-  "date": "2026-07-28",
-  "generatedAt": "2026-07-27T15:00:23.921949Z",
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-28T15:00:23.416971Z",
   "vocab": [
-    "dominant: 우세한, 지배적인",
-    "patiently: 참을성 있게",
-    "cukes: 오이 줄임말",
-    "designate: 지정하다, 지명하다",
-    "disagreement: 의견 충돌, 다툼, 불일치"
+    "sodium: 나트륨",
+    "chores: 잡일, 허드렛일",
+    "wherever: 어디에서나, 어디든지",
+    "sore: 아픈, 따가운",
+    "sound of thunder: 천둥소리"
   ],
   "sentences": [
-    "It has a savory flavor.",
-    "It was something I had always regretted not doing earlier in life.",
-    "I have decided not to let anyone treat me carelessly."
+    "Sometimes I think pet dogs might be even better than children.",
+    "It's not without its downsides.",
+    "I am what you would call a detailer, someone who is really into washing their car."
   ],
   "counts": {
-    "vocabPool": 2682,
-    "sentencePool": 486
+    "vocabPool": 2688,
+    "sentencePool": 489
   }
 }
