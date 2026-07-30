@@ -1,17 +1,15 @@
 {
-  "date": "2026-07-29",
-  "generatedAt": "2026-07-28T15:00:23.416971Z",
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-29T15:00:24.207123Z",
   "vocab": [
-    "sodium: 나트륨",
-    "chores: 잡일, 허드렛일",
-    "wherever: 어디에서나, 어디든지",
-    "sore: 아픈, 따가운",
-    "sound of thunder: 천둥소리"
+    "non-stop: 쉴세없이",
+    "hone: 연마하다, 갈다",
+    "notable: 주목말 만한, 유명 인물",
+    "surpassing: 빼어난",
+    "easy on the eye: 보기 좋은, 가독성이 좋은"
   ],
   "sentences": [
-    "Sometimes I think pet dogs might be even better than children.",
-    "It's not without its downsides.",
-    "I am what you would call a detailer, someone who is really into washing their car."
+    "He has been begging us non-stop."
   ],
   "counts": {
     "vocabPool": 2688,
