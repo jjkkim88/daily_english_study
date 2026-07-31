@@ -1,15 +1,17 @@
 {
-  "date": "2026-07-30",
-  "generatedAt": "2026-07-29T15:00:24.207123Z",
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-30T15:00:23.909698Z",
   "vocab": [
-    "non-stop: 쉴세없이",
-    "hone: 연마하다, 갈다",
-    "notable: 주목말 만한, 유명 인물",
-    "surpassing: 빼어난",
-    "easy on the eye: 보기 좋은, 가독성이 좋은"
+    "parakeet: 작은 잉꼬",
+    "guilt: 죄책감, 유죄",
+    "complement: 보안화다, 보완물",
+    "patient: 환자",
+    "shore: 호숫가, 기슭"
   ],
   "sentences": [
-    "He has been begging us non-stop."
+    "I did exactly as he said.",
+    "We thought we would give it a try for their sake even if it was hard.",
+    "I've been subscribing to a paper newspaper for four years."
   ],
   "counts": {
     "vocabPool": 2688,
