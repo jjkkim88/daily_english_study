@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-31",
-  "generatedAt": "2026-07-30T15:00:23.909698Z",
+  "date": "2026-08-01",
+  "generatedAt": "2026-07-31T15:00:25.499605Z",
   "vocab": [
-    "parakeet: 작은 잉꼬",
-    "guilt: 죄책감, 유죄",
-    "complement: 보안화다, 보완물",
-    "patient: 환자",
-    "shore: 호숫가, 기슭"
+    "talk through: 따져가면서 이야기 하다",
+    "declare: 선언하다, 신고하다",
+    "shed: 흘리다, 없애다, 헛간",
+    "bicycle: 자전거",
+    "gauge: 게이지, 측정기"
   ],
   "sentences": [
-    "I did exactly as he said.",
-    "We thought we would give it a try for their sake even if it was hard.",
-    "I've been subscribing to a paper newspaper for four years."
+    "I'm a late-in-life mom with 60 just around the corner.",
+    "It has become harder for us to meet face to face.",
+    "We chose to live apart instead."
   ],
   "counts": {
     "vocabPool": 2688,
