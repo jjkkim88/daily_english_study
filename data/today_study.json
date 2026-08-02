@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-01",
-  "generatedAt": "2026-07-31T15:00:25.499605Z",
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-01T15:00:25.427784Z",
   "vocab": [
-    "talk through: 따져가면서 이야기 하다",
-    "declare: 선언하다, 신고하다",
-    "shed: 흘리다, 없애다, 헛간",
-    "bicycle: 자전거",
-    "gauge: 게이지, 측정기"
+    "attend: 참석하다, 다니다, 주의를 기울이다",
+    "admiration: 존경",
+    "pierce: 뚫다, 가르다",
+    "heart-to-heart: 진솔한 대화",
+    "setup: 세팅, 구성"
   ],
   "sentences": [
-    "I'm a late-in-life mom with 60 just around the corner.",
-    "It has become harder for us to meet face to face.",
-    "We chose to live apart instead."
+    "That made all the efforts I put into my homework feel pointless.",
+    "I would just buy a simple esspresso maker without all the bells and whistles.",
+    "I quit partway through."
   ],
   "counts": {
     "vocabPool": 2688,
