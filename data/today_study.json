@@ -1,17 +1,15 @@
 {
-  "date": "2026-08-02",
-  "generatedAt": "2026-08-01T15:00:25.427784Z",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-02T15:00:25.915424Z",
   "vocab": [
-    "attend: 참석하다, 다니다, 주의를 기울이다",
-    "admiration: 존경",
-    "pierce: 뚫다, 가르다",
-    "heart-to-heart: 진솔한 대화",
-    "setup: 세팅, 구성"
+    "surge: 밀려들다, 휩싸다, 급등",
+    "sparring: 스파링",
+    "steamed: 찐",
+    "engaging: 매력적인",
+    "affectionate: 애교 많은"
   ],
   "sentences": [
-    "That made all the efforts I put into my homework feel pointless.",
-    "I would just buy a simple esspresso maker without all the bells and whistles.",
-    "I quit partway through."
+    "She is an affectionate loving daughter."
   ],
   "counts": {
     "vocabPool": 2688,
