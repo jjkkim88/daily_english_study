@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- parental: 부모의
+- overthink: 너무 많이 생각하다
 
 - everywhere: 어디서나
 - classy: 고급된, 세련된
@@ -2555,6 +2557,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- worn out: 매우 지진, 닳고 닳은
 
 - fit in with: ~와 어울리다, ~와 맞다
 

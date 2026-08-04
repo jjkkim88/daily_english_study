@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I was too busy with life to really enjoy this hobby.
+- I started to feel worn out.
+- Once you get into it, it's hard to stop.
+
 - Matcha lattes are everywhere these days.
 - Matcha lattes are all the rage these days.
 - Matcha lattes fit right in with today's health trends.

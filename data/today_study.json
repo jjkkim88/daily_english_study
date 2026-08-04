@@ -1,15 +1,17 @@
 {
-  "date": "2026-08-03",
-  "generatedAt": "2026-08-02T15:00:25.915424Z",
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-03T15:00:28.810354Z",
   "vocab": [
-    "surge: 밀려들다, 휩싸다, 급등",
-    "sparring: 스파링",
-    "steamed: 찐",
-    "engaging: 매력적인",
-    "affectionate: 애교 많은"
+    "numb: 감각이 없는, 멍한",
+    "peak: 절정, 최고조, 꼭대기",
+    "vocational: 직업 관련의",
+    "lifelong: 평생 동안의, 일생의",
+    "be on edge: 신경이 곤두서 있다"
   ],
   "sentences": [
-    "She is an affectionate loving daughter."
+    "You're such a thoughtful husband.",
+    "Did she adjust okay?",
+    "I feel a sense of satisfaction that I got to try it myself."
   ],
   "counts": {
     "vocabPool": 2688,
