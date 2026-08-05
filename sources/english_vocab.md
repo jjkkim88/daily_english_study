@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- long: 긴, 시간이 걸리는
+- catnap: 토막잠
+- pavilion: 별관, 경기장, 정자
+- awkward: 어색한, 불편한
+- reenergize: 원기회복하다
+
 - parental: 부모의
 - overthink: 너무 많이 생각하다
 

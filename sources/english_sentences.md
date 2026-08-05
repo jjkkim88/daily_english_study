@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- My lunch break is only an hour long.
+- Reading outdoors felt a little awkward at first.
+- I feel reenergized.
+
 - I was too busy with life to really enjoy this hobby.
 - I started to feel worn out.
 - Once you get into it, it's hard to stop.
