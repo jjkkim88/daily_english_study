@@ -1,18 +1,20 @@
 {
-  "date": "2026-08-05",
-  "generatedAt": "2026-08-04T15:00:36.000925Z",
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-05T15:00:25.933493Z",
   "vocab": [
-    "engaged: ~하고 있는",
-    "unathletic: 운동신경이 둔한",
-    "structured: 짜여진",
-    "electricity: 전기",
-    "solely: 오로지, 단지"
+    "clumsiness: 어색함, 서투름, 눈치없음",
+    "set off: 출발하다",
+    "romantic: 낭만적인",
+    "vibe: 분위기, 낌새, 느낌",
+    "trivial: 사소한, 하찮은"
   ],
   "sentences": [
-    "I have always thought of myself as unathletic, and I was never really into exercise."
+    "I used to go to PC cafés all the time.",
+    "We have to take a long way around.",
+    "I can fix them hole."
   ],
   "counts": {
-    "vocabPool": 2691,
-    "sentencePool": 492
+    "vocabPool": 2696,
+    "sentencePool": 495
   }
 }
