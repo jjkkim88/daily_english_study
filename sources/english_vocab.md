@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- freshmen: 신입생
+- regain: 되찾다
 
 - long: 긴, 시간이 걸리는
 - catnap: 토막잠
@@ -2564,6 +2566,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- year off: 휴학, 휴직
+
 - worn out: 매우 지진, 닳고 닳은
 
 - fit in with: ~와 어울리다, ~와 맞다
@@ -2720,6 +2725,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- on top of that: 그 위에
+- keep me awake: 잠을 깨다
 
 - while balancing work: 일과 병행하는
 

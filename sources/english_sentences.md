@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I decided to take a year off this year.
+- I spent a long time thinking about it before making the decision.
+- The stress even kept me awake at night.
+
 - My lunch break is only an hour long.
 - Reading outdoors felt a little awkward at first.
 - I feel reenergized.

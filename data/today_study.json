@@ -1,17 +1,15 @@
 {
-  "date": "2026-08-06",
-  "generatedAt": "2026-08-05T15:00:25.933493Z",
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-06T15:00:35.799047Z",
   "vocab": [
-    "clumsiness: 어색함, 서투름, 눈치없음",
-    "set off: 출발하다",
-    "romantic: 낭만적인",
-    "vibe: 분위기, 낌새, 느낌",
-    "trivial: 사소한, 하찮은"
+    "calm: 침착한",
+    "electric: 열광하는, 전기의",
+    "athlete: 운동선수, 운동잘하는 사람",
+    "punishment: 벌, 처벌",
+    "noteworthy: 주목할만한"
   ],
   "sentences": [
-    "I used to go to PC cafés all the time.",
-    "We have to take a long way around.",
-    "I can fix them hole."
+    "I'm a calm person and not very talkative."
   ],
   "counts": {
     "vocabPool": 2696,
