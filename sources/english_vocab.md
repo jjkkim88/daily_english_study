@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- translator: 번역가
+- helpless: 무력한, 감당하지 못하는, 초라한
+
 - freshmen: 신입생
 - regain: 되찾다
 
@@ -2566,6 +2570,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- end up: 결국 ~하게 되다
+- go along with: 동조하다, ~에 동의하다
 
 - year off: 휴학, 휴직
 
@@ -2725,6 +2731,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- racial discrimination: 인종차별
+
 - on top of that: 그 위에
 - keep me awake: 잠을 깨다
 

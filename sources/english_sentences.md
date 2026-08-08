@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I guess I just went along with that image.
+- I felt small and helpless.
+
 - I decided to take a year off this year.
 - I spent a long time thinking about it before making the decision.
 - The stress even kept me awake at night.

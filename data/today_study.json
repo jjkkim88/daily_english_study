@@ -1,18 +1,20 @@
 {
-  "date": "2026-08-07",
-  "generatedAt": "2026-08-06T15:00:35.799047Z",
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-07T15:00:28.125759Z",
   "vocab": [
-    "calm: 침착한",
-    "electric: 열광하는, 전기의",
-    "athlete: 운동선수, 운동잘하는 사람",
-    "punishment: 벌, 처벌",
-    "noteworthy: 주목할만한"
+    "praised for:~을 칭찬하다",
+    "unaffected: 영향을 받지 않은, 자연스러운",
+    "prejudice: 편견",
+    "legitimate: 정당한, 합법적인",
+    "moderate: 보통의, 중간의, 완화하다"
   ],
   "sentences": [
-    "I'm a calm person and not very talkative."
+    "We chose to travel independently.",
+    "I tried to reassure her.",
+    "It also makes me think twice before buying anything new."
   ],
   "counts": {
-    "vocabPool": 2696,
-    "sentencePool": 495
+    "vocabPool": 2699,
+    "sentencePool": 498
   }
 }
