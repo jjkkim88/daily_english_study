@@ -1,15 +1,17 @@
 {
-  "date": "2026-08-09",
-  "generatedAt": "2026-08-08T15:00:27.697709Z",
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-09T15:00:26.209032Z",
   "vocab": [
-    "repay: 갚다, 보담하다",
-    "second-hand: 중고의, 전해들은",
-    "budge: 약간 움직이다, 꼼짝하다",
-    "chew: 씹다",
-    "divide into: ~으로 나누다"
+    "consultation: 협의, 상담",
+    "miscarriages: 유산",
+    "astigmatism: 난시",
+    "addict: 중독자",
+    "oasis: 오아시스"
   ],
   "sentences": [
-    "There are days when I don't want to budge."
+    "I hope the time they spend there will become fun memories for them.",
+    "it's hard to follow because everyone speaks with a different accent.",
+    "He has been begging us non-stop."
   ],
   "counts": {
     "vocabPool": 2703,

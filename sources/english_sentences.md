@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I realized I didn't really have a talent for programming.
+- I'm doing what people call vibe coding, a hot topic these days.
+- I have gotten back into programming.
+
 - I guess I just went along with that image.
 - I felt small and helpless.
 

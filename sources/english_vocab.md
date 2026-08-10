@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- slop: 출렁거리다, 음식물 찌꺼기
+- criticism: 비판
 
 - translator: 번역가
 - helpless: 무력한, 감당하지 못하는, 초라한
@@ -2570,6 +2572,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- major in: ~를 전공하다
+
 - end up: 결국 ~하게 되다
 - go along with: 동조하다, ~에 동의하다
 
@@ -2731,6 +2736,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- have a talent for: ~에 대한 스킬이 있다
+- what people call: 사람들이 말하는
 
 - racial discrimination: 인종차별
 
