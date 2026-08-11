@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- innocent: 결백한, 순결한
+- awkwardly: 어색하게
+
 - slop: 출렁거리다, 음식물 찌꺼기
 - criticism: 비판
 
@@ -2572,6 +2576,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- clean out: 청소하다, 버리면서 정리하다
+- bound in: ~으로 장정된(묶여 있는)
 
 - major in: ~를 전공하다
 
@@ -2736,6 +2742,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- keep promise: 약속을 지키다
+- grateful to: ~에게 고맙다
+- ages ago: 옛날에
+
 - have a talent for: ~에 대한 스킬이 있다
 - what people call: 사람들이 말하는
 

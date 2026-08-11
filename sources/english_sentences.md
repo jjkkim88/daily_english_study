@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- My wife was cleaning out the closet in the kids' room
+- I still haven't kept my promise to buy my wife a diamond ring.
+- I'm always grateful to her for quietly staying by my side.
+- It looks like it's from ages ago.
+
 - I realized I didn't really have a talent for programming.
 - I'm doing what people call vibe coding, a hot topic these days.
 - I have gotten back into programming.
