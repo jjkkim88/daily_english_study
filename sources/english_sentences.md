@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- This year my mother joined in, too.
+- The program keeps us close to one another.
+- He gets really nervous about English.
+- We all live apart.
+
 - My wife was cleaning out the closet in the kids' room
 - I still haven't kept my promise to buy my wife a diamond ring.
 - I'm always grateful to her for quietly staying by my side.

@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- commute: 출근하다
+- nervous: 불안해 하는
 
 - innocent: 결백한, 순결한
 - awkwardly: 어색하게
@@ -2576,6 +2578,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- join in: 동참하다
+
 - clean out: 청소하다, 버리면서 정리하다
 - bound in: ~으로 장정된(묶여 있는)
 
@@ -2742,6 +2747,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- one another: 서로
+- time difference: 시차
+- live apart: 떨어져 살다
 
 - keep promise: 약속을 지키다
 - grateful to: ~에게 고맙다

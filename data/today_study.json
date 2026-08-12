@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-10T15:00:26.604092Z",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-11T15:00:25.112875Z",
   "vocab": [
-    "jargon: 용어",
-    "gradually: 서서히",
-    "fraudulent: 사기를 치는",
-    "anticipated: 기대하던, 대망의",
-    "sprint: 전력 질주하다"
+    "resume: 이력서",
+    "uphill: 오르막의",
+    "enrich: 질을 높이다, 풍요롭게 하다",
+    "special-purpose: 특수목적",
+    "traumatic: 대단히 충격적인"
   ],
   "sentences": [
-    "Right after a restaurant is featured on TV, it gets so crowded that it is hard to score a table.",
-    "There are times in life when you feel completely stuck.",
-    "It was way longer than schedule."
+    "I do a lot of secondhand trading.",
+    "I went in for a checkup this winter before last.",
+    "It's natural to grow close."
   ],
   "counts": {
-    "vocabPool": 2708,
-    "sentencePool": 503
+    "vocabPool": 2715,
+    "sentencePool": 507
   }
 }
