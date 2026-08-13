@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-11T15:00:25.112875Z",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-12T15:00:26.903344Z",
   "vocab": [
-    "resume: 이력서",
-    "uphill: 오르막의",
-    "enrich: 질을 높이다, 풍요롭게 하다",
-    "special-purpose: 특수목적",
-    "traumatic: 대단히 충격적인"
+    "pledge: 약속, 약속하다",
+    "govern: 통치하다, 지배하다",
+    "over-involvement: 과몰입, 과잉 간섭",
+    "defensively: 방어적으로",
+    "write in: 써넣다"
   ],
   "sentences": [
-    "I do a lot of secondhand trading.",
-    "I went in for a checkup this winter before last.",
-    "It's natural to grow close."
+    "This has always been a struggle for me.",
+    "We sit across from each other talking and laughing.",
+    "So she can play just about any song."
   ],
   "counts": {
-    "vocabPool": 2715,
-    "sentencePool": 507
+    "vocabPool": 2720,
+    "sentencePool": 511
   }
 }

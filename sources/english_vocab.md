@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- hurriedly: 서둘러
+- tow: 끌다, 견인하다
+
 - commute: 출근하다
 - nervous: 불안해 하는
 
@@ -2578,6 +2582,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- drive back: 운전해서 돌아오다
+- pull over: 차를 대다
 
 - join in: 동참하다
 
@@ -2747,6 +2753,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- redo the wallpaper: 도배
+- in an instant: 곧, 즉시
+
 - one another: 서로
 - time difference: 시차
 - live apart: 떨어져 살다

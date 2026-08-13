@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I drove back home the next day.
+- I quickly pulled the car over to the shoulder.
+- It all happened in an instant.
+
 - This year my mother joined in, too.
 - The program keeps us close to one another.
 - He gets really nervous about English.
