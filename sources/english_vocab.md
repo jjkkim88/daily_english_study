@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- indirectly: 간접적으로
+- relatively: 비교적
+- explanation: 설명
 
 - hurriedly: 서둘러
 - tow: 끌다, 견인하다
@@ -2582,6 +2585,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- invest in: ~에 투자하다
+
 - drive back: 운전해서 돌아오다
 - pull over: 차를 대다
 

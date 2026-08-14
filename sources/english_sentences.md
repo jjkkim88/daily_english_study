@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- What impressed me the most was the explanation about ETFs.
+- That must have been such a great experience.
+
 - I drove back home the next day.
 - I quickly pulled the car over to the shoulder.
 - It all happened in an instant.

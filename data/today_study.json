@@ -1,20 +1,18 @@
 {
-  "date": "2026-08-13",
-  "generatedAt": "2026-08-12T15:00:26.903344Z",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-13T15:00:28.013875Z",
   "vocab": [
-    "pledge: 약속, 약속하다",
-    "govern: 통치하다, 지배하다",
-    "over-involvement: 과몰입, 과잉 간섭",
-    "defensively: 방어적으로",
-    "write in: 써넣다"
+    "fairness: 공정성",
+    "slip by: ~을 슬쩍 통과하다, 흘려보내다",
+    "weave: 엮다, 짜다",
+    "flush out: 씻어 내다",
+    "stable: 안정된, 차분한"
   ],
   "sentences": [
-    "This has always been a struggle for me.",
-    "We sit across from each other talking and laughing.",
-    "So she can play just about any song."
+    "I didn't want to let each day's new topic slip by."
   ],
   "counts": {
-    "vocabPool": 2720,
-    "sentencePool": 511
+    "vocabPool": 2726,
+    "sentencePool": 514
   }
 }
