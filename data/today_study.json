@@ -1,18 +1,20 @@
 {
-  "date": "2026-08-14",
-  "generatedAt": "2026-08-13T15:00:28.013875Z",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-14T15:00:32.500742Z",
   "vocab": [
-    "fairness: 공정성",
-    "slip by: ~을 슬쩍 통과하다, 흘려보내다",
-    "weave: 엮다, 짜다",
-    "flush out: 씻어 내다",
-    "stable: 안정된, 차분한"
+    "concrete: 콘크리트로 된",
+    "engage: 사로잡다, 고용하다, 관계를 맺다",
+    "readily: 손쉽게, 순조롭게, 선뜻, 기꺼이",
+    "rehabilitation: 재활",
+    "cylinder: 실린더, 원통"
   ],
   "sentences": [
-    "I didn't want to let each day's new topic slip by."
+    "Matcha lattes are all the rage these days.",
+    "I wanted my 10-year-old daughter to learn to ski properly.",
+    "The look and taste both change depending on what goes in."
   ],
   "counts": {
-    "vocabPool": 2726,
-    "sentencePool": 514
+    "vocabPool": 2729,
+    "sentencePool": 516
   }
 }

@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- The three of us recently took a trip to Osaka Japan.
+- We were able to enjoy a fully packed four-day trip.
+- We have the exact same taste.
+
 - What impressed me the most was the explanation about ETFs.
 - That must have been such a great experience.
 

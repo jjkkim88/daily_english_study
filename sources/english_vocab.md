@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- bond: 유대
+- taste: 맛, 입맛, 경험
+
 - indirectly: 간접적으로
 - relatively: 비교적
 - explanation: 설명
@@ -2759,6 +2763,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- fully packed: 가득 차 있는
+- leave behind: 두고 가다
 
 - redo the wallpaper: 도배
 - in an instant: 곧, 즉시
