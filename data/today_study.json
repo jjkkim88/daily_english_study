@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-15",
-  "generatedAt": "2026-08-14T15:00:32.500742Z",
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-15T15:00:33.019780Z",
   "vocab": [
-    "concrete: 콘크리트로 된",
-    "engage: 사로잡다, 고용하다, 관계를 맺다",
-    "readily: 손쉽게, 순조롭게, 선뜻, 기꺼이",
-    "rehabilitation: 재활",
-    "cylinder: 실린더, 원통"
+    "momentum: 탄력, 가속도",
+    "articulate: 분명히 표헌하다, 또렷한",
+    "lymphnode: 림프절",
+    "declare: 선언하다, 신고하다",
+    "preventive: 예방을 위한"
   ],
   "sentences": [
-    "Matcha lattes are all the rage these days.",
-    "I wanted my 10-year-old daughter to learn to ski properly.",
-    "The look and taste both change depending on what goes in."
+    "My sister is always beefing.",
+    "I'm now in my eighth year of helping with childcare as a grandparent.",
+    "It really made me realize how much time has passed."
   ],
   "counts": {
-    "vocabPool": 2729,
-    "sentencePool": 516
+    "vocabPool": 2733,
+    "sentencePool": 519
   }
 }
