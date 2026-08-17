@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-15T15:00:33.019780Z",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-16T15:00:25.403760Z",
   "vocab": [
-    "momentum: 탄력, 가속도",
-    "articulate: 분명히 표헌하다, 또렷한",
-    "lymphnode: 림프절",
-    "declare: 선언하다, 신고하다",
-    "preventive: 예방을 위한"
+    "orthopedic: 정형 외과의",
+    "environmental: 환경의",
+    "zinc: 아연",
+    "overworked: 과로한",
+    "stifling: 답답한, 숨막히는"
   ],
   "sentences": [
-    "My sister is always beefing.",
-    "I'm now in my eighth year of helping with childcare as a grandparent.",
-    "It really made me realize how much time has passed."
+    "I could feel my skills getting rusty.",
+    "There are days when I really don't feel like studying.",
+    "We barely get a moment to rest."
   ],
   "counts": {
     "vocabPool": 2733,
