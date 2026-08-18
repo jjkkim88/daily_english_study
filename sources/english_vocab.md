@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- enlistment: 입대
 
 - bond: 유대
 - taste: 맛, 입맛, 경험
@@ -2589,6 +2590,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- calm about: 침착한
+- hold back: 참다, 저지하다
 
 - invest in: ~에 투자하다
 
@@ -2763,6 +2766,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- my heart sank: 낙담했다
+
 - fully packed: 가득 차 있는
 - leave behind: 두고 가다
 

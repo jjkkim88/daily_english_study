@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- My heart sank the moment I heard that.
+- I had been holding back my tears.
+
 - The three of us recently took a trip to Osaka Japan.
 - We were able to enjoy a fully packed four-day trip.
 - We have the exact same taste.

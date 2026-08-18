@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-17",
-  "generatedAt": "2026-08-16T15:00:25.403760Z",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-17T15:00:30.105694Z",
   "vocab": [
-    "orthopedic: 정형 외과의",
-    "environmental: 환경의",
-    "zinc: 아연",
-    "overworked: 과로한",
-    "stifling: 답답한, 숨막히는"
+    "vicarious: 간접적인",
+    "dirt: 먼지, 흙",
+    "remarkably: 놀라울정도의",
+    "sauerkraut: 사우어크라우트",
+    "dear: 소중한, 사랑하는"
   ],
   "sentences": [
-    "I could feel my skills getting rusty.",
-    "There are days when I really don't feel like studying.",
-    "We barely get a moment to rest."
+    "Sadly, my efforts did not do much good.",
+    "I've noticed that, too.",
+    "I always get caught up in the moment."
   ],
   "counts": {
     "vocabPool": 2733,
