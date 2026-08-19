@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I'm feeling worn out beacuse of the summer heat.
+- I honestly couldn't understand the hype.
+
 - My heart sank the moment I heard that.
 - I had been holding back my tears.
 

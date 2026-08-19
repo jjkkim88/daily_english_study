@@ -1,6 +1,16 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- aggressively: 공격적으로
+- hype: 난리법석
+- flavor: 맛, 풍미
+- appreciate: 진가를 알아보다, 고마워하다, 인식하다
+- subtle: 미묘한, 교묘한, 은은한
+- buckwheat: 메밀
+- bland: 특징없는, 단조로운
+- vinegar: 식초
+
 - enlistment: 입대
 
 - bond: 유대
@@ -2590,6 +2600,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- worn out: 닳고 닳은, 매우 지친
+
 - calm about: 침착한
 - hold back: 참다, 저지하다
 

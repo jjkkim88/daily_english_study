@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-17T15:00:30.105694Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-18T15:00:33.713334Z",
   "vocab": [
-    "vicarious: 간접적인",
-    "dirt: 먼지, 흙",
-    "remarkably: 놀라울정도의",
-    "sauerkraut: 사우어크라우트",
-    "dear: 소중한, 사랑하는"
+    "mouth-watering: 군침도는",
+    "shatter: 산산조각나다, 엄청난 충격을 주다.",
+    "unconscious: 의식을 잃은, 무의식적인",
+    "recruitment: 모집",
+    "beef: 불평하다, 불평"
   ],
   "sentences": [
-    "Sadly, my efforts did not do much good.",
-    "I've noticed that, too.",
-    "I always get caught up in the moment."
+    "You should take the TV ads with a grain of salt.",
+    "When I first met her, I just thought of her as a dog.",
+    "The only way forward was to tackle English head-on."
   ],
   "counts": {
-    "vocabPool": 2733,
-    "sentencePool": 519
+    "vocabPool": 2737,
+    "sentencePool": 521
   }
 }
