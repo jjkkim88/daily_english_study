@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I follow my own three-step routine every day
+- I record myself reading articles out loud.
+- You really take it seriously.
+
 - I'm feeling worn out beacuse of the summer heat.
 - I honestly couldn't understand the hype.
 

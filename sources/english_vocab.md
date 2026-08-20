@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+- follow: 따라가다
+- verb: 동사
+- dictation: 받아쓰기
+- automatically: 자동적으로
+- seriously: 진지하게
 
 - aggressively: 공격적으로
 - hype: 난리법석
@@ -2779,6 +2784,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- out loud: 낭독하다
 
 - my heart sank: 낙담했다
 

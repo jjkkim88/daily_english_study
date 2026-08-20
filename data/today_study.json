@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-19",
-  "generatedAt": "2026-08-18T15:00:33.713334Z",
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-19T15:00:25.914907Z",
   "vocab": [
-    "mouth-watering: 군침도는",
-    "shatter: 산산조각나다, 엄청난 충격을 주다.",
-    "unconscious: 의식을 잃은, 무의식적인",
-    "recruitment: 모집",
-    "beef: 불평하다, 불평"
+    "diminishing: 절감하는",
+    "downside: 단점",
+    "transition: 전환",
+    "intricate: 정교한, 복잡한",
+    "fillet: 살코기, 뼈를 발라내다"
   ],
   "sentences": [
-    "You should take the TV ads with a grain of salt.",
-    "When I first met her, I just thought of her as a dog.",
-    "The only way forward was to tackle English head-on."
+    "Each of us is doing our best in our own way.",
+    "I have decided not to let anyone treat me carelessly.",
+    "Give it a gentle squeeze."
   ],
   "counts": {
-    "vocabPool": 2737,
-    "sentencePool": 521
+    "vocabPool": 2746,
+    "sentencePool": 523
   }
 }
