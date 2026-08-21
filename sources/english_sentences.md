@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- You will improve one step at a time.
+- I did very best today.
+- I always heap praise on her.
+
 - I follow my own three-step routine every day
 - I record myself reading articles out loud.
 - You really take it seriously.

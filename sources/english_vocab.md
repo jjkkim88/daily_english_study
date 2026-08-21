@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- poetry: 시
+- hall: 복도, 큰 방
+
 - follow: 따라가다
 - verb: 동사
 - dictation: 받아쓰기
@@ -2605,6 +2609,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- heap praise on: 격려하다, 칭찬하다
 
 - worn out: 닳고 닳은, 매우 지친
 
@@ -2784,6 +2789,12 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- poetry contest: 백일장
+- here and there: 여기저기, 틈틈이
+- one step at a time: 한걸음씩, 점진적으로
+- very best: 최선의
+
 - out loud: 낭독하다
 
 - my heart sank: 낙담했다

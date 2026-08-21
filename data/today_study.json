@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-20",
-  "generatedAt": "2026-08-19T15:00:25.914907Z",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-20T15:00:24.710533Z",
   "vocab": [
-    "diminishing: 절감하는",
-    "downside: 단점",
-    "transition: 전환",
-    "intricate: 정교한, 복잡한",
-    "fillet: 살코기, 뼈를 발라내다"
+    "dietary: 음식물의, 식이요법의, 규정량",
+    "phenomenon: 현상",
+    "devoted: 헌신적인",
+    "mandate: 권한, 명령하다",
+    "comfy: 편안한"
   ],
   "sentences": [
-    "Each of us is doing our best in our own way.",
-    "I have decided not to let anyone treat me carelessly.",
-    "Give it a gentle squeeze."
+    "My self-control snapped.",
+    "Part of me feels a little sad.",
+    "It's about an hour's drive from my home."
   ],
   "counts": {
-    "vocabPool": 2746,
-    "sentencePool": 523
+    "vocabPool": 2751,
+    "sentencePool": 526
   }
 }
