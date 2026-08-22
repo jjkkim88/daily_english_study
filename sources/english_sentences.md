@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- They crept up the rankings.
+- The team finished as runners-up this season.
+
 - You will improve one step at a time.
 - I did very best today.
 - I always heap praise on her.

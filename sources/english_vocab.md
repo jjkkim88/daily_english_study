@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- runners-up: 2위, 입상자
 
 - poetry: 시
 - hall: 복도, 큰 방
@@ -2609,6 +2610,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- creep up: 조금씩 오르다
+
 - heap praise on: 격려하다, 칭찬하다
 
 - worn out: 닳고 닳은, 매우 지친
@@ -2789,6 +2793,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- make it: 성공하다, 이뤄내다
 
 - poetry contest: 백일장
 - here and there: 여기저기, 틈틈이

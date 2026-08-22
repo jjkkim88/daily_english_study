@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-21",
-  "generatedAt": "2026-08-20T15:00:24.710533Z",
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-21T15:00:22.408301Z",
   "vocab": [
-    "dietary: 음식물의, 식이요법의, 규정량",
-    "phenomenon: 현상",
-    "devoted: 헌신적인",
-    "mandate: 권한, 명령하다",
-    "comfy: 편안한"
+    "turf: 잔디",
+    "urology: 비뇨의학과",
+    "affect: 영향을 미치다",
+    "spotless: 티끌하나 없는게",
+    "adopt: 입양하다"
   ],
   "sentences": [
-    "My self-control snapped.",
-    "Part of me feels a little sad.",
-    "It's about an hour's drive from my home."
+    "It's happened more times than I can count.",
+    "We are all still legally single.",
+    "He can fix broken toys in no time."
   ],
   "counts": {
-    "vocabPool": 2751,
-    "sentencePool": 526
+    "vocabPool": 2758,
+    "sentencePool": 529
   }
 }
