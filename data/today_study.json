@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-22",
-  "generatedAt": "2026-08-21T15:00:22.408301Z",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-22T15:00:24.504889Z",
   "vocab": [
-    "turf: 잔디",
-    "urology: 비뇨의학과",
-    "affect: 영향을 미치다",
-    "spotless: 티끌하나 없는게",
-    "adopt: 입양하다"
+    "topic: 주제",
+    "consistently: 규칙적으로 꾸준히, 일관하여",
+    "central part: 중심부",
+    "mutter: 중얼거리다, 불평하다, 중얼거림",
+    "run for: ~에 입후보하다, ~을 부르러 달려가다"
   ],
   "sentences": [
-    "It's happened more times than I can count.",
-    "We are all still legally single.",
-    "He can fix broken toys in no time."
+    "Football is also an easy topic for small talk.",
+    "I didn't want to let each day's new topic slip by.",
+    "I'm doing what people call vibe coding, a hot topic these days."
   ],
   "counts": {
-    "vocabPool": 2758,
-    "sentencePool": 529
+    "vocabPool": 2761,
+    "sentencePool": 531
   }
 }
