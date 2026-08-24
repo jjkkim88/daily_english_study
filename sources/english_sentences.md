@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- One of the greatest joys in life is eating delicious food.
+- It was really hard to keep up.
+- I started to get the hang of it.
+- My mind went blank.
+
 - They crept up the rankings.
 - The team finished as runners-up this season.
 

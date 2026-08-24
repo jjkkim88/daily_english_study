@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- culinary: 요리의
+- blank: 빈, 멍한
+
 - runners-up: 2위, 입상자
 
 - poetry: 시
@@ -2610,6 +2614,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- keep up: 따라가다
 
 - creep up: 조금씩 오르다
 
@@ -2793,6 +2798,13 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- one of: ~중 하나
+- written test: 필기 시험
+- practical test: 실기 시험
+- egg strips: 지단
+- get the hang of: ~할 줄 알게 되다
+
 - make it: 성공하다, 이뤄내다
 
 - poetry contest: 백일장
