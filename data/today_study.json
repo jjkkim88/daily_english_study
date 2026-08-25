@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-23T15:00:28.005811Z",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-24T15:00:34.411798Z",
   "vocab": [
-    "accessible: 접근이 편리한",
-    "hand in hand: 서로 손을 잡고",
-    "souvenir: 기념품",
-    "toss: 던지다, 건네다",
-    "stream: 개울, 줄기, 흐르다"
+    "fascinate: 사로잡다, 매료하다",
+    "auditor: 회계감사관",
+    "stargazing: 천문학, 별을 보는",
+    "watercolor: 수채화 물감, 수채화",
+    "campaign: 캠페인"
   ],
   "sentences": [
-    "I resolved to do my homework using only my own abilities.",
-    "Even making a small bag required many do-overs.",
-    "When I thought about life priorities in the past, it felt vague and grandiose."
+    "I decided to hit the books again.",
+    "We really got to unwind.",
+    "Even if someone misses a day or two, they can just jump back in like nothing happened."
   ],
   "counts": {
-    "vocabPool": 2761,
-    "sentencePool": 531
+    "vocabPool": 2768,
+    "sentencePool": 534
   }
 }

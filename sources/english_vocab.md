@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- skip: 뛰다, 건너뛰다
+- attitude: 태도, 사고방식
+- confidently: 자신있게
 
 - culinary: 요리의
 - blank: 빈, 멍한
@@ -2614,6 +2617,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- give up on: ~을 단념하다
+- take on: 떠맡다, 도전에 나서다
+
 - keep up: 따라가다
 
 - creep up: 조금씩 오르다
@@ -2798,6 +2805,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- come to one's senses: 정신을 차리다
 
 - one of: ~중 하나
 - written test: 필기 시험

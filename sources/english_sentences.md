@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I completely changed my attitude.
+- I'm a student who confidently takes on challenges.
+- I suddenly came to my senses.
+
 - One of the greatest joys in life is eating delicious food.
 - It was really hard to keep up.
 - I started to get the hang of it.
