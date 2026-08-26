@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I got to enjoy a day out for the first time in a while.
+- Let's call it a day.
+- We can come back another time.
+
 - I completely changed my attitude.
 - I'm a student who confidently takes on challenges.
 - I suddenly came to my senses.

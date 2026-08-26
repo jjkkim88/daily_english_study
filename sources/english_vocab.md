@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- tag: 꼬리표, 술래잡기
+- look: 표정
+- involve: 포함하다
+
 - skip: 뛰다, 건너뛰다
 - attitude: 태도, 사고방식
 - confidently: 자신있게
@@ -2617,6 +2622,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- chase around: 여기저기 쫓아다니다
+- day out: 방문
 
 - give up on: ~을 단념하다
 - take on: 떠맡다, 도전에 나서다
@@ -2805,6 +2812,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- for the first time in a while: 오랜만에
+- call it a day: 그만하기로 하다
+- another time: 이 다음에
+
 - come to one's senses: 정신을 차리다
 
 - one of: ~중 하나

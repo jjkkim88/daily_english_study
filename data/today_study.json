@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-25",
-  "generatedAt": "2026-08-24T15:00:34.411798Z",
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T15:00:34.315053Z",
   "vocab": [
-    "fascinate: 사로잡다, 매료하다",
-    "auditor: 회계감사관",
-    "stargazing: 천문학, 별을 보는",
-    "watercolor: 수채화 물감, 수채화",
-    "campaign: 캠페인"
+    "see a boyfriend: 남자친구를 사귀다",
+    "outcome: 결과",
+    "pavilion: 별관, 경기장, 정자",
+    "compensate: 보상하다, 보상금을 주다",
+    "participant: 참가자"
   ],
   "sentences": [
-    "I decided to hit the books again.",
-    "We really got to unwind.",
-    "Even if someone misses a day or two, they can just jump back in like nothing happened."
+    "I keep putting it off.",
+    "One of the greatest joys in life is eating delicious food.",
+    "I just skimmed through it."
   ],
   "counts": {
-    "vocabPool": 2768,
-    "sentencePool": 534
+    "vocabPool": 2774,
+    "sentencePool": 537
   }
 }
