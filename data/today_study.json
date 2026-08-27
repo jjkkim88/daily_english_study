@@ -1,20 +1,18 @@
 {
-  "date": "2026-08-26",
-  "generatedAt": "2026-08-25T15:00:34.315053Z",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-26T15:00:27.425161Z",
   "vocab": [
-    "see a boyfriend: 남자친구를 사귀다",
-    "outcome: 결과",
-    "pavilion: 별관, 경기장, 정자",
-    "compensate: 보상하다, 보상금을 주다",
-    "participant: 참가자"
+    "funeral: 장례식",
+    "relative: 친척, 비교상의 상대적인",
+    "dark spot: 잡티, 기미",
+    "severance pay: 퇴직금",
+    "ages ago: 옛날에"
   ],
   "sentences": [
-    "I keep putting it off.",
-    "One of the greatest joys in life is eating delicious food.",
-    "I just skimmed through it."
+    "It looks like it's from ages ago."
   ],
   "counts": {
-    "vocabPool": 2774,
-    "sentencePool": 537
+    "vocabPool": 2782,
+    "sentencePool": 540
   }
 }
