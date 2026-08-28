@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- librarian: 사서
+- greet: 환영하다, 받아들이다
+- craving: 갈망, 열망
+- wavelength: 파장
 
 - tag: 꼬리표, 술래잡기
 - look: 표정
@@ -2622,6 +2626,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- settle into : 자리잡다
+- immerse in: 푹 담구다, 몰두하게 하다
+
 - chase around: 여기저기 쫓아다니다
 - day out: 방문
 
@@ -2812,6 +2820,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- in earnest: 본격적으로
 
 - for the first time in a while: 오랜만에
 - call it a day: 그만하기로 하다

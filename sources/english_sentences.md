@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- We pick something we've been craving.
+- I was immersed in my book and lost track of time.
+- We must be on the same wavelength.
+
 - I got to enjoy a day out for the first time in a while.
 - Let's call it a day.
 - We can come back another time.

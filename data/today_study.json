@@ -1,15 +1,15 @@
 {
-  "date": "2026-08-27",
-  "generatedAt": "2026-08-26T15:00:27.425161Z",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-27T15:00:28.006861Z",
   "vocab": [
-    "funeral: 장례식",
-    "relative: 친척, 비교상의 상대적인",
-    "dark spot: 잡티, 기미",
-    "severance pay: 퇴직금",
-    "ages ago: 옛날에"
+    "mushy: 물컹물컹한",
+    "non-majors: 비전공자",
+    "rights: 권리",
+    "beloved: 인기많은, 사랑하는",
+    "pest: 해충"
   ],
   "sentences": [
-    "It looks like it's from ages ago."
+    "I only thought of it as another appliance, but now it feels like a beloved companion."
   ],
   "counts": {
     "vocabPool": 2782,
