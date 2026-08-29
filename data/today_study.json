@@ -1,18 +1,20 @@
 {
-  "date": "2026-08-28",
-  "generatedAt": "2026-08-27T15:00:28.006861Z",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-28T15:00:33.825540Z",
   "vocab": [
-    "mushy: 물컹물컹한",
-    "non-majors: 비전공자",
-    "rights: 권리",
-    "beloved: 인기많은, 사랑하는",
-    "pest: 해충"
+    "herbal: 허브의, 약초로 만든",
+    "witness: 목격자, 증인, 목격하다",
+    "margin: 차이, 여백",
+    "circulation: 순환",
+    "conduct: 하다, 지휘하다, 행동"
   ],
   "sentences": [
-    "I only thought of it as another appliance, but now it feels like a beloved companion."
+    "I plan to keep studying English in my free time so that one day I can work as an English teacher, too.",
+    "I wanted to play, too, but I held myself back.",
+    "it's easier on the eyes."
   ],
   "counts": {
-    "vocabPool": 2782,
-    "sentencePool": 540
+    "vocabPool": 2789,
+    "sentencePool": 543
   }
 }
