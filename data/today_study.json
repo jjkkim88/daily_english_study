@@ -1,17 +1,16 @@
 {
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-28T15:00:33.825540Z",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-29T15:00:25.803444Z",
   "vocab": [
-    "herbal: 허브의, 약초로 만든",
-    "witness: 목격자, 증인, 목격하다",
-    "margin: 차이, 여백",
-    "circulation: 순환",
-    "conduct: 하다, 지휘하다, 행동"
+    "decompress: 기압이 줄다, 압축풀다, 스트레스 줄이다",
+    "growling: 꼬르륵 거리는, 으르렁 거리는",
+    "facilities: 설비, 시설",
+    "sole: 유일한, 혼자의, 발바닥",
+    "appropriately: 적당하게, 알맞게"
   ],
   "sentences": [
-    "I plan to keep studying English in my free time so that one day I can work as an English teacher, too.",
-    "I wanted to play, too, but I held myself back.",
-    "it's easier on the eyes."
+    "My stomach has been growling for a while now.",
+    "Neither of us really had a hobby to decompress from work."
   ],
   "counts": {
     "vocabPool": 2789,
