@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I think that's the most exciting part of planning a trip.
+- Let's just book it for now.
+- We can choose either way.
+
 - We pick something we've been craving.
 - I was immersed in my book and lost track of time.
 - We must be on the same wavelength.

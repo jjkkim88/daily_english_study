@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-29T15:00:25.803444Z",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-30T15:00:29.624966Z",
   "vocab": [
-    "decompress: 기압이 줄다, 압축풀다, 스트레스 줄이다",
-    "growling: 꼬르륵 거리는, 으르렁 거리는",
-    "facilities: 설비, 시설",
-    "sole: 유일한, 혼자의, 발바닥",
-    "appropriately: 적당하게, 알맞게"
+    "greet: 환영하다, 받아들이다",
+    "dispense: 배출하다, 제공하다",
+    "naturally: 물론, 자연스럽게",
+    "neurotransmitter: 신경 전달 물질",
+    "C: 걱정 마세요."
   ],
   "sentences": [
-    "My stomach has been growling for a while now.",
-    "Neither of us really had a hobby to decompress from work."
+    "It just flowed naturally in an English interview I had recently.",
+    "If you take this home, it will ripen naturally."
   ],
   "counts": {
     "vocabPool": 2789,

@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- accommodation: 거처, 숙소
+- cancellation: 취소
+
 - librarian: 사서
 - greet: 환영하다, 받아들이다
 - craving: 갈망, 열망
@@ -2626,6 +2630,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- look through: 훑어보다
 
 - settle into : 자리잡다
 - immerse in: 푹 담구다, 몰두하게 하다
@@ -2820,6 +2825,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- travel date: 여행날짜
+- book ~ for now: 일단 예약하기
+- either way: 어느쪽이든
+
 - in earnest: 본격적으로
 
 - for the first time in a while: 오랜만에
