@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- frugally: 검소하게
+- townhouse: 도시 주택
+- deeply: 깊이
 
 - accommodation: 거처, 숙소
 - cancellation: 취소
@@ -2825,6 +2828,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- mix of: 복합적인
 
 - travel date: 여행날짜
 - book ~ for now: 일단 예약하기

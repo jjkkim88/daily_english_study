@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I haven't really thought deeply about it yet.
+- It's a mix of relief and sadness.
+
 - I think that's the most exciting part of planning a trip.
 - Let's just book it for now.
 - We can choose either way.

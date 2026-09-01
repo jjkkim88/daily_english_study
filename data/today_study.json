@@ -1,19 +1,20 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-30T15:00:29.624966Z",
+  "date": "2026-09-01",
+  "generatedAt": "2026-08-31T15:00:30.299200Z",
   "vocab": [
-    "greet: 환영하다, 받아들이다",
-    "dispense: 배출하다, 제공하다",
-    "naturally: 물론, 자연스럽게",
-    "neurotransmitter: 신경 전달 물질",
-    "C: 걱정 마세요."
+    "rigid: 엄격한, 융통성 없는",
+    "microvascular: 미세혈관의",
+    "cardiovascular: 심혈관계",
+    "swerve: 갑자기 방향을 바꾼다. S모양을 그리며 간다",
+    "separation anxiety: 분리 불안"
   ],
   "sentences": [
-    "It just flowed naturally in an English interview I had recently.",
-    "If you take this home, it will ripen naturally."
+    "I could feel my skills getting rusty.",
+    "In the beginning, just getting my form right was really hard.",
+    "They are a lot more expensive than you'd think."
   ],
   "counts": {
-    "vocabPool": 2789,
-    "sentencePool": 543
+    "vocabPool": 2795,
+    "sentencePool": 546
   }
 }
