@@ -1,20 +1,19 @@
 {
-  "date": "2026-09-01",
-  "generatedAt": "2026-08-31T15:00:30.299200Z",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-01T15:00:28.008617Z",
   "vocab": [
-    "rigid: 엄격한, 융통성 없는",
-    "microvascular: 미세혈관의",
-    "cardiovascular: 심혈관계",
-    "swerve: 갑자기 방향을 바꾼다. S모양을 그리며 간다",
-    "separation anxiety: 분리 불안"
+    "cradle: 아기침대",
+    "convincing: 설득력 있는, 확실한",
+    "preposition: 전치사",
+    "eligibility: 적임, 적격, 자격요건",
+    "keen on: ~에 관심이 많은"
   ],
   "sentences": [
-    "I could feel my skills getting rusty.",
-    "In the beginning, just getting my form right was really hard.",
-    "They are a lot more expensive than you'd think."
+    "I was not too keen on the idea.",
+    "There are no special eligibility requirements for the exam."
   ],
   "counts": {
-    "vocabPool": 2795,
-    "sentencePool": 546
+    "vocabPool": 2799,
+    "sentencePool": 548
   }
 }

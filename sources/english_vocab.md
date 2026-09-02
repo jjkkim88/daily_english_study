@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- orchestra: 오케스트라
+
 - frugally: 검소하게
 - townhouse: 도시 주택
 - deeply: 깊이
@@ -2633,6 +2636,11 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- gather up: 끌어모으다
+- put in: 제출하다
+- lost myself in: 심취하다
+
 - look through: 훑어보다
 
 - settle into : 자리잡다
@@ -2828,6 +2836,14 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- it so happens that: 우연히도
+- gather up the courage: 용기를 내다
+- at the time: 그 당시
+- take to the stage: 무대에 오르다
+- no matter how: ~일지라도
+- every single day: 매일매일
+
 - mix of: 복합적인
 
 - travel date: 여행날짜

@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I gathered up the courage to put in an application.
+- I really lost myself in practicing every single day.
+
 - I haven't really thought deeply about it yet.
 - It's a mix of relief and sadness.
 
