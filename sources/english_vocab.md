@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- noticeably: 뚜렷한, 현저한, 분명한
+- headquarters: 본사
 
 - orchestra: 오케스트라
 
@@ -2836,6 +2838,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- different story: 전혀 다른
+- keep going: 계속 견디다
 
 - it so happens that: 우연히도
 - gather up the courage: 용기를 내다

@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- It was a completely different story.
+- It gives me a strength to keep going.
+
 - I gathered up the courage to put in an application.
 - I really lost myself in practicing every single day.
 

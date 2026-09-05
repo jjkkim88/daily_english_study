@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-02T15:00:27.900098Z",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-04T15:00:32.433342Z",
   "vocab": [
-    "cheer someone on: ~를 응원하다",
-    "slim: 날씬한, 얇은",
-    "immunity: 면역력",
-    "sustain: 계속시키다, 살아가게 하다",
-    "foggy: 안개 낀, 멍한"
+    "compliment: 칭찬하다",
+    "https://www.yes24.com/Product/Goods/129055169",
+    "thoughtlessly: 아무 생각 없이, 인정 없게",
+    "agonized: 고뇌에 찬",
+    "conserve: 아끼다, 보호하다"
   ],
   "sentences": [
-    "I used to feel foggy.",
-    "She has a slim build."
+    "I agonized over it for a whole month.",
+    "Find one good thing about your spouse every day and compliment them on it."
   ],
   "counts": {
-    "vocabPool": 2809,
-    "sentencePool": 550
+    "vocabPool": 2812,
+    "sentencePool": 552
   }
 }
