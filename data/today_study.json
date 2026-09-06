@@ -1,16 +1,17 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-04T15:00:32.433342Z",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-05T15:00:33.328131Z",
   "vocab": [
-    "compliment: 칭찬하다",
-    "https://www.yes24.com/Product/Goods/129055169",
-    "thoughtlessly: 아무 생각 없이, 인정 없게",
-    "agonized: 고뇌에 찬",
-    "conserve: 아끼다, 보호하다"
+    "spasm: 경련",
+    "in-laws: 시부모, 장인, 장모",
+    "accidentally: 우연히, 뜻하지 않게",
+    "proper: 적절한, 제대로 된",
+    "frustrated: 답답한"
   ],
   "sentences": [
-    "I agonized over it for a whole month.",
-    "Find one good thing about your spouse every day and compliment them on it."
+    "I often got frustrated because things didn't go the way I want it.",
+    "In the end, it just left me feeling frustrated.",
+    "There are times when I get frustrated because it feels like I'm not making any gains."
   ],
   "counts": {
     "vocabPool": 2812,
