@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-06",
-  "generatedAt": "2026-09-05T15:00:33.328131Z",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-06T15:00:29.616250Z",
   "vocab": [
-    "spasm: 경련",
-    "in-laws: 시부모, 장인, 장모",
-    "accidentally: 우연히, 뜻하지 않게",
-    "proper: 적절한, 제대로 된",
-    "frustrated: 답답한"
+    "screech: 귀에 거슬리는 소리를 내다",
+    "bookshelf: 책꽃이",
+    "scam: 사기, 속임수",
+    "marginalize: ~을 하찮게 대하다, ~을 소외되게 하다",
+    "exotic: 이국적인"
   ],
   "sentences": [
-    "I often got frustrated because things didn't go the way I want it.",
-    "In the end, it just left me feeling frustrated.",
-    "There are times when I get frustrated because it feels like I'm not making any gains."
+    "I put so much effort into my studies.",
+    "We take a 40-minutes bus ride downtown to get a snack together.",
+    "In many ways, we are complete opposites."
   ],
   "counts": {
     "vocabPool": 2812,

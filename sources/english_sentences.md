@@ -1,5 +1,11 @@
 # ✍ 외울 문장 정리
 
+- The only exercise I got was breathing.
+- I noticed that my stamina had dropped.
+- I should stand up straight.
+- I signed up for one-on-one personal training.
+- I feel like I'm rich in spirit
+
 - It was a completely different story.
 - It gives me a strength to keep going.
 

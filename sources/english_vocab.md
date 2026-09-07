@@ -1,6 +1,14 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- breathing: 호흡
+- stamina: 체력
+- activate: 작동시키다, 활성화하다
+- posture: 자세
+- one-on-one: 일대일의
+- spirit: 정신
+
 - noticeably: 뚜렷한, 현저한, 분명한
 - headquarters: 본사
 
@@ -2638,6 +2646,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- stand up: 서 있다
+- rich in: ~이 풍부한
 
 - gather up: 끌어모으다
 - put in: 제출하다
