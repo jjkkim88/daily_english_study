@@ -1,20 +1,20 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-06T15:00:29.616250Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-07T15:00:32.209555Z",
   "vocab": [
-    "screech: 귀에 거슬리는 소리를 내다",
-    "bookshelf: 책꽃이",
-    "scam: 사기, 속임수",
-    "marginalize: ~을 하찮게 대하다, ~을 소외되게 하다",
-    "exotic: 이국적인"
+    "come to mind: 생각이 떠오르다",
+    "slice: 조각, 썰다",
+    "synthesis: 합성",
+    "installment: 분할 불입금",
+    "find out about: ~에 존재를 알아채다"
   ],
   "sentences": [
-    "I put so much effort into my studies.",
-    "We take a 40-minutes bus ride downtown to get a snack together.",
-    "In many ways, we are complete opposites."
+    "It was an unforgettable experience for our whole family.",
+    "Do you eat it raw?",
+    "She looked truly relaxed for the first time in a long while."
   ],
   "counts": {
-    "vocabPool": 2812,
-    "sentencePool": 552
+    "vocabPool": 2819,
+    "sentencePool": 557
   }
 }

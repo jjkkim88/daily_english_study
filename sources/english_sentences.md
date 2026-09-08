@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- It felt refreshingly different.
+- It brings back a lot of memories.
+
 - The only exercise I got was breathing.
 - I noticed that my stamina had dropped.
 - I should stand up straight.

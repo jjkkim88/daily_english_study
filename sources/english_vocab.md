@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- refreshingly: 참신하게, 새롭게
 
 - breathing: 호흡
 - stamina: 체력
@@ -2646,6 +2647,11 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- drive in: 차를 타고 들어가다
+- look around: 둘러보다
+- bring back: 소환하다
+
 - stand up: 서 있다
 - rich in: ~이 풍부한
 
@@ -2848,6 +2854,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- the year after next: 내후년
+
 - different story: 전혀 다른
 - keep going: 계속 견디다
 
