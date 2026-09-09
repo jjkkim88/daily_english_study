@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- A little pressure helps me stay consistent.
+- I've naturally become familiar with sentence structures.
+- Everyone is really dedicated.
+
 - It felt refreshingly different.
 - It brings back a lot of memories.
 

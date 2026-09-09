@@ -1,20 +1,19 @@
 {
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-07T15:00:32.209555Z",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-08T15:00:28.005758Z",
   "vocab": [
-    "come to mind: 생각이 떠오르다",
-    "slice: 조각, 썰다",
-    "synthesis: 합성",
-    "installment: 분할 불입금",
-    "find out about: ~에 존재를 알아채다"
+    "perpetuating: 영구화하다, 영속시키다",
+    "gentle: 온화한, 부드러운, 조용한, 가벼운, 부드럽게 하다",
+    "develomental: 발달 상의, 발달 중인",
+    "brief: 짧은, 잠시 동안의, 간단한, 업무 지침서",
+    "fluctuate: 등락을 거듭하다"
   ],
   "sentences": [
-    "It was an unforgettable experience for our whole family.",
-    "Do you eat it raw?",
-    "She looked truly relaxed for the first time in a long while."
+    "Give it a gentle squeeze.",
+    "The weather was sunny with a gentle breeze."
   ],
   "counts": {
-    "vocabPool": 2819,
-    "sentencePool": 557
+    "vocabPool": 2824,
+    "sentencePool": 559
   }
 }

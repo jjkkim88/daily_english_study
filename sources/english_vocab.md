@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- form: 유형, 형성하다
+- pressure: 압박, 압력
+- consistent: 일관된, 변함없는
+- dedicated: 헌신적인, 열정을 불태우는
+
 - refreshingly: 참신하게, 새롭게
 
 - breathing: 호흡
@@ -2647,6 +2653,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- become familiar with: 익숙해지다, 익히다
 
 - drive in: 차를 타고 들어가다
 - look around: 둘러보다
@@ -2854,6 +2861,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- all the way: 내내
 
 - the year after next: 내후년
 
