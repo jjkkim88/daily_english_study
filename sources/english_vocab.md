@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- self-published: 자가 출판의
 
 - form: 유형, 형성하다
 - pressure: 압박, 압력
@@ -2653,6 +2654,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- stand for: ~을 상징하다, ~의 약자이다
+- stay up: 안자다, 깨어있다
+
 - become familiar with: 익숙해지다, 익히다
 
 - drive in: 차를 타고 들어가다
@@ -2861,6 +2866,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- the office of education: 교육청
+- over the course of a year: 일년에 걸처
+- come to something: 총합이 ~이다
+
 - all the way: 내내
 
 - the year after next: 내후년

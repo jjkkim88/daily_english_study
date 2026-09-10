@@ -1,19 +1,20 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-08T15:00:28.005758Z",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-09T15:06:16.119106Z",
   "vocab": [
-    "perpetuating: 영구화하다, 영속시키다",
-    "gentle: 온화한, 부드러운, 조용한, 가벼운, 부드럽게 하다",
-    "develomental: 발달 상의, 발달 중인",
-    "brief: 짧은, 잠시 동안의, 간단한, 업무 지침서",
-    "fluctuate: 등락을 거듭하다"
+    "discourage: 좌절시키다, 막다",
+    "appreciate: 고마워하다, 인식하다, 진가를 알아보다",
+    "workout: 운동",
+    "perfection: 완벽",
+    "clarify: 명확하게 하다, 분명히 말하다"
   ],
   "sentences": [
-    "Give it a gentle squeeze.",
-    "The weather was sunny with a gentle breeze."
+    "I don't even want to go anywhere near it.",
+    "They also added that it would be nice to donate the proceeds to charity.",
+    "It really hit me."
   ],
   "counts": {
-    "vocabPool": 2824,
-    "sentencePool": 559
+    "vocabPool": 2829,
+    "sentencePool": 562
   }
 }

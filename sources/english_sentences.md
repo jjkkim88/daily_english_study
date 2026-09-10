@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- We wrote a book together over the course of a year.
+- POD stands for "publish on demand".
+- I stayed up for three straight nights editing the book.
+
 - A little pressure helps me stay consistent.
 - I've naturally become familiar with sentence structures.
 - Everyone is really dedicated.
