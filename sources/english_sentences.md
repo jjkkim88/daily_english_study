@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- The pain disappeared in an instant.
+- It turned out well?
+
 - We wrote a book together over the course of a year.
 - POD stands for "publish on demand".
 - I stayed up for three straight nights editing the book.

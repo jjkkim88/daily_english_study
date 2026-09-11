@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- eardrum: 고막
+- firmly: 단호히
+- pinch: 꼬집다, 꼭 집다
+- underwater: 물속의
+
 - self-published: 자가 출판의
 
 - form: 유형, 형성하다
@@ -2654,6 +2660,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- pair up with: ~와 짝을 이루다
+- turn out: 되다, 드러나다
 
 - stand for: ~을 상징하다, ~의 약자이다
 - stay up: 안자다, 깨어있다
@@ -2866,6 +2874,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- be terrified of: ~에 공포가 있다
+- in an instant: 곧, 당장, 즉시
 
 - the office of education: 교육청
 - over the course of a year: 일년에 걸처

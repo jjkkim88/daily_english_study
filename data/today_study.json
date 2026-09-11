@@ -1,20 +1,19 @@
 {
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-09T15:06:16.119106Z",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-10T15:00:39.807159Z",
   "vocab": [
-    "discourage: 좌절시키다, 막다",
-    "appreciate: 고마워하다, 인식하다, 진가를 알아보다",
-    "workout: 운동",
-    "perfection: 완벽",
+    "fluffy: 푹신해 보이는, 솜털 같은",
+    "double-check: 재확인하다",
+    "shake-up: 뒤들어 놓는",
+    "agonized: 고뇌에 찬",
     "clarify: 명확하게 하다, 분명히 말하다"
   ],
   "sentences": [
-    "I don't even want to go anywhere near it.",
-    "They also added that it would be nice to donate the proceeds to charity.",
-    "It really hit me."
+    "I agonized over it for a whole month.",
+    "Now I have developed the habit of double-checking the laundry before I start the machine."
   ],
   "counts": {
-    "vocabPool": 2829,
-    "sentencePool": 562
+    "vocabPool": 2835,
+    "sentencePool": 565
   }
 }
