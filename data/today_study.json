@@ -1,17 +1,15 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-11T15:00:31.297223Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-12T15:00:23.215162Z",
   "vocab": [
-    "traumatic: 대단히 충격적인",
-    "footage: 장면",
-    "Ghanaian: 가나의",
-    "perfection: 완벽",
-    "discipline: 훈육, 규율, 징계하다"
+    "dominant: 우세한, 지배적인",
+    "polished: 윤이 나는",
+    "cultivate: 경작하다",
+    "either way: 어느쪽이든",
+    "inventive: 창의적인, 독창적인"
   ],
   "sentences": [
-    "I gathered up the courage to put in an application.",
-    "So she can play just about any song.",
-    "No one showed me the ropes"
+    "We can choose either way."
   ],
   "counts": {
     "vocabPool": 2843,
