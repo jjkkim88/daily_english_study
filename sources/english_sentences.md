@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- There are as many kinds of English as there are countries.
+- I'm improving my English one step at a time.
+- I have to concentrate really hard during every meeting.
+
 - The pain disappeared in an instant.
 - It turned out well?
 

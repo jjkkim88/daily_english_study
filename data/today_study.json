@@ -1,15 +1,17 @@
 {
-  "date": "2026-09-13",
-  "generatedAt": "2026-09-12T15:00:23.215162Z",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-13T15:00:24.313317Z",
   "vocab": [
-    "dominant: 우세한, 지배적인",
-    "polished: 윤이 나는",
-    "cultivate: 경작하다",
-    "either way: 어느쪽이든",
-    "inventive: 창의적인, 독창적인"
+    "loyalty: 충성",
+    "congressional: 의회의",
+    "premature birth: 조산",
+    "hives: 두드러기",
+    "unpleasant: 불편한, 무례한"
   ],
   "sentences": [
-    "We can choose either way."
+    "Life has its ups and downs.",
+    "Since it fell on a weekday, we didn't get a chance to eat out as a family.",
+    "I asked him what was holding him back."
   ],
   "counts": {
     "vocabPool": 2843,

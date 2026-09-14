@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+- multinational: 다국적의
+- accent: 말씨, 억양
+- catchphrase: 문구, 선전, 구호
+- effectively: 효과적으로
+- concentrate: 집중하다
 
 - eardrum: 고막
 - firmly: 단호히
@@ -2660,6 +2665,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- figure out: 생각해 내다
+
 - pair up with: ~와 짝을 이루다
 - turn out: 되다, 드러나다
 
@@ -2874,6 +2882,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- as ~ as: 만큼 ~한
+- one step at a time: 한걸음씩
+
 - be terrified of: ~에 공포가 있다
 - in an instant: 곧, 당장, 즉시
 
