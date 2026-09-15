@@ -1,20 +1,20 @@
 {
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-13T15:00:24.313317Z",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-14T15:00:24.403283Z",
   "vocab": [
-    "loyalty: 충성",
-    "congressional: 의회의",
-    "premature birth: 조산",
-    "hives: 두드러기",
-    "unpleasant: 불편한, 무례한"
+    "corporate: 기업의, 법인의",
+    "sincere: 진심 어린, 진실된",
+    "scam: 사기, 속임수",
+    "safeguard: 보호하다, 안전장치",
+    "metallurgical: 야금의"
   ],
   "sentences": [
-    "Life has its ups and downs.",
-    "Since it fell on a weekday, we didn't get a chance to eat out as a family.",
-    "I asked him what was holding him back."
+    "Around this time next year, he will be a college student.",
+    "That was when my daughter had a baby, and I started helping out with childcare.",
+    "I write down whatever thoughts and feelings came up."
   ],
   "counts": {
-    "vocabPool": 2843,
-    "sentencePool": 567
+    "vocabPool": 2851,
+    "sentencePool": 570
   }
 }

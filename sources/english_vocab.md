@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- affectionate: 다정한, 애정 어린
+- frustrating: 답답한, 불만스러운
+
 - multinational: 다국적의
 - accent: 말씨, 억양
 - catchphrase: 문구, 선전, 구호
@@ -2665,6 +2669,8 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- get back: 돌아오는 것
+- listen in: 엿듣다, 듣다
 
 - figure out: 생각해 내다
 
@@ -2882,6 +2888,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- first-time mom: 초보엄마
+- stuffed dog: 강아지 인형
+- pretend to: ~인 체하다
 
 - as ~ as: 만큼 ~한
 - one step at a time: 한걸음씩

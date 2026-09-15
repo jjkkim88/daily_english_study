@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I pretend to be stuffed dog Mango while we lie in bed.
+- Listening in on his daily life that way is a lot of fun.
+- It feels frustrating.
+
 - There are as many kinds of English as there are countries.
 - I'm improving my English one step at a time.
 - I have to concentrate really hard during every meeting.
