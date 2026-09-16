@@ -1,6 +1,10 @@
 # 📘 영어 단어 정리
 
 ## Words
+- urging: 재촉하는, 성가신
+- withdrawal: 철회, 취소, 회수, 금단
+- cough: 기침
+- phlegm: 가래
 
 - affectionate: 다정한, 애정 어린
 - frustrating: 답답한, 불만스러운
@@ -2669,6 +2673,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- pass away: 별세하다
+
 - get back: 돌아오는 것
 - listen in: 엿듣다, 듣다
 
@@ -2888,6 +2895,12 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- over and over again: 반복해서
+- kick the habit: 나쁜 습관을 버리다
+- cold turkey: 갑자기 끊다
+- get cravings: 땡기다
+
 - first-time mom: 초보엄마
 - stuffed dog: 강아지 인형
 - pretend to: ~인 체하다

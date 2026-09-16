@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I finally kicked the habit.
+- My cough and phlegm were gone.
+- I quit cold turkey back then.
+- I still get cravings once in a while.
+
 - I pretend to be stuffed dog Mango while we lie in bed.
 - Listening in on his daily life that way is a lot of fun.
 - It feels frustrating.
