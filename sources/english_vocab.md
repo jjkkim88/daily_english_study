@@ -1,6 +1,13 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- nowadays: 요즘에는
+- overlooked: 간과하다, 못 본 체하다
+- considered: 중히 여기다, 깊이 생각한
+- gratitude: 고마움
+- philosophy: 철학
+
 - urging: 재촉하는, 성가신
 - withdrawal: 철회, 취소, 회수, 금단
 - cough: 기침
@@ -2895,6 +2902,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- back then: 당시에는
+- let go: 놓다
+- peace of mind: 마음의 평안
 
 - over and over again: 반복해서
 - kick the habit: 나쁜 습관을 버리다

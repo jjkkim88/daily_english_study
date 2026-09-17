@@ -1,19 +1,20 @@
 {
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-15T15:00:27.005995Z",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-16T15:00:30.398722Z",
   "vocab": [
-    "farsightedness: 원시",
-    "bells and whistles: 추가로 덧붙여진 것들",
-    "conquer: 정복하다, 이기다",
-    "unfamiliar: 낮선, 잘 모르는",
-    "scribble: 갈겨쓰다, 낙서하다"
+    "setting: 환경, 배경, 설정",
+    "embrace: 받아들이다",
+    "stand by me: 의리를 지키다, 내곁에 서다",
+    "invaluable: 매우 귀중한",
+    "denied: 거부된, 부인하다"
   ],
   "sentences": [
-    "I would just buy a simple esspresso maker without all the bells and whistles.",
-    "I decided to set out on my own to conquer New York City."
+    "My friends said they would stand by me.",
+    "In a foreign setting we had long conversations over drinks with our adult son.",
+    "I start by setting aside my concern and giving my mind a break."
   ],
   "counts": {
-    "vocabPool": 2857,
-    "sentencePool": 573
+    "vocabPool": 2866,
+    "sentencePool": 577
   }
 }

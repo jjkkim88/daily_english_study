@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- It was often overlooked.
+- Let go of unnecessary attachments.
+- It taught me how to live with peace of mind.
+
 - I finally kicked the habit.
 - My cough and phlegm were gone.
 - I quit cold turkey back then.
