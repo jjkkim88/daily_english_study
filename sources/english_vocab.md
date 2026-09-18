@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- humming: 윙윙거리는, 콧노래 부르느
 
 - nowadays: 요즘에는
 - overlooked: 간과하다, 못 본 체하다
@@ -2680,6 +2681,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- satisfied with: 만족하다
 
 - pass away: 별세하다
 
@@ -2902,6 +2904,12 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- in earnest: 본격적으로, 진심으로
+- on one's own: 혼자서, 단독으로
+- no idea: 모르다
+- keep at: 계속하게 하다
+
 - back then: 당시에는
 - let go: 놓다
 - peace of mind: 마음의 평안

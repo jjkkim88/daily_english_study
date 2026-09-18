@@ -1,20 +1,19 @@
 {
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-16T15:00:30.398722Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-17T15:00:29.513611Z",
   "vocab": [
-    "setting: 환경, 배경, 설정",
-    "embrace: 받아들이다",
-    "stand by me: 의리를 지키다, 내곁에 서다",
-    "invaluable: 매우 귀중한",
-    "denied: 거부된, 부인하다"
+    "upsetting: 속상하게 하는",
+    "anxiously: 불안해하며, 염려하며",
+    "military: 군인",
+    "spike: 뾰족한 것, 찌르다",
+    "devastated: 엄천난 충격을 받은"
   ],
   "sentences": [
-    "My friends said they would stand by me.",
-    "In a foreign setting we had long conversations over drinks with our adult son.",
-    "I start by setting aside my concern and giving my mind a break."
+    "I waited anxiously all day.",
+    "As a mom, it was a really upsetting and discouraging."
   ],
   "counts": {
-    "vocabPool": 2866,
-    "sentencePool": 577
+    "vocabPool": 2874,
+    "sentencePool": 580
   }
 }

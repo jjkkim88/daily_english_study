@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I never felt fully satisfied with my skill level.
+- I started on my own, watching vocal training videos on YouTube.
+- I had no idea what that meant at first.
+- I'm going to keep at it anyway.
+
 - It was often overlooked.
 - Let go of unnecessary attachments.
 - It taught me how to live with peace of mind.
