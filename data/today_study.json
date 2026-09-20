@@ -1,15 +1,16 @@
 {
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-18T15:00:24.612966Z",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-19T15:00:27.703552Z",
   "vocab": [
-    "stagger: 비틀거리다, 시차를 두다",
-    "swell up: 부어오르다",
-    "resolutely: 단호히, 결연히",
-    "renewable: 제생 가능한",
-    "banyan: 반얀, 뱅갈"
+    "instrument: 기구, 악기",
+    "one of: ~중 하나",
+    "officiant: 사제, 주례",
+    "loach: 미꾸라지",
+    "embracing: 껴안는, 포용하는"
   ],
   "sentences": [
-    "Their mouths can swell up, and in severe cases, they can even have difficulty breathing."
+    "One of the greatest joys in life is eating delicious food.",
+    "It felt refreshing to focus on playing an instrument for the first time in a while."
   ],
   "counts": {
     "vocabPool": 2880,
