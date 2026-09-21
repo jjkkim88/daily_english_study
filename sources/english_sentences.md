@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- A saying comes to mind.
+- Sometimes it seems pointless because no trace is left behind.
+- The effort I put into drawing it remains.
+- The very act of study brings me joy.
+
 - I never felt fully satisfied with my skill level.
 - I started on my own, watching vocal training videos on YouTube.
 - I had no idea what that meant at first.

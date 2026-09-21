@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- carve: 조각하다
+- pointless: 무의미한, 할 가치가 없는
+- trace: 추적하다, 찾아내다, 그리다, 흔적
+- effort: 노력
+
 - humming: 윙윙거리는, 콧노래 부르느
 
 - nowadays: 요즘에는
@@ -2681,6 +2687,10 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- keep up: 계속되다
+- put into: ~에 들어가다
+
 - satisfied with: 만족하다
 
 - pass away: 별세하다
@@ -2904,6 +2914,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- come to mind: 생각이 떠오르다
 
 - in earnest: 본격적으로, 진심으로
 - on one's own: 혼자서, 단독으로

@@ -1,16 +1,17 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-19T15:00:27.703552Z",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-20T15:00:24.314189Z",
   "vocab": [
-    "instrument: 기구, 악기",
-    "one of: ~중 하나",
-    "officiant: 사제, 주례",
-    "loach: 미꾸라지",
-    "embracing: 껴안는, 포용하는"
+    "workout: 운동",
+    "feature: 특징, 기능, 특징을 이루다",
+    "issue: 발급하다",
+    "pose: 제기하다, 포즈, 자세",
+    "root for: 응원하다"
   ],
   "sentences": [
-    "One of the greatest joys in life is eating delicious food.",
-    "It felt refreshing to focus on playing an instrument for the first time in a while."
+    "When I was a new hire, I promised myself that I would become an open-minded senior.",
+    "I felt like I was on top of the world.",
+    "The mushrooms have quite a strong smell"
   ],
   "counts": {
     "vocabPool": 2880,
