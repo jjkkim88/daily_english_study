@@ -1,20 +1,18 @@
 {
-  "date": "2026-09-21",
-  "generatedAt": "2026-09-20T15:00:24.314189Z",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-21T15:00:26.808344Z",
   "vocab": [
-    "workout: 운동",
-    "feature: 특징, 기능, 특징을 이루다",
-    "issue: 발급하다",
-    "pose: 제기하다, 포즈, 자세",
-    "root for: 응원하다"
+    "instructor: 강사",
+    "grumble: 투덜 거리다, 불만사항",
+    "encourage: 격려하다, 용기를 복돋우다",
+    "over and over: 반복해서",
+    "intricate: 복잡한"
   ],
   "sentences": [
-    "When I was a new hire, I promised myself that I would become an open-minded senior.",
-    "I felt like I was on top of the world.",
-    "The mushrooms have quite a strong smell"
+    "She thanked me over and over."
   ],
   "counts": {
-    "vocabPool": 2880,
-    "sentencePool": 584
+    "vocabPool": 2886,
+    "sentencePool": 588
   }
 }
