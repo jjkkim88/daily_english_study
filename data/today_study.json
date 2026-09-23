@@ -1,15 +1,16 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-21T15:00:26.808344Z",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-22T15:00:25.826209Z",
   "vocab": [
-    "instructor: 강사",
-    "grumble: 투덜 거리다, 불만사항",
-    "encourage: 격려하다, 용기를 복돋우다",
-    "over and over: 반복해서",
-    "intricate: 복잡한"
+    "gastritis: 위염",
+    "live apart: 떨어져 살다",
+    "nerve: 신경, 용기를 내어 ~하다",
+    "instructor: 강사, 전임 강사",
+    "sideburn: 구렛나룻"
   ],
   "sentences": [
-    "She thanked me over and over."
+    "We all live apart.",
+    "We chose to live apart instead."
   ],
   "counts": {
     "vocabPool": 2886,
