@@ -1,16 +1,17 @@
 {
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-22T15:00:25.826209Z",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-23T15:00:22.112654Z",
   "vocab": [
-    "gastritis: 위염",
-    "live apart: 떨어져 살다",
-    "nerve: 신경, 용기를 내어 ~하다",
-    "instructor: 강사, 전임 강사",
-    "sideburn: 구렛나룻"
+    "dispatch: 파견, 보내다",
+    "wobbles: 흔들리다, 뒤뚱거리다, 흔들림",
+    "greet: 환영하다, 반응을 보이다",
+    "solidify: 굳어지다, 굳히다",
+    "numb: 감각이 없는, 멍한"
   ],
   "sentences": [
-    "We all live apart.",
-    "We chose to live apart instead."
+    "A little pressure helps me stay consistent.",
+    "It's not enforced by law.",
+    "I was blown away by the view."
   ],
   "counts": {
     "vocabPool": 2886,
