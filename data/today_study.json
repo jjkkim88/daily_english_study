@@ -1,17 +1,15 @@
 {
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-23T15:00:22.112654Z",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-24T15:00:24.998390Z",
   "vocab": [
-    "dispatch: 파견, 보내다",
-    "wobbles: 흔들리다, 뒤뚱거리다, 흔들림",
-    "greet: 환영하다, 반응을 보이다",
-    "solidify: 굳어지다, 굳히다",
-    "numb: 감각이 없는, 멍한"
+    "fulfilled: 성취감을 느끼는",
+    "just around the corner: 입박하여",
+    "acquisition: 습득, 구입한 것, 인수",
+    "hesitate: 망설이다, 주저하다",
+    "transition: 전환"
   ],
   "sentences": [
-    "A little pressure helps me stay consistent.",
-    "It's not enforced by law.",
-    "I was blown away by the view."
+    "I'm a late-in-life mom with 60 just around the corner."
   ],
   "counts": {
     "vocabPool": 2886,
