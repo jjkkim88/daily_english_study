@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-24T15:00:24.998390Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-25T15:00:29.611976Z",
   "vocab": [
-    "fulfilled: 성취감을 느끼는",
-    "just around the corner: 입박하여",
-    "acquisition: 습득, 구입한 것, 인수",
-    "hesitate: 망설이다, 주저하다",
-    "transition: 전환"
+    "proper: 적절한, 제대로 된",
+    "droplet: 작은 물방울",
+    "district: 지역, 구역",
+    "gather up: 끌어모으다",
+    "precious : 귀중한"
   ],
   "sentences": [
-    "I'm a late-in-life mom with 60 just around the corner."
+    "That one month away from Korea was a precious gift for our family, opening our eyes to a much bigger world."
   ],
   "counts": {
     "vocabPool": 2886,
