@@ -1,15 +1,17 @@
 {
-  "date": "2026-09-26",
-  "generatedAt": "2026-09-25T15:00:29.611976Z",
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-26T15:00:30.096704Z",
   "vocab": [
-    "proper: 적절한, 제대로 된",
-    "droplet: 작은 물방울",
-    "district: 지역, 구역",
-    "gather up: 끌어모으다",
-    "precious : 귀중한"
+    "wart: 사마귀",
+    "blare: 요란하게 울리다, 요란한 소리",
+    "overpriced: 너무 비싼",
+    "C-section: 제왕절개술",
+    "orientation: 방향, 예비 교육"
   ],
   "sentences": [
-    "That one month away from Korea was a precious gift for our family, opening our eyes to a much bigger world."
+    "I want to share three things I've learned from my experience behind the wheel.",
+    "I only thought of it as another appliance, but now it feels like a beloved companion.",
+    "I was so anxious that morning that I broke into a cold sweat."
   ],
   "counts": {
     "vocabPool": 2886,
