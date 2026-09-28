@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-26T15:00:30.096704Z",
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-27T15:00:27.032042Z",
   "vocab": [
-    "wart: 사마귀",
-    "blare: 요란하게 울리다, 요란한 소리",
-    "overpriced: 너무 비싼",
-    "C-section: 제왕절개술",
-    "orientation: 방향, 예비 교육"
+    "traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다",
+    "admire: 존경하다, 감탄하며 바라보다",
+    "entrepreneurial: 기업가적인",
+    "mourner: 문상객",
+    "worn: 해진, 닳은"
   ],
   "sentences": [
-    "I want to share three things I've learned from my experience behind the wheel.",
-    "I only thought of it as another appliance, but now it feels like a beloved companion.",
-    "I was so anxious that morning that I broke into a cold sweat."
+    "I'm feeling worn out beacuse of the summer heat.",
+    "I started to feel worn out.",
+    "Both my body and my heart were completely worn out."
   ],
   "counts": {
     "vocabPool": 2886,

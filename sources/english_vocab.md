@@ -1,6 +1,7 @@
 # 📘 영어 단어 정리
 
 ## Words
+- attraction: 끌림, 명소
 
 - carve: 조각하다
 - pointless: 무의미한, 할 가치가 없는
@@ -2687,6 +2688,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- great deal about: ~에 대해 많이 알다
 
 - keep up: 계속되다
 - put into: ~에 들어가다
@@ -2914,6 +2916,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- never heard of: 금시초문이다
+
 - come to mind: 생각이 떠오르다
 
 - in earnest: 본격적으로, 진심으로

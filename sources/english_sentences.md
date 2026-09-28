@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- He knew a great deal about Korea.
+- I had never heard of that name before.
+
 - A saying comes to mind.
 - Sometimes it seems pointless because no trace is left behind.
 - The effort I put into drawing it remains.
