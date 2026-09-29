@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Does anyone really pass out after getting hit once in real life?
+- It was kind of funny.
+- Was it not to your liking?
+
 - He knew a great deal about Korea.
 - I had never heard of that name before.
 

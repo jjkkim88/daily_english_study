@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- marksmen: 명사수
+- unconscious: 의식이 없는, 무의식적인
+- knock: 두드리다, 부수다
+- liking: 취향, 좋아함
+
 - attraction: 끌림, 명소
 
 - carve: 조각하다
@@ -2688,6 +2694,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- pass out: 의식을 잃다
+
 - great deal about: ~에 대해 많이 알다
 
 - keep up: 계속되다
@@ -2916,6 +2925,7 @@
 - put ~ off: 미루다
 
 ## Idioms
+- kind of: 약간, 어느 정도
 
 - never heard of: 금시초문이다
 

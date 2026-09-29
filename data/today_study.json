@@ -1,20 +1,20 @@
 {
-  "date": "2026-09-28",
-  "generatedAt": "2026-09-27T15:00:27.032042Z",
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-28T15:00:28.109341Z",
   "vocab": [
-    "traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다",
-    "admire: 존경하다, 감탄하며 바라보다",
-    "entrepreneurial: 기업가적인",
-    "mourner: 문상객",
-    "worn: 해진, 닳은"
+    "stance: 자세, 입장",
+    "breathtaking: 숨이 막히는",
+    "go for: ~을 시도하다, ~을 좋아하다",
+    "gentle: 온화한, 부드러운, 조용한, 가벼운, 부드럽게 하다",
+    "no idea: 모르다"
   ],
   "sentences": [
-    "I'm feeling worn out beacuse of the summer heat.",
-    "I started to feel worn out.",
-    "Both my body and my heart were completely worn out."
+    "My husband encouraged me to really go for it this time.",
+    "The weather was sunny with a gentle breeze.",
+    "Give it a gentle squeeze."
   ],
   "counts": {
-    "vocabPool": 2886,
-    "sentencePool": 588
+    "vocabPool": 2889,
+    "sentencePool": 590
   }
 }
