@@ -1,20 +1,18 @@
 {
-  "date": "2026-09-29",
-  "generatedAt": "2026-09-28T15:00:28.109341Z",
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-29T15:00:27.716179Z",
   "vocab": [
-    "stance: 자세, 입장",
-    "breathtaking: 숨이 막히는",
-    "go for: ~을 시도하다, ~을 좋아하다",
-    "gentle: 온화한, 부드러운, 조용한, 가벼운, 부드럽게 하다",
-    "no idea: 모르다"
+    "urology: 비뇨의학과",
+    "deciphering: 복호화",
+    "stuffed dog: 강아지 인형",
+    "defensively: 방어적으로",
+    "seamlessly: 균일하게, 이음매가 없는"
   ],
   "sentences": [
-    "My husband encouraged me to really go for it this time.",
-    "The weather was sunny with a gentle breeze.",
-    "Give it a gentle squeeze."
+    "I pretend to be stuffed dog Mango while we lie in bed."
   ],
   "counts": {
-    "vocabPool": 2889,
-    "sentencePool": 590
+    "vocabPool": 2895,
+    "sentencePool": 593
   }
 }
