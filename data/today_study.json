@@ -1,15 +1,17 @@
 {
-  "date": "2026-09-30",
-  "generatedAt": "2026-09-29T15:00:27.716179Z",
+  "date": "2026-10-01",
+  "generatedAt": "2026-09-30T15:00:34.519838Z",
   "vocab": [
-    "urology: 비뇨의학과",
-    "deciphering: 복호화",
-    "stuffed dog: 강아지 인형",
-    "defensively: 방어적으로",
-    "seamlessly: 균일하게, 이음매가 없는"
+    "undetected: 발견되지 않은",
+    "postpartum: 산후의",
+    "temporarily: 임시적으로",
+    "divine: 신성한, 멋진",
+    "promote: 촉진하다, 홍보하다, 승진시키다"
   ],
   "sentences": [
-    "I pretend to be stuffed dog Mango while we lie in bed."
+    "I quickly pulled the car over to the shoulder.",
+    "It felt like all the bad energy had vanished from my body.",
+    "There are no special eligibility requirements for the exam."
   ],
   "counts": {
     "vocabPool": 2895,

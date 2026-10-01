@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- dopamine: 도파민
+- obsession: 집착, 강박
+- exhausted: 기진맥진한, 고갈된
 
 - marksmen: 명사수
 - unconscious: 의식이 없는, 무의식적인
@@ -2694,6 +2697,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- stay away: 거리를 두다
 
 - pass out: 의식을 잃다
 
@@ -2925,6 +2929,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- at some point: 한때, 어느 순간에, 언젠가
+- all the time: 내내, 줄곧
+
 - kind of: 약간, 어느 정도
 
 - never heard of: 금시초문이다

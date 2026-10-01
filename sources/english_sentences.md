@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- Stay away from electronic devices when you are exhausted.
+- About 70 percent of modern adults are said to experience burnout at some point.
+- You used to watch short-from videos all the time.
+
 - Does anyone really pass out after getting hit once in real life?
 - It was kind of funny.
 - Was it not to your liking?
