@@ -1,20 +1,18 @@
 {
-  "date": "2026-10-01",
-  "generatedAt": "2026-09-30T15:00:34.519838Z",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-01T15:00:30.410431Z",
   "vocab": [
-    "undetected: 발견되지 않은",
-    "postpartum: 산후의",
-    "temporarily: 임시적으로",
-    "divine: 신성한, 멋진",
-    "promote: 촉진하다, 홍보하다, 승진시키다"
+    "despite: ~에도 불구하고, 자기도 모르게",
+    "dementia: 치매",
+    "shameful: 수치스러운, 창피한, 부끄러운",
+    "report: 알리다, 발표하다, 보고",
+    "play one's own part: 역할을 하다, 맡은 바를 다하다"
   ],
   "sentences": [
-    "I quickly pulled the car over to the shoulder.",
-    "It felt like all the bad energy had vanished from my body.",
-    "There are no special eligibility requirements for the exam."
+    "Despite its terrible stench, many people love it for its unique flavor."
   ],
   "counts": {
-    "vocabPool": 2895,
-    "sentencePool": 593
+    "vocabPool": 2899,
+    "sentencePool": 596
   }
 }

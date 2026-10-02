@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- so-called: 소위, 이른바
+- clutter: 채우다, 잡동사니
+- flow: 흐름
+- lighthearted: 근심 걱정 없는, 마음 편한
+
 - dopamine: 도파민
 - obsession: 집착, 강박
 - exhausted: 기진맥진한, 고갈된
@@ -2697,6 +2703,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- empty out: 비워내다
+
 - stay away: 거리를 두다
 
 - pass out: 의식을 잃다

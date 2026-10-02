@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I'm emptying out all the clutter in my head.
+- I feel more lighthearted as I start the day.
+
 - Stay away from electronic devices when you are exhausted.
 - About 70 percent of modern adults are said to experience burnout at some point.
 - You used to watch short-from videos all the time.
