@@ -1,18 +1,20 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-01T15:00:30.410431Z",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-02T15:00:36.097324Z",
   "vocab": [
-    "despite: ~에도 불구하고, 자기도 모르게",
-    "dementia: 치매",
-    "shameful: 수치스러운, 창피한, 부끄러운",
-    "report: 알리다, 발표하다, 보고",
-    "play one's own part: 역할을 하다, 맡은 바를 다하다"
+    "relatively: 비교적",
+    "but then: 하지만 또, 하기는",
+    "go in past: ~너머 들어가다",
+    "intentionally: 고의로",
+    "unfold: 펼쳐지다, 전개되다"
   ],
   "sentences": [
-    "Despite its terrible stench, many people love it for its unique flavor."
+    "The weather was sunny with a gentle breeze.",
+    "Once she hit puberty, she started to lose confidence in everything.",
+    "The look and taste both change depending on what goes in."
   ],
   "counts": {
-    "vocabPool": 2899,
-    "sentencePool": 596
+    "vocabPool": 2903,
+    "sentencePool": 598
   }
 }

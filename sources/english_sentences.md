@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- It immediately caught my interest.
+- We met on a blind date.
+- It makes me feel that we were destined to meet.
+- It's my kind of thing.
+
 - I'm emptying out all the clutter in my head.
 - I feel more lighthearted as I start the day.
 

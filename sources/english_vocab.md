@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- lifestyle: 생활방식
+- destined: ~할 운명인
 
 - so-called: 소위, 이른바
 - clutter: 채우다, 잡동사니
@@ -2938,6 +2940,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+- in common: 공통으로
+- catch my interest: 흥미를 끌다
+- on a blind date: 소개팅으로
+- one's kind of thing: ~의 취향인 것
 
 - at some point: 한때, 어느 순간에, 언젠가
 - all the time: 내내, 줄곧
