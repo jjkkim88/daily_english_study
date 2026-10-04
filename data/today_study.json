@@ -1,20 +1,18 @@
 {
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-02T15:00:36.097324Z",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-03T15:00:26.601793Z",
   "vocab": [
-    "relatively: 비교적",
-    "but then: 하지만 또, 하기는",
-    "go in past: ~너머 들어가다",
-    "intentionally: 고의로",
-    "unfold: 펼쳐지다, 전개되다"
+    "onset: 시작",
+    "uneasy: 불안한, 우려되는, 뒤숭숭한",
+    "nerve: 신경, 용기를 내어 ~하다",
+    "typhoon: 태풍",
+    "lasting: 지속적인, 영속적인"
   ],
   "sentences": [
-    "The weather was sunny with a gentle breeze.",
-    "Once she hit puberty, she started to lose confidence in everything.",
-    "The look and taste both change depending on what goes in."
+    "I hope this small change will become a lasting habit."
   ],
   "counts": {
-    "vocabPool": 2903,
-    "sentencePool": 598
+    "vocabPool": 2908,
+    "sentencePool": 602
   }
 }
