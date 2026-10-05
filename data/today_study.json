@@ -1,15 +1,17 @@
 {
-  "date": "2026-10-04",
-  "generatedAt": "2026-10-03T15:00:26.601793Z",
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-04T15:00:26.603484Z",
   "vocab": [
-    "onset: 시작",
-    "uneasy: 불안한, 우려되는, 뒤숭숭한",
-    "nerve: 신경, 용기를 내어 ~하다",
-    "typhoon: 태풍",
-    "lasting: 지속적인, 영속적인"
+    "experience: 경험하다, 경험",
+    "inspire: 영감을 주다, 불어넣다",
+    "someday: 언젠가",
+    "unfold: 펼쳐지다, 전개되다",
+    "traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다"
   ],
   "sentences": [
-    "I hope this small change will become a lasting habit."
+    "I hope the experience becomes a valuable foundation for them later in life.",
+    "I want to share three things I've learned from my experience behind the wheel.",
+    "I was traumatized by that experience."
   ],
   "counts": {
     "vocabPool": 2908,
