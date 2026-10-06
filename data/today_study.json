@@ -1,17 +1,15 @@
 {
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-04T15:00:26.603484Z",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-05T15:00:27.701708Z",
   "vocab": [
-    "experience: 경험하다, 경험",
-    "inspire: 영감을 주다, 불어넣다",
-    "someday: 언젠가",
-    "unfold: 펼쳐지다, 전개되다",
-    "traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다"
+    "usher: 안내원",
+    "mascot: 마스코트",
+    "cut-and-dried: 틀에 박힌, 이미 정해진",
+    "split up: 헤어지다, 나뉘다",
+    "depressing: 우울한, 우울하게 만드는"
   ],
   "sentences": [
-    "I hope the experience becomes a valuable foundation for them later in life.",
-    "I want to share three things I've learned from my experience behind the wheel.",
-    "I was traumatized by that experience."
+    "Our members have split up."
   ],
   "counts": {
     "vocabPool": 2908,

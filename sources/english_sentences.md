@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- I wish she could stay little for a bit longer.
+- Before you know it, she will be off to college.
+
 - It immediately caught my interest.
 - We met on a blind date.
 - It makes me feel that we were destined to meet.

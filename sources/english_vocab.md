@@ -2705,6 +2705,7 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+- keep somebody up: ~를 잠자리에 들지 못하게 하다
 
 - empty out: 비워내다
 
@@ -2940,6 +2941,10 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- a bit: 조금
+- off to: ~로 갈 예정이다
+
 - in common: 공통으로
 - catch my interest: 흥미를 끌다
 - on a blind date: 소개팅으로
