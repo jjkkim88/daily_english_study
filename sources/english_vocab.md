@@ -1,6 +1,11 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- long-term: 장기의
+- treat: 대하다, 여기다, 처리하다
+- indirectly: 간접적으로
+
 - lifestyle: 생활방식
 - destined: ~할 운명인
 
@@ -2941,6 +2946,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- strike up a conversation: 대화를 시작하다
+- fall into a slump: 슬럼프에 빠지다
+- keep at it: 견디어내다, 계속하다
 
 - a bit: 조금
 - off to: ~로 갈 예정이다

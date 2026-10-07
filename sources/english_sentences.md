@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I set a long-term goal for myself.
+- There were times when I fell into a slump.
+- I always treated English as a hobby and kept at it.
+
 - I wish she could stay little for a bit longer.
 - Before you know it, she will be off to college.
 

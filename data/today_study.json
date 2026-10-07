@@ -1,18 +1,20 @@
 {
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-05T15:00:27.701708Z",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-06T15:00:26.711593Z",
   "vocab": [
-    "usher: 안내원",
-    "mascot: 마스코트",
-    "cut-and-dried: 틀에 박힌, 이미 정해진",
-    "split up: 헤어지다, 나뉘다",
-    "depressing: 우울한, 우울하게 만드는"
+    "eggplant: 가지",
+    "autograph: 사인, 사인을 해주다",
+    "mess: 엉망인, 엉망으로",
+    "refreshing: 신선한, 상쾌한",
+    "conquer: 정복하다, 이기다"
   ],
   "sentences": [
-    "Our members have split up."
+    "Getting it all out feels very refreshing.",
+    "I decided to set out on my own to conquer New York City.",
+    "It felt refreshing to focus on playing an instrument for the first time in a while."
   ],
   "counts": {
-    "vocabPool": 2908,
-    "sentencePool": 602
+    "vocabPool": 2911,
+    "sentencePool": 604
   }
 }
