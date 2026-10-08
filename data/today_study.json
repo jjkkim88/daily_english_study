@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-06T15:00:26.711593Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-07T15:00:29.520877Z",
   "vocab": [
-    "eggplant: 가지",
-    "autograph: 사인, 사인을 해주다",
-    "mess: 엉망인, 엉망으로",
-    "refreshing: 신선한, 상쾌한",
-    "conquer: 정복하다, 이기다"
+    "recurrence: 되풀이, 반복, 재발",
+    "severe: 극심한, 심각한",
+    "temperament: 기질",
+    "companion: 동반자, 친구",
+    "fascinating: 대단히 흥미로운, 매력적인"
   ],
   "sentences": [
-    "Getting it all out feels very refreshing.",
-    "I decided to set out on my own to conquer New York City.",
-    "It felt refreshing to focus on playing an instrument for the first time in a while."
+    "Their mouths can swell up, and in severe cases, they can even have difficulty breathing.",
+    "I only thought of it as another appliance, but now it feels like a beloved companion.",
+    "It was fascinating to watch them grow so quickly."
   ],
   "counts": {
-    "vocabPool": 2911,
-    "sentencePool": 604
+    "vocabPool": 2916,
+    "sentencePool": 607
   }
 }
