@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I love eating good food.
+- I have developed an eye for knowing whether a post is genuine or sponsored.
+- I'll pick a few for you.
+
 - I set a long-term goal for myself.
 - There were times when I fell into a slump.
 - I always treated English as a hobby and kept at it.

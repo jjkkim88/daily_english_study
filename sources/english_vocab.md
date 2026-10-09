@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+- foodie: 식도락가
+- dozen: 12개 한 다스
+- genuine: 진짜의, 진실한
 
 - long-term: 장기의
 - treat: 대하다, 여기다, 처리하다
@@ -2946,6 +2949,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- good food: 맛있는 음식
+- develop an eye for: ~의 안목이 생기다
+- a few: 몇 개
+
 - strike up a conversation: 대화를 시작하다
 - fall into a slump: 슬럼프에 빠지다
 - keep at it: 견디어내다, 계속하다

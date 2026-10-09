@@ -1,17 +1,16 @@
 {
-  "date": "2026-10-08",
-  "generatedAt": "2026-10-07T15:00:29.520877Z",
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-08T15:00:28.303096Z",
   "vocab": [
-    "recurrence: 되풀이, 반복, 재발",
-    "severe: 극심한, 심각한",
-    "temperament: 기질",
-    "companion: 동반자, 친구",
-    "fascinating: 대단히 흥미로운, 매력적인"
+    "pose: 제기하다, 질문하다, 포즈",
+    "exhausting: 진을 뺴는",
+    "devour: 집어삼키다, 걸신 드린 듯 먹다",
+    "compliment: 칭찬, 칭찬하다",
+    "diversify: 다각화하다, 다양해지다"
   ],
   "sentences": [
-    "Their mouths can swell up, and in severe cases, they can even have difficulty breathing.",
-    "I only thought of it as another appliance, but now it feels like a beloved companion.",
-    "It was fascinating to watch them grow so quickly."
+    "It could be exhausting at times.",
+    "Find one good thing about your spouse every day and compliment them on it."
   ],
   "counts": {
     "vocabPool": 2916,
