@@ -1,19 +1,18 @@
 {
-  "date": "2026-10-09",
-  "generatedAt": "2026-10-08T15:00:28.303096Z",
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-09T15:00:31.119340Z",
   "vocab": [
-    "pose: 제기하다, 질문하다, 포즈",
-    "exhausting: 진을 뺴는",
-    "devour: 집어삼키다, 걸신 드린 듯 먹다",
-    "compliment: 칭찬, 칭찬하다",
-    "diversify: 다각화하다, 다양해지다"
+    "urology: 비뇨의학과",
+    "rusty: 녹슨, 예전같지 않은",
+    "wearable: 착용감이 좋은, 착용하기 적합한",
+    "designate: 지정하다, 지명하다",
+    "pivotal: 중심이 되는"
   ],
   "sentences": [
-    "It could be exhausting at times.",
-    "Find one good thing about your spouse every day and compliment them on it."
+    "I could feel my skills getting rusty."
   ],
   "counts": {
-    "vocabPool": 2916,
-    "sentencePool": 607
+    "vocabPool": 2921,
+    "sentencePool": 610
   }
 }
