@@ -1,15 +1,17 @@
 {
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-09T15:00:31.119340Z",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-10T15:00:28.899422Z",
   "vocab": [
-    "urology: 비뇨의학과",
-    "rusty: 녹슨, 예전같지 않은",
-    "wearable: 착용감이 좋은, 착용하기 적합한",
-    "designate: 지정하다, 지명하다",
-    "pivotal: 중심이 되는"
+    "admire: 존경하다, 칭찬하다, 감탄하며 바라보다",
+    "workload: 업무량, 작업량",
+    "mutter: 중얼거리다, 불평하다, 중얼거림",
+    "severance: 단절",
+    "noteworthy: 주목할 만한"
   ],
   "sentences": [
-    "I could feel my skills getting rusty."
+    "A lot of members were enthusiastic about the idea.",
+    "I felt like I was on top of the world.",
+    "I was given a referral for more testing."
   ],
   "counts": {
     "vocabPool": 2921,
