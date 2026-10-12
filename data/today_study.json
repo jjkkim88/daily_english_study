@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-10T15:00:28.899422Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-11T15:00:28.701919Z",
   "vocab": [
-    "admire: 존경하다, 칭찬하다, 감탄하며 바라보다",
-    "workload: 업무량, 작업량",
-    "mutter: 중얼거리다, 불평하다, 중얼거림",
-    "severance: 단절",
-    "noteworthy: 주목할 만한"
+    "insecurity: 두려움, 컴플렉스",
+    "consistently: 지속적으로",
+    "anticipation: 기대, 예측",
+    "invest in: ~에 투자하다",
+    "pistachio: 피스타치오"
   ],
   "sentences": [
-    "A lot of members were enthusiastic about the idea.",
-    "I felt like I was on top of the world.",
-    "I was given a referral for more testing."
+    "That anticipation makes the whole day feel richer.",
+    "It made me want to finally overcome my insecurity about speaking English.",
+    "We were filled with anticipation."
   ],
   "counts": {
     "vocabPool": 2921,

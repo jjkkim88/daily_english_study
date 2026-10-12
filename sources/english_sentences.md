@@ -1,5 +1,10 @@
 # ✍ 외울 문장 정리
 
+- I thought I was seeing things.
+- I didn't think much of it.
+- I saw a black bean sticking out of his left nostril.
+- I break into a sweat.
+
 - I love eating good food.
 - I have developed an eye for knowing whether a post is genuine or sponsored.
 - I'll pick a few for you.

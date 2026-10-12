@@ -1,6 +1,9 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- nostrils: 콧구멍
+
 - foodie: 식도락가
 - dozen: 12개 한 다스
 - genuine: 진짜의, 진실한
@@ -2713,6 +2716,9 @@
 - traumatize: 정신적 외상을 초래하다, 엄청난 충격을 주다
 
 ## Phrasal Verbs
+
+- come over: 건너오다
+
 - keep somebody up: ~를 잠자리에 들지 못하게 하다
 
 - empty out: 비워내다
@@ -2949,6 +2955,9 @@
 - put ~ off: 미루다
 
 ## Idioms
+- be seeing things: 헛것을 보디
+- much of: 크게 ~한
+- break into a sweat: 식은땀이 흐르다
 
 - good food: 맛있는 음식
 - develop an eye for: ~의 안목이 생기다
