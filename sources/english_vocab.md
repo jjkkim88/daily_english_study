@@ -1,6 +1,8 @@
 # 📘 영어 단어 정리
 
 ## Words
+- perspective: 관점, 시각
+- metropolitan: 대도시의
 
 - nostrils: 콧구멍
 
@@ -2955,6 +2957,11 @@
 - put ~ off: 미루다
 
 ## Idioms
+
+- welcome voice: 반가운 목소리
+- can't help but: ~하지 않을 수 없다.
+- no woner: 그도 그럴 것이
+
 - be seeing things: 헛것을 보디
 - much of: 크게 ~한
 - break into a sweat: 식은땀이 흐르다

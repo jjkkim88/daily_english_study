@@ -1,20 +1,18 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-11T15:00:28.701919Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-12T15:00:38.219366Z",
   "vocab": [
-    "insecurity: 두려움, 컴플렉스",
-    "consistently: 지속적으로",
-    "anticipation: 기대, 예측",
-    "invest in: ~에 투자하다",
-    "pistachio: 피스타치오"
+    "transformative: 변화시키는",
+    "destruction: 파괴",
+    "run for: ~에 입후보하다, ~을 부르러 달려가다",
+    "accent: 억양, 강조",
+    "end up: 결국 처하게 되다"
   ],
   "sentences": [
-    "That anticipation makes the whole day feel richer.",
-    "It made me want to finally overcome my insecurity about speaking English.",
-    "We were filled with anticipation."
+    "it's hard to follow because everyone speaks with a different accent."
   ],
   "counts": {
-    "vocabPool": 2921,
-    "sentencePool": 610
+    "vocabPool": 2926,
+    "sentencePool": 614
   }
 }

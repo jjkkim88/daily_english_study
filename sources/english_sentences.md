@@ -1,5 +1,9 @@
 # ✍ 외울 문장 정리
 
+- I heard a welcome voice.
+- I can't help but hear the announcements, too.
+- No wonder the voice sounds so familiar.
+
 - I thought I was seeing things.
 - I didn't think much of it.
 - I saw a black bean sticking out of his left nostril.
