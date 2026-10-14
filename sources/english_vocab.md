@@ -1,6 +1,12 @@
 # 📘 영어 단어 정리
 
 ## Words
+
+- stiff: 뻣뻣한
+- tense: 뭉친
+- endorse: 지지하다, 보증하다
+- difference: 차이
+
 - perspective: 관점, 시각
 - metropolitan: 대도시의
 
@@ -2957,6 +2963,8 @@
 - put ~ off: 미루다
 
 ## Idioms
+- on one's side: ~의 측에서, 옆으로
+- part of me wants to: 그런 마음이 있다
 
 - welcome voice: 반가운 목소리
 - can't help but: ~하지 않을 수 없다.

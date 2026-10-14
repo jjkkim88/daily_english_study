@@ -1,5 +1,8 @@
 # ✍ 외울 문장 정리
 
+- My neck and shoulders often feel stiff.
+- The right pillow can make a big difference.
+
 - I heard a welcome voice.
 - I can't help but hear the announcements, too.
 - No wonder the voice sounds so familiar.
